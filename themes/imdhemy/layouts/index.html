@@ -1,0 +1,25 @@
+<html lang="en">
+<head>
+    <title>imdhemy</title>
+</head>
+<body>
+
+<h2>Blog</h2>
+{{- range first 10 .Data.Pages -}}
+{{- if eq .Type "blog"}}
+
+{{- range first 10 .Data.Pages -}}
+<h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+{{- end }}
+
+{{- end -}}
+{{- end }}
+<h2>Pages</h2>
+{{- range first 10 .Data.Pages -}}
+{{- if eq .Type "page" }}
+<h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+{{- end -}}
+{{- end }}
+
+</body>
+</html>

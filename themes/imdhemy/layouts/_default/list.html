@@ -1,0 +1,4 @@
+<h1>{{ .Title }}</h1>
+{{- range first 10 .Data.Pages }}
+<h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+{{- end }}
