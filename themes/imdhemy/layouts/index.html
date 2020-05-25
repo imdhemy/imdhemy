@@ -5,30 +5,27 @@
     <link rel="stylesheet" href="./../main.css">
 </head>
 <body>
-{{ .Content }}
 
-<aside class="side-menu-holder">
-    <nav>
-        {{- range first 10 .Data.Pages -}}
-        {{- if eq .Type "page" }}
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
+<div class="page-container">
+    <div class="logo-container">
+        <p>D</p>
+    </div>
+    
+    {{ partial "header.html" . }}
+    
+    <main class="blogs-list-holder">
+        <h2>Blog</h2>
+        <!-- get blog posts only start -->
+        {{- range where .Pages "Section" "blog" -}}
+        <!-- loop blog posts start -->
+        {{- range .Pages -}}
+        <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
         {{- end -}}
+        <!-- loop blog posts end -->
         {{- end }}
-    </nav>
-</aside>
-
-<main class="blogs-list-holder">
-    <h2>Blog</h2>
-    <!-- get blog posts only start -->
-    {{- range where .Pages "Section" "blog" -}}
-    <!-- loop blog posts start -->
-    {{- range .Pages -}}
-    <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-    {{- end -}}
-    <!-- loop blog posts end -->
-    {{- end }}
-    <!-- get blog posts only end -->
-</main>
+        <!-- get blog posts only end -->
+    </main>
+</div>
 
 <script>
     let mq = window.matchMedia("(max-width: 700px)")
