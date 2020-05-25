@@ -1,0 +1,12 @@
+<aside class="side-menu-holder">
+    <nav>
+        <li>
+            <a class="active" href="/">Home</a>
+        </li>
+        {{- range first 10 .Data.Pages -}}
+        <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+        {{- end }}
+    </nav>
+</aside>
