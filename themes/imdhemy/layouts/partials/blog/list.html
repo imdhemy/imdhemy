@@ -1,0 +1,12 @@
+<main class="blogs-list-holder">
+    <h2>Blog</h2>
+    <!-- get blog posts only start -->
+    {{- range where .Pages "Section" "blog" -}}
+    <!-- loop blog posts start -->
+    {{- range .Pages -}}
+    <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+    {{- end -}}
+    <!-- loop blog posts end -->
+    {{- end }}
+    <!-- get blog posts only end -->
+</main>
