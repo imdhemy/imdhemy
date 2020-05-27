@@ -11,8 +11,10 @@
         <p>D</p>
     </div>
 
-    {{ partial "header.html" . }}
-    {{ partial "blog/list.html" . }}
+    <div class="content-wrapper">
+        {{ partial "header.html" . }}
+        {{ partial "blog/list.html" . }}
+    </div>
 </div>
 
 <script>
