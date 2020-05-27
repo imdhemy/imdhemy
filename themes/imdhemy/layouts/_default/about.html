@@ -1,0 +1,10 @@
+{{ define "main" }}
+<div class="about-holder">
+    <h2>{{ .Title }}</h2>
+    <div class="post-content">
+        <img src="./../../images/avatar.png">
+        {{ .Content }}
+    </div>
+</div>
+{{ partial "related.html" }}
+{{ end }}

@@ -1,1 +1,19 @@
-{{ partial "blog/list.html" . }}
+{{ define "main"}}
+<main class="blogs-list-holder">
+    <!-- get blog posts only start -->
+    <ul>
+        {{- range where .Pages "Section" "blog" -}}
+        <!-- loop blog posts start -->
+        {{- range .Pages -}}
+        <li>
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            <time>{{ .Date }}</time>
+            <p>{{ .Description }}</p>
+        </li>
+        {{- end -}}
+        <!-- loop blog posts end -->
+        {{- end }}
+        <!-- get blog posts only end -->
+    </ul>
+</main>
+{{end}}

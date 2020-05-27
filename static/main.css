@@ -1,6 +1,4 @@
-@import url('./fonts/PTSans-Bold.ttf');
-@import url('./fonts/PTSans-Regular.ttf');
-@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@200;400;600&display=swap');
 
 :root {
     --primary-color: #D8DEE9;
@@ -9,7 +7,7 @@
 }
 
 p, h1, h2, h3, h4, h5, h6, a, pre, span, div, time {
-    font-family: PTSans, sans-serif;
+    font-family: 'Fira Sans', sans-serif;
 }
 
 body, html {
@@ -133,12 +131,13 @@ a:visited, a:active {
 .blogs-list-holder {
     display: inline-flex;
     flex-direction: column;
-    padding: 0 6em;
+    padding: 0 2em;
 }
 
 .blogs-list-holder ul {
     list-style: none;
     margin-top: 4px;
+    padding-left: 0;
 }
 
 .blogs-list-holder ul li:first-of-type {
@@ -146,7 +145,6 @@ a:visited, a:active {
 }
 
 .blogs-list-holder ul li {
-    padding: 1em;
     padding-left: 0;
     margin: 2em 0;
     border-bottom: 4px solid var(--primary-color);
@@ -156,24 +154,43 @@ a:visited, a:active {
     text-decoration: none;
 }
 
-.blogs-list-holder ul li h2 {
-    font-family: 'Abril Fatface', cursive;
-    font-size: 35px;
+.blogs-list-holder ul li h2, .blog-post-holder h2, .about-holder h2 {
+    font-size: 38px;
     margin-bottom: 5px;
     margin-top: 0;
 }
 
-.blogs-list-holder ul time {
-    color: #a9a9a9;
+.blogs-list-holder ul time, .blog-post-holder time {
+    color: #555;
+    font-weight: 400;
 } 
 
-.blog-post-holder {
+.blog-post-holder, .about-holder {
     padding: 0 2em;
+    display: inline-flex;
+    flex-direction: column;
 }
 
-.blog-post-holder p {
+.blog-post-holder span {
+    display: inline-block;
+}
+
+.blog-post-holder span h5, .blog-post-holder span time {
+    margin: auto;
+    display: contents;
+}
+
+.blog-post-holder p, .about-holder p {
     font-size: 19px;
     font-weight: 400;
     line-height: 1.75;
     letter-spacing: 2;
+}
+
+.about-holder img {
+    float: right;
+    width: 150px;
+    height: 150px;
+    margin-left: 45px;
+    border-radius: 50%;
 }
