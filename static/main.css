@@ -1,5 +1,6 @@
 @import url('./fonts/PTSans-Bold.ttf');
 @import url('./fonts/PTSans-Regular.ttf');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
 
 :root {
     --primary-color: #D8DEE9;
@@ -7,7 +8,7 @@
     --accent-color: #2E3440;
 }
 
-* {
+p, h1, h2, h3, h4, h5, h6, a, pre, span, div, time {
     font-family: PTSans, sans-serif;
 }
 
@@ -17,24 +18,43 @@ body, html {
     color: var(--accent-color);
 }
 
+pre {
+    color: #fff;
+    background: none;
+    font-feature-settings: normal;
+    text-align: left;
+    white-space: pre;
+    padding: 1em;
+    border-radius: 4px;
+    word-spacing: normal;
+    word-break: normal;
+    word-wrap: normal;
+    line-height: 1.5;
+    margin-bottom: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+a:visited, a:active {
+    color: var(--accent-color);
+}
+
 .page-container {
     width: 80%;
     margin: auto;
 }
 
-/** Side Menu **/
-
-.side-menu-holder {
-    width: 20%;
-    display: inline-flex;
-    flex-direction: column;
-    align-items: flex-end;
+.content-wrapper {
+    display: flex;
 }
+
+/** Side Menu **/
 
 .logo-container {
     background-color: var(--secondary-color);
     margin: 25px;
-    margin-left: calc(20% - 80px);
     margin-right: 0;
     margin-bottom: 75px;
     width: 80px;
@@ -64,6 +84,14 @@ body, html {
     color: #fff;
     font-size: 35px;
     margin: 0;
+}
+
+
+.side-menu-holder {
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
 }
 
 .side-menu-holder nav {
@@ -105,5 +133,47 @@ body, html {
 .blogs-list-holder {
     display: inline-flex;
     flex-direction: column;
-    padding: 0 5em;
+    padding: 0 6em;
+}
+
+.blogs-list-holder ul {
+    list-style: none;
+    margin-top: 4px;
+}
+
+.blogs-list-holder ul li:first-of-type {
+    margin-top: 0;
+}
+
+.blogs-list-holder ul li {
+    padding: 1em;
+    padding-left: 0;
+    margin: 2em 0;
+    border-bottom: 4px solid var(--primary-color);
+}
+
+.blogs-list-holder ul li h2 a {
+    text-decoration: none;
+}
+
+.blogs-list-holder ul li h2 {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 35px;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+
+.blogs-list-holder ul time {
+    color: #a9a9a9;
+} 
+
+.blog-post-holder {
+    padding: 0 2em;
+}
+
+.blog-post-holder p {
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 1.75;
+    letter-spacing: 2;
 }

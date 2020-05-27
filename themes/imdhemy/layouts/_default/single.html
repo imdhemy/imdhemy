@@ -1,5 +1,6 @@
-<div>
+{{ define "main" }}
+<div class="blog-post-holder">
     {{ .Content }}
 </div>
 {{ partial "related.html" }}
-<h4><a href="{{ .Site.BaseURL }}">Home</a></h4>
+{{ end }}

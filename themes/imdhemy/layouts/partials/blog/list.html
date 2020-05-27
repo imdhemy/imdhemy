@@ -1,12 +1,17 @@
 <main class="blogs-list-holder">
-    <h2>Blog</h2>
     <!-- get blog posts only start -->
-    {{- range where .Pages "Section" "blog" -}}
-    <!-- loop blog posts start -->
-    {{- range .Pages -}}
-    <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-    {{- end -}}
-    <!-- loop blog posts end -->
-    {{- end }}
-    <!-- get blog posts only end -->
+    <ul>
+        {{- range where .Pages "Section" "blog" -}}
+        <!-- loop blog posts start -->
+        {{- range .Pages -}}
+        <li>
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            <time>{{ .Date }}</time>
+            <p>{{ .Content }}</p>
+        </li>
+        {{- end -}}
+        <!-- loop blog posts end -->
+        {{- end }}
+        <!-- get blog posts only end -->
+    </ul>
 </main>
