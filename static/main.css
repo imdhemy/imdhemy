@@ -1,0 +1,27 @@
+@import url('./fonts/Roboto-Light.ttf');
+@import url('./fonts//Roboto-Regular.ttf');
+@import url('./fonts/Roboto-Bold.ttf');
+
+* {
+    font-family: Roboto, sans-serif;
+}
+
+body, html {
+    height: 100%;
+    width: 100%;
+}
+
+.side-menu-holder {
+    display: inline-flex;
+    border-right: 1px solid #edf2f7;
+}
+
+.side-menu-holder nav {
+    padding: 1em;
+}
+
+.side-menu-holder nav a {
+    text-decoration: none;
+    color: #222;
+    font-weight: lighter;
+}

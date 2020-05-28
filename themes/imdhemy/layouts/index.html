@@ -1,28 +1,44 @@
 <html lang="en">
 <head>
     <title>imdhemy</title>
+    <link rel="stylesheet" href="./../normalize.css">
+    <link rel="stylesheet" href="./../main.css">
 </head>
 <body>
 {{ .Content }}
 
-<h2>Blog</h2>
+<aside class="side-menu-holder">
+    <nav>
+        {{- range first 10 .Data.Pages -}}
+        {{- if eq .Type "page" }}
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+        {{- end -}}
+        {{- end }}
+    </nav>
+</aside>
 
-<!-- get blog posts only start -->
-{{- range where .Pages "Section" "blog" -}}
-<!-- loop blog posts start -->
-{{- range .Pages -}}
-<h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-{{- end -}}
-<!-- loop blog posts end -->
-{{- end }}
-<!-- get blog posts only end -->
+<main class="blogs-list-holder">
+    <h2>Blog</h2>
+    <!-- get blog posts only start -->
+    {{- range where .Pages "Section" "blog" -}}
+    <!-- loop blog posts start -->
+    {{- range .Pages -}}
+    <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+    {{- end -}}
+    <!-- loop blog posts end -->
+    {{- end }}
+    <!-- get blog posts only end -->
+</main>
 
-<h2>Pages</h2>
-{{- range first 10 .Data.Pages -}}
-{{- if eq .Type "page" }}
-<h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-{{- end -}}
-{{- end }}
+<script>
+    let mq = window.matchMedia("(max-width: 700px)")
+    mq.addListener(function(e) {
+        if(e.matches){
+            let sideMenuHolder = document.querySelector('.side-menu-holder')
+            sideMenuHolder.classList.add('mobile')
+        }
+    })
+</script>
 
 </body>
 </html>
