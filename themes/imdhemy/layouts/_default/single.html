@@ -1,5 +1,15 @@
-<div>
-    {{ .Content }}
+{{ define "main" }}
+<div class="blog-post-holder">
+    <h2>{{ .Title }}</h2>
+    <span><h5><time>{{ .Date }}</time> <h5 class="ttr"></h5></span>
+    <div class="post-content">
+        {{ .Content }}
+    </div>
 </div>
+<script>
+    let wordsCounter = document.querySelector('.post-content').innerText.split(' ').length
+    let timeToRead = document.querySelector('.ttr')
+    timeToRead.innerHTML = wordsCounter / 75 > 1 ? Math.round(wordsCounter / 75) + ' minutes read ☕️' : 'Less than one minute read ☕️';
+</script>
 {{ partial "related.html" }}
-<h4><a href="{{ .Site.BaseURL }}">Home</a></h4>
+{{ end }}
