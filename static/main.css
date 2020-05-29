@@ -17,12 +17,12 @@ body, html {
 }
 
 pre {
-    color: #fff;
-    background: none;
+    color: var(--primary-color);
+    background: var(--secondary-color);
     font-feature-settings: normal;
     text-align: left;
     white-space: pre;
-    padding: 1em;
+    padding: 2em 1em;
     border-radius: 4px;
     word-spacing: normal;
     word-break: normal;
@@ -35,7 +35,7 @@ ul {
     list-style: none;
 }
 
-a:visited, a:active {
+a, a:visited, a:active {
     color: var(--accent-color);
 }
 
@@ -93,6 +93,8 @@ a:visited, a:active {
 }
 
 .side-menu-holder nav {
+    position: sticky;
+    top: 100px;
     padding: 2em;
     padding-top: 2px;
     padding-right: 1em;
@@ -167,6 +169,7 @@ a:visited, a:active {
 
 .blog-post-holder, .about-holder {
     padding: 0 2em;
+    padding-bottom: 2em;
     display: inline-flex;
     flex-direction: column;
 }
@@ -193,4 +196,8 @@ a:visited, a:active {
     height: 150px;
     margin-left: 45px;
     border-radius: 50%;
+}
+
+.post-content a {
+    color: #0059ff;
 }
