@@ -206,6 +206,9 @@ a, a:visited, a:active {
 
 
 @media only screen and (max-width: 600px) {
+    .page-container {
+        width: 90%;
+    }
     .content-wrapper{
         display: block;
     }
@@ -234,9 +237,9 @@ a, a:visited, a:active {
     }
     .blogs-list-holder, .blog-post-holder, .about-holder {
         padding: 0 .5em;
-        /* width: 90vw; */
         display: block;
         margin: 1em auto;
+        padding-bottom: 2em;
     }
     pre {
         white-space: pre-wrap;
@@ -246,5 +249,11 @@ a, a:visited, a:active {
         clear: both;
         margin: 1em auto;
         display: block;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .side-menu-holder-sm nav li a {
+        font-size: 15px;
     }
 }
