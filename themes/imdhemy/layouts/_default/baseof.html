@@ -6,6 +6,18 @@
             <div class="logo-container">
                 <p>D</p>
             </div>
+            <aside class="side-menu-holder-sm">
+                <nav>
+                    <li>
+                        <a class="active" href="/">Home</a>
+                    </li>
+                    {{- range first 10 .Data.Pages -}}
+                    <li>
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    </li>
+                    {{- end }}
+                </nav>
+            </aside>
             <div class="content-wrapper">
                 {{- partial "header.html" . -}}
                 <main>
@@ -13,6 +25,22 @@
                 </main>
             </div>
         </div>
+        <script>
+            let mq = window.matchMedia("(max-width: 700px)")
+            if(mq.matches){
+                let sideMenuHolder = document.querySelector('.side-menu-holder')
+                sideMenuHolder.style.display = 'none'
+            }
+            mq.addListener(function(e) {
+                let sideMenuHolder = document.querySelector('.side-menu-holder')
+                if(e.matches){
+                    sideMenuHolder.style.display = 'none'
+                }
+                else {
+                    sideMenuHolder.style.display = 'flex'
+                }
+            })
+        </script>
         {{- partial "footer.html" . -}}
     </body>
 </html>

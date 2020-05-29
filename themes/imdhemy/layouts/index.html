@@ -1,6 +1,7 @@
 <html lang="en">
 <head>
     <title>imdhemy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./../normalize.css">
     <link rel="stylesheet" href="./../main.css">
 </head>
@@ -10,7 +11,18 @@
     <div class="logo-container">
         <p>D</p>
     </div>
-
+    <aside class="side-menu-holder-sm">
+        <nav>
+            <li>
+                <a class="active" href="/">Home</a>
+            </li>
+            {{- range first 10 .Data.Pages -}}
+            <li>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </li>
+            {{- end }}
+        </nav>
+    </aside>
     <div class="content-wrapper">
         {{ partial "header.html" . }}
         {{ partial "blog/list.html" . }}
@@ -18,11 +30,18 @@
 </div>
 
 <script>
-    let mq = window.matchMedia("(max-width: 700px)")
+    let mq = window.matchMedia("(max-width: 600px)")
+    if(mq.matches){
+        let sideMenuHolder = document.querySelector('.side-menu-holder')
+        sideMenuHolder.style.display = 'none'
+    }
     mq.addListener(function(e) {
+        let sideMenuHolder = document.querySelector('.side-menu-holder')
         if(e.matches){
-            let sideMenuHolder = document.querySelector('.side-menu-holder')
-            sideMenuHolder.classList.add('mobile')
+            sideMenuHolder.style.display = 'none'
+        }
+        else {
+            sideMenuHolder.style.display = 'flex'
         }
     })
 </script>
