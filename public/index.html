@@ -2,14 +2,74 @@
 <head>
 	<meta name="generator" content="Hugo 0.70.0" />
     <title>imdhemy</title>
+    <link rel="stylesheet" href="./../normalize.css">
+    <link rel="stylesheet" href="./../main.css">
 </head>
 <body>
-<p>this is the _index.md</p>
 
+<div class="page-container">
+    <div class="logo-container">
+        <p>D</p>
+    </div>
 
-<h2>Blog</h2><h4><a href="http://example.org/blog/second/">Second</a></h4><h4><a href="http://example.org/blog/first/">First</a></h4>
-<h2>Pages</h2>
-<h4><a href="http://example.org/about/">About</a></h4>
+    <div class="content-wrapper">
+        <aside class="side-menu-holder">
+    <nav>
+        <li>
+            <a class="active" href="/">Home</a>
+        </li><li>
+            <a href="http://example.org/about/">About</a>
+        </li><li>
+            <a href="http://example.org/blog/">Blogs</a>
+        </li>
+    </nav>
+</aside>
+        <main class="blogs-list-holder">
+    
+    <ul><li>
+            <h2><a href="http://example.org/blog/second/">Second</a></h2>
+            <time>2020-05-17 08:58:17 &#43;0200 EET</time>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo neque beatae aliquam ab obcaecati laboriosam modi laborum ipsam itaque minima aperiam, dolores mollitia explicabo! Temporibus ut saepe enim doloremque reprehenderit!</p>
+        </li><li>
+            <h2><a href="http://example.org/blog/first/">Illo neque beatae aliquam ab obcaecati</a></h2>
+            <time>2020-05-17 08:34:45 &#43;0200 EET</time>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo neque beatae aliquam ab obcaecati laboriosam modi laborum ipsam itaque minima aperiam, dolores mollitia explicabo! Temporibus ut saepe enim doloremque reprehenderit!</p>
+        </li><li>
+            <h2><a href="http://example.org/blog/markdown-syntax/">Markdown Syntax Guide</a></h2>
+            <time>2019-03-11 00:00:00 &#43;0000 UTC</time>
+            <p>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</p>
+        </li><li>
+            <h2><a href="http://example.org/blog/rich-content/">Rich Content</a></h2>
+            <time>2019-03-10 00:00:00 &#43;0000 UTC</time>
+            <p>A brief description of Hugo Shortcodes</p>
+        </li><li>
+            <h2><a href="http://example.org/blog/placeholder-text/">Placeholder Text</a></h2>
+            <time>2019-03-09 00:00:00 &#43;0000 UTC</time>
+            <p>Lorem Ipsum Dolor Si Amet</p>
+        </li><li>
+            <h2><a href="http://example.org/blog/math-typesetting/">Math Typesetting</a></h2>
+            <time>2019-03-08 00:00:00 &#43;0000 UTC</time>
+            <p>A brief guide to setup KaTeX</p>
+        </li><li>
+            <h2><a href="http://example.org/blog/emoji-support/">Emoji Support</a></h2>
+            <time>2019-03-05 00:00:00 &#43;0000 UTC</time>
+            <p>Guide to emoji usage in Hugo</p>
+        </li>
+        
+    </ul>
+</main>
+    </div>
+</div>
+
+<script>
+    let mq = window.matchMedia("(max-width: 700px)")
+    mq.addListener(function(e) {
+        if(e.matches){
+            let sideMenuHolder = document.querySelector('.side-menu-holder')
+            sideMenuHolder.classList.add('mobile')
+        }
+    })
+</script>
 
 </body>
 </html>
