@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html><head>
+    <title>imdhemy</title>
+    <link rel="stylesheet" href="./../../normalize.css">
+    <link rel="stylesheet" href="./../../main.css">
+</head><body>
+        <div class="page-container">
+            <div class="logo-container">
+                <p>D</p>
+            </div>
+            <div class="content-wrapper"><aside class="side-menu-holder">
+    <nav>
+        <li>
+            <a class="active" href="/">Home</a>
+        </li>
+    </nav>
+</aside><main>
+<div class="blog-post-holder">
+    <h2>Math Typesetting</h2>
+    <span><h5><time>2019-03-08 00:00:00 &#43;0000 UTC</time> <h5 class="ttr"></h5></span>
+    <div class="post-content">
+        <p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.</p>
+<p>In this example we will be using <a href="https://katex.org/">KaTeX</a></p>
+<ul>
+<li>Create a partial under <code>/layouts/partials/math.html</code></li>
+<li>Within this partial reference the <a href="https://katex.org/docs/autorender.html">Auto-render Extension</a> or host these scripts locally.</li>
+<li>Include the partial in your templates like so:</li>
+</ul>
+<pre><code>{{ if or .Params.math .Site.Params.math }}
+{{ partial &quot;math.html&quot; . }}
+{{ end }}
+</code></pre><ul>
+<li>To enable KaTex globally set the parameter <code>math</code> to <code>true</code> in a project&rsquo;s configuration</li>
+<li>To enable KaTex on a per page basis include the parameter <code>math: true</code> in content files.</li>
+</ul>
+<p><strong>Note:</strong> Use the online reference of <a href="https://katex.org/docs/supported.html">Supported TeX Functions</a>
+</p>
+<h3 id="examples">Examples</h3>
+<p>Inline math: $$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$</p>
+<p>Block math:</p>
+<p>$$
+\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+$$</p>
+    </div>
+</div>
+<script>
+    let wordsCounter = document.querySelector('.post-content').innerText.split(' ').length
+    let timeToRead = document.querySelector('.ttr')
+    timeToRead.innerHTML = wordsCounter / 75 > 1 ? Math.round(wordsCounter / 75) + ' minutes read ☕️' : 'Less than one minute read ☕️';
+</script>
+
+
+                </main>
+            </div>
+        </div></body>
+</html>

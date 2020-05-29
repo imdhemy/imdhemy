@@ -17,7 +17,8 @@
       <pubDate>Sun, 17 May 2020 09:07:16 +0200</pubDate>
       
       <guid>http://example.org/about/</guid>
-      <description>Neque porro quisquam est qui dolorem ipsum quia dolor sit amet consectetur adipisci velit.</description>
+      <description>Neque porro quisquam est qui dolorem ipsum quia dolor sit amet consectetur adipisci velit. ipsum quia dolor sit amet consectetur adipisci velit.ipsum quia dolor sit amet consectetur adipisci velit.ipsum quia dolor sit amet consectetur adipisci velit.ipsum quia dolor sit amet consectetur adipisci velit.ipsum quia dolor sit amet consectetur adipisci velit. ipsum quia dolor sit amet consectetur
+Side Projects adipisci velit.ipsum quia dolor sit amet consectetur adipisci velit.ipsum quia dolor sit amet consectetur adipisci velit.</description>
     </item>
     
     <item>
@@ -26,17 +27,66 @@
       <pubDate>Sun, 17 May 2020 08:58:17 +0200</pubDate>
       
       <guid>http://example.org/blog/second/</guid>
-      <description>Second </description>
+      <description>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo neque beatae aliquam ab obcaecati laboriosam modi laborum ipsam itaque minima aperiam, dolores mollitia explicabo! Temporibus ut saepe enim doloremque reprehenderit!</description>
     </item>
     
     <item>
-      <title>First</title>
+      <title>Illo neque beatae aliquam ab obcaecati</title>
       <link>http://example.org/blog/first/</link>
       <pubDate>Sun, 17 May 2020 08:34:45 +0200</pubDate>
       
       <guid>http://example.org/blog/first/</guid>
-      <description>First what is lorem ipsum
-&amp;lt;?php int a = 5; </description>
+      <description>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo neque beatae aliquam ab obcaecati laboriosam modi laborum ipsam itaque minima aperiam, dolores mollitia explicabo! Temporibus ut saepe enim doloremque reprehenderit!
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo neque beatae aliquam ab obcaecati laboriosam modi laborum ipsam itaque minima aperiam, dolores mollitia explicabo! Temporibus ut saepe enim doloremque reprehenderit! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo neque beatae aliquam ab obcaecati laboriosam modi laborum ipsam itaque minima aperiam, dolores mollitia explicabo!</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://example.org/blog/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>http://example.org/blog/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>http://example.org/blog/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
+pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice
+subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
+caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis
+lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>http://example.org/blog/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>http://example.org/blog/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
   </channel>
