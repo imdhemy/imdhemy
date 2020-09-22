@@ -1,21 +1,21 @@
-import Index from './Index'
 import { Provider } from 'react-redux'
 import { combineReducers, createStore } from 'redux'
-import { exampleReducer } from './screens/Example'
+import reducers from './config/reducers'
+import Example from './screens/Example'
 
 const React = require('react')
 const ReactDOM = require('react-dom')
 require('./bootstrap')
 
-const reducers = {
-    example: exampleReducer,
-}
-
 const store = createStore(combineReducers(reducers))
 
 class App extends React.Component {
     render () {
-        return <Index/>
+        return (
+            <div>
+                <Example/>
+            </div>
+        )
     }
 }
 
