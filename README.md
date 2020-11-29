@@ -1,4 +1,4 @@
-# Imdhemy (Dhemy Studio)
+# Imdhemy (Mohamad Eldhemy)
 
 # Professional Summary
 I'm a software-artist and a real-life superhero. I earn my living as a backend engineer and help my community
