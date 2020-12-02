@@ -3,7 +3,7 @@
 I'm a software-artist and a real-life superhero. I earn my living as a **backend engineer.**
 ---
 
-<img src="http://ghchart.rshah.org/00a6ff/imdhemy" alt="imdhemy's Github chart" />
+<img src="http://ghchart.rshah.org/2d3540/imdhemy" alt="imdhemy's Github chart" />
 
 # 🥇 Awards
 <table>
