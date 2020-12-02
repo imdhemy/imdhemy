@@ -5,13 +5,13 @@ import Courses from '../screens/Front/Courses'
 import About from '../screens/Front/About'
 import Contact from '../screens/Front/Contact'
 import Home from '../screens/Front/Home'
-import { View } from 'react-native-web'
 import Navbar from '../components/Front/Navbar'
+import { Container } from 'semantic-ui-react'
 
 class FrontStack extends Component {
     render () {
         return (
-            <View>
+            <Container style={{ border: '1px solid red' }}>
                 <Navbar/>
                 <Switch>
                     <Route path={'/blog'} component={Blog}/>
@@ -20,7 +20,7 @@ class FrontStack extends Component {
                     <Route path={'/contact'} component={Contact}/>
                     <Route path={'/'} component={Home}/>
                 </Switch>
-            </View>
+            </Container>
         )
     }
 }
