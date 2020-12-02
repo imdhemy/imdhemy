@@ -1,6 +1,8 @@
 # 🦸🏻 Mohamad Eldhemy 
 
 I'm a software-artist and a real-life superhero. I earn my living as a **backend engineer.**
+
+<img src="http://ghchart.rshah.org/imdhemy" alt="imdhemy's Github chart" />
 ---
 
 # 🥇 Awards
