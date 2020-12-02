@@ -1,25 +1,25 @@
-#Mohamad Eldhemy
+# 🦸🏻 Mohamad Eldhemy 
 
 I'm a software-artist and a real-life superhero. I earn my living as a **backend engineer.**
 ---
 
-# Awards
+# 🥇 Awards
 <table>
 <tr>
     <td>
-        **Ranked 1st** in my graduation class (2015).
+        <strong>Ranked 1s</strong> in my graduation class (2015).
     </td>
 </tr>
 <tr>
     <td>
-    Graduated with an **Excellent degree with honors** (2015).
+    Graduated with an <strong>Excellent degree with honors</strong> (2015).
     </td>
 </tr>
 </table>
 
 ![Mohamad's github stats](https://github-readme-stats.vercel.app/api?username=imdhemy&count_private=true&show_icons=true&theme=nord)
 
-# Skills
+# ✅ Skills
 - Advanced knowledge of **PHP**.
 - Demonstrable experience with **MySQL**.
 - Mastering **RESTful API** design and implementation.
@@ -31,7 +31,7 @@ I'm a software-artist and a real-life superhero. I earn my living as a **backend
 
 ![Mohamad's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=imdhemy&count_private=true&show_icons=true&theme=nord&langs_count=9)
 
-# Side Projects
+#  Side Projects
 - [Laravel in-app Purchase](https://github.com/imdhemy/laravel-in-app-purchases).
 - [Google Play Billing](https://github.com/imdhemy/google-play-billing).
 - [AppStore IAP](https://github.com/imdhemy/appstore-iap).
@@ -39,8 +39,8 @@ I'm a software-artist and a real-life superhero. I earn my living as a **backend
 - [Electron, React JS](https://github.com/imdhemy/electron-react-js).
 - [Fresa](https://fresa-app.com): LMS Mobile App.
 
-# Work Experience
-## **Twigano,** Cairo — _Backend Engineer_ — _part-time then full time._
+# 💪🏻 Work Experience
+## ❤️ **Twigano,** Cairo — _Backend Engineer_ — _part-time then full time._
 ### SEP 2017 - PRESENT
 
 Twigano started as a social network for fashion, moving through a lot of changes to be a friend finder platform based on common interests.
@@ -73,6 +73,6 @@ Twigano started as a social network for fashion, moving through a lot of changes
 - I started doing this being a CS **student** , not continuously but at intervals.
 - It was a long journey started with **WordPress** themes and plugins, then a transition to **CodeIgniter** and **Laravel** , and finally developing **SPAs** and **mobile Apps**.
 
-# Languages
+# 🎙 🗣 Languages
 - **Arabic** native
 - **English** Full professional proficiency
