@@ -5,14 +5,14 @@ import Courses from '../screens/Front/Courses'
 import About from '../screens/Front/About'
 import Contact from '../screens/Front/Contact'
 import Home from '../screens/Front/Home'
-import Navbar from '../components/Front/Navbar'
+import SiteHeader from '../components/Front/SiteHeader/SiteHeader'
 import { Container } from 'semantic-ui-react'
 
 class FrontStack extends Component {
     render () {
         return (
-            <Container style={{ border: '1px solid red' }}>
-                <Navbar/>
+            <Container>
+                <SiteHeader/>
                 <Switch>
                     <Route path={'/blog'} component={Blog}/>
                     <Route path={'/courses'} component={Courses}/>
