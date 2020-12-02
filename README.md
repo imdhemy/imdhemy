@@ -3,34 +3,23 @@
 I'm a software-artist and a real-life superhero. I earn my living as a **backend engineer.**
 ---
 
-![Mohamad's github stats](https://github-readme-stats.vercel.app/api?username=imdhemy&count_private=true&show_icons=true&theme=nord)
-
+# Awards
 <table>
 <tr>
-    <td colspan="2">
-        65 El-Gendy st,Shebin Elkom, Egypt
-    </td>
-</tr>
-<tr>
-    <td colspan="2">
-    <a href="tel:+20 1096-783-222">+20 1096-783-222</a>
-    </td>
-</tr>
-<tr>
-    <td>Email</td>
     <td>
-    <a href="mailto:imdhemy@gmail.com">imdhemy@gmail.com</a>
-</td>
+        **Ranked 1st** in my graduation class (2015).
+    </td>
 </tr>
 <tr>
-<td>LinkedIn</td>
-<td><a href="https://www.linkedin.com/in/imdhemy/">https://www.linkedin.com/in/imdhemy/</a></td>
+    <td>
+    Graduated with an **Excellent degree with honors** (2015).
+    </td>
 </tr>
 </table>
 
-# Skills
-![Mohamad's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=imdhemy&count_private=true&show_icons=true&theme=nord&langs_count=9)
+![Mohamad's github stats](https://github-readme-stats.vercel.app/api?username=imdhemy&count_private=true&show_icons=true&theme=nord)
 
+# Skills
 - Advanced knowledge of **PHP**.
 - Demonstrable experience with **MySQL**.
 - Mastering **RESTful API** design and implementation.
@@ -40,9 +29,7 @@ I'm a software-artist and a real-life superhero. I earn my living as a **backend
 - Doing my best with **Design Patterns**.
 - Experienced with **Javascript** frameworks ( **ReactJs** &amp; **React Native** ).
 
-# Awards
-- **Ranked 1st** in my graduation class (2015).
-- Graduated with an **Excellent degree with honors** (2015).
+![Mohamad's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=imdhemy&count_private=true&show_icons=true&theme=nord&langs_count=9)
 
 # Side Projects
 - [Laravel in-app Purchase](https://github.com/imdhemy/laravel-in-app-purchases).
