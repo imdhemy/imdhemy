@@ -9,17 +9,18 @@ export const brandContainerStyle = {
 }
 const brandColor = 'rgb(36, 41, 46)'
 export const brandStyle = {
-    fontFamily: 'Cascadia Code',
-    fontWeight: 'lighter',
-    fontSize: 21,
+    fontFamily: 'Roboto Mono, monospace',
+    fontSize: 20,
     color: brandColor,
+    fontWeight: 500,
     letterSpacing: 3,
 }
 export const navbarContainerStyle = {}
 export const brandSubHeaderStyle = {
-    fontFamily: 'Cascadia Code',
-    fontSize: 15,
+    fontFamily: 'Roboto Mono, monospace',
+    fontSize: 16,
     color: 'rgb(88,96,105)',
+    fontWeight: 400,
 }
 export const menuButtonStyle = { width: 45, height: 45, padding: 0 }
 export const menuIconStyle = { padding: 0, margin: 0 }

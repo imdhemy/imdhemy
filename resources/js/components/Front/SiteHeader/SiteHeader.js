@@ -10,6 +10,7 @@ import {
     menuIconStyle,
     navbarContainerStyle,
 } from './siteHeaderStyle'
+import { stdMargin } from '../../../config/dimensions'
 
 const navItems = [
     { to: '/', key: 'Home' },
@@ -34,7 +35,7 @@ class SiteHeader extends React.Component {
         const menuIconName = navMenuVisible ? 'close' : 'sidebar'
 
         return (
-            <div>
+            <div style={{ marginBottom: stdMargin }}>
                 {/* Content */}
                 <div style={headerContentContainerStyle}>
                     {/* Brand */}
