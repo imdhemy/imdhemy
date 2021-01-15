@@ -6,22 +6,20 @@ I'm a software-artist and a real-life superhero. I earn my living as a **backend
 
 <details>
     <summary>🥇 Awards</summary>
-    <table>
-    <tr>
-        <td>
-            <strong>Ranked 1s</strong> in my graduation class (2015).
-        </td>
-    </tr>
-    <tr>
-        <td>
-        Graduated with an <strong>Excellent degree with honors</strong> (2015).
-        </td>
-    </tr>
-    </table>
-    
-    ![Mohamad's github stats](https://github-readme-stats.vercel.app/api?username=imdhemy&count_private=true&show_icons=true&theme=nord)
-    
-    <img src="http://ghchart.rshah.org/imdhemy" alt="imdhemy's Github chart" />
+        <table>
+        <tr>
+            <td>
+                <strong>Ranked 1s</strong> in my graduation class (2015).
+            </td>
+        </tr>
+        <tr>
+            <td>
+            Graduated with an <strong>Excellent degree with honors</strong> (2015).
+            </td>
+        </tr>
+        </table>
+        ![Mohamad's github stats](https://github-readme-stats.vercel.app/api?username=imdhemy&count_private=true&show_icons=true&theme=nord)
+        <img src="http://ghchart.rshah.org/imdhemy" alt="imdhemy's Github chart" />
 </details>
 
 <details>
