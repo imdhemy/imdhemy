@@ -3,33 +3,38 @@
 I'm a software-artist and a real-life superhero. I earn my living as a **backend engineer.**
 ---
 
-# 🥇 Awards
-<table>
-<tr>
-    <td>
-        <strong>Ranked 1s</strong> in my graduation class (2015).
-    </td>
-</tr>
-<tr>
-    <td>
-    Graduated with an <strong>Excellent degree with honors</strong> (2015).
-    </td>
-</tr>
-</table>
 
-![Mohamad's github stats](https://github-readme-stats.vercel.app/api?username=imdhemy&count_private=true&show_icons=true&theme=nord)
+<details>
+    <summary>🥇 Awards</summary>
+    <table>
+    <tr>
+        <td>
+            <strong>Ranked 1s</strong> in my graduation class (2015).
+        </td>
+    </tr>
+    <tr>
+        <td>
+        Graduated with an <strong>Excellent degree with honors</strong> (2015).
+        </td>
+    </tr>
+    </table>
+    
+    ![Mohamad's github stats](https://github-readme-stats.vercel.app/api?username=imdhemy&count_private=true&show_icons=true&theme=nord)
+    
+    <img src="http://ghchart.rshah.org/imdhemy" alt="imdhemy's Github chart" />
+</details>
 
-<img src="http://ghchart.rshah.org/imdhemy" alt="imdhemy's Github chart" />
-
-# ✅ Skills
-- Advanced knowledge of **PHP**.
-- Demonstrable experience with **MySQL**.
-- Mastering **RESTful API** design and implementation.
-- Experienced with **Redis**. (NoSQL DB)
-- Good knowledge of **Java** and **NodeJS**.
-- Mastering **OOP** and **SOLID** principles
-- Doing my best with **Design Patterns**.
-- Experienced with **Javascript** frameworks ( **ReactJs** &amp; **React Native** ).
+<details>
+    <summary>✅ Skills</summary>
+    - Advanced knowledge of **PHP**.
+    - Demonstrable experience with **MySQL**.
+    - Mastering **RESTful API** design and implementation.
+    - Experienced with **Redis**. (NoSQL DB)
+    - Good knowledge of **Java** and **NodeJS**.
+    - Mastering **OOP** and **SOLID** principles
+    - Doing my best with **Design Patterns**.
+    - Experienced with **Javascript** frameworks ( **ReactJs** &amp; **React Native** ).
+</details>
 
 ![Mohamad's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=imdhemy&count_private=true&show_icons=true&theme=nord&langs_count=9)
 
