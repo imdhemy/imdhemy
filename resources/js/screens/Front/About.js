@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Helmet from '../../components/Common/Helmet'
+import Helmet from '../../components/common/helmet'
 
 class About extends Component {
     render () {

@@ -1,29 +1,10 @@
 import React, { Component } from 'react'
 import TypeIt from 'typeit-react'
+import { greetingsStyle, headersContainerStyle, nameStyle } from './common/helmet.style'
 
 const softwareArtist = 'Software artist ..'
 const realLifeSuperhero = 'Real-life superhero ..'
 const backendEngineer = 'Backend Engineer ..'
-
-const greetingsStyle = {
-    fontWeight: 200,
-    fontSize: '1.5em',
-    margin: 0,
-}
-
-const nameStyle = {
-    margin: 0,
-    fontSize: '2.1em',
-    textTransform: 'uppercase',
-    fontWeight: 400,
-}
-
-const headersContainerStyle = {
-    display: 'flex',
-    flexDirection: 'column',
-    justifyContent: 'center',
-    alignItems: 'center',
-}
 
 class Intro extends Component {
     render () {
