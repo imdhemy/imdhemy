@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import Helmet from '../../components/common/helmet'
-import Intro from '../../components/Intro'
+import Intro from '../../components/intro'
 
 class Home extends Component {
     render () {

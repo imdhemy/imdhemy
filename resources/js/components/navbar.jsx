@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link as Anchor, useLocation } from 'react-router-dom'
+import { Link as Anchor } from 'react-router-dom'
 import Courses from '../screens/Front/Courses'
 import Blog from '../screens/Front/Blog/Blog'
 import About from '../screens/Front/About'
@@ -20,7 +20,6 @@ const links = [
 ]
 
 const Navbar = () => {
-    const location = useLocation()
     return (
         <div style={styles.container}>
             <h1 style={styles.brandName}>
