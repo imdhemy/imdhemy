@@ -11,9 +11,7 @@ require('./bootstrap')
 const store = createStore(combineReducers(reducers))
 
 ReactDOM.render(
-    <React.StrictMode>
-        <Provider store={store}>
-            <NavigationContainer/>
-        </Provider>
-    </React.StrictMode>, document.getElementById('root'),
+    <Provider store={store}>
+        <NavigationContainer/>
+    </Provider>, document.getElementById('root'),
 )

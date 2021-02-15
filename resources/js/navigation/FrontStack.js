@@ -6,11 +6,13 @@ import About from '../screens/Front/About'
 import Contact from '../screens/Front/Contact'
 import Home from '../screens/Front/Home'
 import Container from '@material-ui/core/Container'
+import Navbar from '../components/common/navbar'
 
 class FrontStack extends Component {
     render () {
         return (
             <Container>
+                <Navbar/>
                 <Switch>
                     <Route path={'/blog'} component={Blog}/>
                     <Route path={'/courses'} component={Courses}/>
