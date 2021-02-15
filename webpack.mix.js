@@ -20,4 +20,5 @@ mix.react('resources/js/app.js', 'public/js').
                 'react-native$': 'react-native-web',
             },
         },
-    })
+    }).
+    copyDirectory('resources/js/assets', 'public/assets')

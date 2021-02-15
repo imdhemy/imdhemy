@@ -1,26 +1,28 @@
 import React, { Component } from 'react'
 import TypeIt from 'typeit-react'
-import { greetingsStyle, headersContainerStyle, nameStyle } from './intro.style'
+import { styles } from './intro.style'
 
 const softwareArtist = 'Software artist ..'
 const realLifeSuperhero = 'Real-life superhero ..'
 const backendEngineer = 'Backend Engineer ..'
+const hi = 'Hi, I\'m'
+const name = 'Mohamad Eldhemy'
+const prefix = 'I\'m a '
 
 class Intro extends Component {
     render () {
         return (
             <div>
-                <div style={headersContainerStyle}>
-                    <h3 style={greetingsStyle}>Hi, I'm</h3>
-                    <h2 style={nameStyle}>Mohamad Eldhemy</h2>
+                <div style={styles.headersContainerStyle}>
+                    <h3 style={styles.greetingsStyle}>{hi}</h3>
+                    <h2 style={styles.nameStyle}>{name}</h2>
                 </div>
                 <TypeIt
-                    style={{ fontSize: '1.5em', fontWeight: 400, textAlign: 'center' }}
+                    style={styles.typeIt}
                     element={'h4'}
                     options={{ waitUntilVisible: true }}
-                    getBeforeInit={this.typeItBeforeInit}><strong>I'm a </strong></TypeIt>
+                    getBeforeInit={this.typeItBeforeInit}><strong>{prefix}</strong></TypeIt>
             </div>
-
         )
     }
 
