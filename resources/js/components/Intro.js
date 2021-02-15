@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import TypeIt from 'typeit-react'
-import { greetingsStyle, headersContainerStyle, nameStyle } from './common/helmet.style'
+import { greetingsStyle, headersContainerStyle, nameStyle } from './intro.style'
 
 const softwareArtist = 'Software artist ..'
 const realLifeSuperhero = 'Real-life superhero ..'
