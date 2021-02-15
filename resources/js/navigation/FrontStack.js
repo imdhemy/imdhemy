@@ -6,7 +6,7 @@ import About from '../screens/Front/About'
 import Contact from '../screens/Front/Contact'
 import Home from '../screens/Front/Home'
 import Container from '@material-ui/core/Container'
-import Navbar from '../components/common/navbar'
+import Navbar from '../components/navbar'
 
 class FrontStack extends Component {
     render () {
