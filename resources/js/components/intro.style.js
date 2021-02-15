@@ -1,4 +1,11 @@
 export const styles = {
+    bgImage: {
+        position: 'absolute',
+        zIndex: -1,
+        top: 0,
+        right: 0,
+        width: '75vw',
+    },
     greetingsStyle: {
         fontWeight: 200,
         fontSize: '1.5em',

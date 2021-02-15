@@ -12,7 +12,8 @@ const prefix = 'I\'m a '
 class Intro extends Component {
     render () {
         return (
-            <div>
+            <div style={styles.container}>
+                <img style={styles.bgImage} src={'./assets/images/overlay.svg'} alt={'overlay'}/>
                 <div style={styles.headersContainerStyle}>
                     <h3 style={styles.greetingsStyle}>{hi}</h3>
                     <h2 style={styles.nameStyle}>{name}</h2>
