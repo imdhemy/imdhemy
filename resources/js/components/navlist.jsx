@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from '@material-ui/core/Link'
 import Hidden from '@material-ui/core/Hidden'
-import { Link as Anchor } from 'react-router-dom'
+import { NavLink as Anchor } from 'react-router-dom'
 import { styles } from './navbar.style'
 import { IconButton } from '@material-ui/core'
 import MenuOutlinedIcon from '@material-ui/icons/MenuOutlined'
@@ -10,7 +10,6 @@ import List from '@material-ui/core/List'
 import ListItem from '@material-ui/core/ListItem'
 import ListItemIcon from '@material-ui/core/ListItemIcon'
 import ListItemText from '@material-ui/core/ListItemText'
-import { matchPath } from 'react-router'
 
 class NavList extends React.Component {
     state = {
@@ -21,16 +20,6 @@ class NavList extends React.Component {
         const { openDrawer } = this.state
         this.setState({ openDrawer: !openDrawer })
     }
-
-    getColor = (path) => {
-        const match = matchPath(window.location.pathname, {
-            path,
-            exact: false,
-        })
-        return match ? 'secondary' : 'textSecondary'
-    }
-
-    isSelected = (path) => this.getColor(path) === 'secondary'
 
     render () {
         let { links } = this.props
@@ -43,8 +32,9 @@ class NavList extends React.Component {
                             {links.map(({ text, to }) => (
                                 <li key={to} style={styles.navListItem}>
                                     <Link
+                                        color={'textPrimary'}
+                                        activeStyle={{ color: '#f50057' }}
                                         underline={'none'}
-                                        color={this.getColor(to)}
                                         component={Anchor}
                                         to={to}>{text}</Link>
                                 </li>
@@ -65,9 +55,9 @@ class NavList extends React.Component {
                         <List>
                             {links.map(({ text, to, icon }) => (
                                 <ListItem
+                                    activeClassName={'Mui-selected'}
                                     component={Anchor}
                                     to={to}
-                                    selected={this.isSelected(to)}
                                     button
                                     key={to}>
                                     <ListItemIcon>{icon}</ListItemIcon>
