@@ -10,6 +10,7 @@ export const styles = {
         fontWeight: 900,
         fontSize: '2em',
         margin: 0,
+        fontFamily: 'Roboto',
     },
     nameStyle: {
         margin: 0,
@@ -17,6 +18,7 @@ export const styles = {
         textTransform: 'uppercase',
         fontWeight: 700,
         textAlign: 'center',
+        fontFamily: 'Roboto',
     },
     contentsContainer: {
         display: 'flex',
@@ -41,5 +43,6 @@ export const styles = {
         fontSize: '1.5em',
         fontWeight: 400,
         textAlign: 'center',
+        fontFamily: 'Roboto',
     },
 }
