@@ -7,17 +7,31 @@ export const styles = {
         width: '75vw',
     },
     greetingsStyle: {
-        fontWeight: 200,
-        fontSize: '1.5em',
+        fontWeight: 900,
+        fontSize: '2em',
         margin: 0,
     },
     nameStyle: {
         margin: 0,
-        fontSize: '2.1em',
+        fontSize: '3em',
         textTransform: 'uppercase',
-        fontWeight: 400,
+        fontWeight: 700,
+        textAlign: 'center',
     },
-    headersContainerStyle: {
+    contentsContainer: {
+        display: 'flex',
+        flexDirection: 'row',
+        alignItems: 'center',
+        justifyContent: 'space-around',
+        paddingTop: 100,
+        paddingBottom: 100,
+    },
+    image: {
+        display: 'block',
+        maxWidth: '100%',
+    },
+    textContainer: {},
+    headersContainer: {
         display: 'flex',
         flexDirection: 'column',
         justifyContent: 'center',
