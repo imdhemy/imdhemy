@@ -3,7 +3,11 @@ import { styles } from './projects.style'
 import { RepoIcon } from '@primer/octicons-react'
 import React from 'react'
 
+const _ = require('lodash')
+
 export function ProjectName ({ name, url }) {
+    name = _.upperFirst(name.replaceAll('-', ' '))
+
     return (
         <Link
             target={'_blank'}
