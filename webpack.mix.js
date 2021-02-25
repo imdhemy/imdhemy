@@ -12,6 +12,7 @@ const mix = require('laravel-mix')
  */
 
 mix.react('resources/js/app.js', 'public/js').
+    postCss('resources/css/app.css', 'public/css').
     disableNotifications().
     browserSync('127.0.0.1:8000').
     webpackConfig({
