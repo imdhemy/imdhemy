@@ -27,7 +27,7 @@ class Projects extends React.Component {
 
     getIcon () {
         const { sortType } = this.props
-        return sortType === 'desc' ? <ChevronUpIcon size={24}/> : <ChevronDownIcon size={24}/>
+        return sortType === 'desc' ? <ChevronDownIcon size={24}/> : <ChevronUpIcon size={24}/>
     }
 }
 
