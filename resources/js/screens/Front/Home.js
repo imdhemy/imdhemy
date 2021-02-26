@@ -6,36 +6,49 @@ import { getProjects } from '../../actions/githubProjects'
 
 class Home extends Component {
     state = {
-        projects: {
-            data: [],
-            limit: 6,
-            sort: {
-                path: 'stargazers_count',
-                type: 'desc',
-            },
-        },
+        projects: [],
+        projectsSortType: 'desc',
     }
 
     componentDidMount () {
-        const { projects: params } = this.state
-
-        this.loadProjects(params)
-    }
-
-    loadProjects = (params) => {
-        getProjects(params).then(data => {
-            const projects = { ...this.state.projects }
-            projects.data = data
-            this.setState({ projects })
+        this.loadProjects({
+            limit: 6,
+            sort: {
+                path: 'stargazers_count',
+                type: this.state.projectsSortType,
+            },
         })
     }
 
+    loadProjects = (params) => {
+        getProjects(params).then(projects => this.setState({ projects }))
+    }
+
+    handleSort = () => {
+        let { projectsSortType } = this.state
+        projectsSortType = projectsSortType === 'desc' ? 'asc' : 'desc'
+
+        const params = {
+            limit: 6,
+            sort: {
+                path: 'stargazers_count',
+                type: projectsSortType,
+            },
+        }
+        
+        this.setState({ projectsSortType }, () => this.loadProjects(params))
+    }
+
     render () {
+        const { projects, projectsSortType } = this.state
+        const { match } = this.props
+
         return (
             <main>
-                <Helmet match={this.props.match}/>
+                <Helmet match={match}/>
                 <Intro/>
-                <Projects items={this.state.projects.data}/>
+                <Projects onClickSort={this.handleSort} items={projects}
+                          sortType={projectsSortType}/>
             </main>
         )
     }
