@@ -3,6 +3,7 @@ import Helmet from '../../components/common/helmet'
 import Intro from '../../components/intro/intro'
 import Projects from '../../components/projects/projects'
 import { getProjects } from '../../actions/githubProjects'
+import Awards from '../../components/awards/awards'
 
 const projectParams = {
     limit: 9,
@@ -44,8 +45,11 @@ class Home extends Component {
             <main>
                 <Helmet match={match}/>
                 <Intro/>
-                <Projects onClickSort={this.handleSort} items={projects}
-                          sortType={projectsSortType}/>
+                <Projects
+                    onClickSort={this.handleSort}
+                    items={projects}
+                    sortType={projectsSortType}/>
+                <Awards/>
             </main>
         )
     }
