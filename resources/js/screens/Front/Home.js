@@ -4,6 +4,14 @@ import Intro from '../../components/intro/intro'
 import Projects from '../../components/projects/projects'
 import { getProjects } from '../../actions/githubProjects'
 
+const projectParams = {
+    limit: 9,
+    sort: {
+        path: 'stargazers_count',
+        type: 'desc',
+    },
+}
+
 class Home extends Component {
     state = {
         projects: [],
@@ -11,13 +19,7 @@ class Home extends Component {
     }
 
     componentDidMount () {
-        this.loadProjects({
-            limit: 6,
-            sort: {
-                path: 'stargazers_count',
-                type: this.state.projectsSortType,
-            },
-        })
+        this.loadProjects(projectParams)
     }
 
     loadProjects = (params) => {
@@ -28,14 +30,9 @@ class Home extends Component {
         let { projectsSortType } = this.state
         projectsSortType = projectsSortType === 'desc' ? 'asc' : 'desc'
 
-        const params = {
-            limit: 6,
-            sort: {
-                path: 'stargazers_count',
-                type: projectsSortType,
-            },
-        }
-        
+        const params = { ...projectParams }
+        params.sort.type = projectsSortType
+
         this.setState({ projectsSortType }, () => this.loadProjects(params))
     }
 
