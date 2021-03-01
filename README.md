@@ -1,7 +1,7 @@
 # 🦸🏻 Mohamad Eldhemy
 I'm a software-artist and a real-life superhero. I earn my living as a backend engineer.
 
-**🥇 Awards**
+**🥇 About**
 - 🧑‍🎓 Graduated with an excellent bachelor's degree of computer science.
 - 🚀 Ranked 1st in my graduation class 2015
 

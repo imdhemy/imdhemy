@@ -3,7 +3,7 @@ import Helmet from '../../components/common/helmet'
 import Intro from '../../components/intro/intro'
 import Projects from '../../components/projects/projects'
 import { getProjects } from '../../actions/githubProjects'
-import Awards from '../../components/awards/awards'
+import About from '../../components/awards/about'
 
 const projectParams = {
     limit: 9,
@@ -49,7 +49,7 @@ class Home extends Component {
                     onClickSort={this.handleSort}
                     items={projects}
                     sortType={projectsSortType}/>
-                <Awards/>
+                <About/>
             </main>
         )
     }
