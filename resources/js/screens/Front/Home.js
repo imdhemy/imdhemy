@@ -3,7 +3,7 @@ import Helmet from '../../components/common/helmet'
 import Intro from '../../components/intro/intro'
 import Projects from '../../components/projects/projects'
 import { getProjects } from '../../actions/githubProjects'
-import About from '../../components/awards/about'
+import About from '../../components/about/about'
 
 const projectParams = {
     limit: 9,
