@@ -10,6 +10,9 @@ import List from '@material-ui/core/List'
 import ListItem from '@material-ui/core/ListItem'
 import ListItemIcon from '@material-ui/core/ListItemIcon'
 import ListItemText from '@material-ui/core/ListItemText'
+import { NavHashLink } from 'react-router-hash-link'
+
+const hashLinkClassName = 'MuiTypography-root MuiLink-root MuiLink-underlineNone MuiTypography-colorTextPrimary'
 
 class NavList extends React.Component {
     state = {
@@ -29,16 +32,31 @@ class NavList extends React.Component {
                 <Hidden smDown>
                     <nav style={styles.navContainer}>
                         <ul style={styles.navList}>
-                            {links.map(({ text, to }) => (
-                                <li key={to} style={styles.navListItem}>
-                                    <Link
-                                        color={'textPrimary'}
-                                        activeStyle={{ color: '#f50057' }}
-                                        underline={'none'}
-                                        component={Anchor}
-                                        to={to}>{text}</Link>
-                                </li>
-                            ))}
+                            {links.map(({ text, to }) => {
+                                const isHashRoute = to.includes('#')
+                                if (isHashRoute) {
+                                    return (
+                                        <li key={to} style={styles.navListItem}>
+                                            <NavHashLink
+                                                className={hashLinkClassName}
+                                                smooth
+                                                to={to}>
+                                                {text}
+                                            </NavHashLink>
+                                        </li>
+                                    )
+                                }
+                                return (
+                                    <li key={to} style={styles.navListItem}>
+                                        <Link
+                                            color={'textPrimary'}
+                                            activeStyle={{ color: '#f50057' }}
+                                            underline={'none'}
+                                            component={Anchor}
+                                            to={to}>{text}</Link>
+                                    </li>
+                                )
+                            })}
                         </ul>
                     </nav>
                 </Hidden>

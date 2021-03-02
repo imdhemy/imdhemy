@@ -37,7 +37,7 @@ class About extends React.Component {
         const { orientation } = this.state
 
         return (
-            <div>
+            <div id={'about'}>
                 <h2 style={styles.title}>About</h2>
                 <Grid container>
                     <Grid item md={6} xs={12}>

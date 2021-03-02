@@ -9,7 +9,7 @@ class Projects extends React.Component {
     render () {
         let { items, onClickSort } = this.props
         return (
-            <div style={styles.container}>
+            <div style={styles.container} id={'open-source'}>
                 <h2 style={styles.title}>
                     <span>Open-source Projects</span>
                     <IconButton onClick={onClickSort}>
