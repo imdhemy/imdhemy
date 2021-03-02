@@ -26,15 +26,13 @@ class NavList extends React.Component {
 
     render () {
         let { links } = this.props
-
         return (
             <div>
                 <Hidden smDown>
                     <nav style={styles.navContainer}>
                         <ul style={styles.navList}>
                             {links.map(({ text, to }) => {
-                                const isHashRoute = to.includes('#')
-                                if (isHashRoute) {
+                                if (this.isHashLink(to)) {
                                     return (
                                         <li key={to} style={styles.navListItem}>
                                             <NavHashLink
@@ -73,8 +71,10 @@ class NavList extends React.Component {
                         <List>
                             {links.map(({ text, to, icon }) => (
                                 <ListItem
+                                    smooth
+                                    onClick={this.handleToggleDrawer}
                                     activeClassName={'Mui-selected'}
-                                    component={Anchor}
+                                    component={this.isHashLink(to) ? NavHashLink : Anchor}
                                     to={to}
                                     button
                                     key={to}>
@@ -89,6 +89,8 @@ class NavList extends React.Component {
             </div>
         )
     }
+
+    isHashLink = link => link.includes('#')
 }
 
 export default NavList
