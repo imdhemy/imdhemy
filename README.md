@@ -1,5 +1,5 @@
 # 🦸🏻 Mohamad Eldhemy
-I'm a software-artist and a real-life superhero. I earn my living as a backend engineer.
+I'm a software-artist and a real-life superhero. I earn my living as a fullstack developer.
 
 **🥇 About**
 - 🧑‍🎓 Graduated with an excellent bachelor's degree of computer science.
@@ -9,4 +9,4 @@ I'm a software-artist and a real-life superhero. I earn my living as a backend e
 - 📧 <a href='mailto:imdhemy@gmail.com'>imdhemy@gmail.com</a>
 - 🕴🏻 [Linkedin Profile](https://www.linkedin.com/in/imdhemy/)
 - 🐤 [@imdhemy](https://twitter.com/imdhemy)
-- ✍🏻 [DEV Profile](https://dev.to/imdhemy)
+- ✍🏻 [Blog](https://imdhemy.github.io/)
