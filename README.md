@@ -9,4 +9,4 @@ I'm a software-artist and a real-life superhero. I earn my living as a fullstack
 - 📧 <a href='mailto:imdhemy@gmail.com'>imdhemy@gmail.com</a>
 - 🕴🏻 [Linkedin Profile](https://www.linkedin.com/in/imdhemy/)
 - 🐤 [@imdhemy](https://twitter.com/imdhemy)
-- ✍🏻 [Blog](https://imdhemy.github.io/)
+- ✍🏻 [Blog](https://imdhemy.com/)
