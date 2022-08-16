@@ -6,9 +6,17 @@
   "repository": "https://github.com/imdhemy/imdhemy.git",
   "author": "Mohamad Eldhemy <imdhemy@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "lint": "eslint ./",
+    "fix": "eslint --fix ./"
+  },
   "engines": {
     "node": "^16.14.0",
     "npm": "please use yarn",
     "yarn": "^1.12.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.22.0",
+    "eslint-config-google": "^0.14.0"
   }
 }
