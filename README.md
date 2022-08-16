@@ -1,5 +1,8 @@
 # 🦸🏻 Mohamad Eldhemy
-I'm a software-artist and a real-life superhero. I earn my living as a fullstack developer.
+I'm a software-artist from Egypt 🇪🇬, full-stack (BE heavy) developer, 
+making in-app purchases easy with [Laravel IAP](https://imdhemy.com/laravel-iap-docs/), 
+and making Elastic search sweet with [ES testing utils](https://github.com/imdhemy/es-testing-utils) 
+and [ES PHP Sugar](https://github.com/imdhemy/elasticsearch-php-sugar)
 
 **🥇 About**
 - 🧑‍🎓 Graduated with an excellent bachelor's degree of computer science.
