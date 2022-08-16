@@ -1,0 +1,14 @@
+{
+  "name": "imdhemy",
+  "version": "1.0.0",
+  "description": "My public profile.",
+  "main": "index.js",
+  "repository": "https://github.com/imdhemy/imdhemy.git",
+  "author": "Mohamad Eldhemy <imdhemy@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": "^16.14.0",
+    "npm": "please use yarn",
+    "yarn": "^1.12.0"
+  }
+}

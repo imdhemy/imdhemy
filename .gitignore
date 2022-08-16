@@ -1,1 +1,6 @@
+# NodeJS
+node_modules/
+yarn-error.log
+
+# IDEs and code editors
 .idea/
