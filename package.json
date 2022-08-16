@@ -8,7 +8,12 @@
   "license": "MIT",
   "scripts": {
     "lint": "eslint ./",
-    "fix": "eslint --fix ./"
+    "fix": "eslint --fix ./",
+    "test": "jest --coverage",
+    "pdf": "./bin/pdf.js"
+  },
+  "bin": {
+    "pdf": "bin/pdf.js"
   },
   "engines": {
     "node": "^16.14.0",
@@ -16,6 +21,7 @@
     "yarn": "^1.12.0"
   },
   "dependencies": {
+    "console-log-colors": "^0.2.3",
     "md-to-pdf": "^5.1.0"
   },
   "devDependencies": {
