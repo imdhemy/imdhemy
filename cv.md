@@ -65,8 +65,8 @@ Started since I was a student, and continued to work as a freelancer for almost 
 <ul>
   <li>Developed a REST API for a mobile application connecting between companies, employees and vendors that provide
   customized vouchers.</li>
-  <li>Migrated a legacy code base from Codeigniter to Laravel.</li>
-  <li>Created many WordPress plugins and themes.</li>
+  <li>Migrated a legacy code base from <strong>Codeigniter</strong> to <strong>Laravel</strong>.</li>
+  <li>Created many <strong>WordPress</strong> plugins and themes.</li>
 </ul>
 
   </div>
