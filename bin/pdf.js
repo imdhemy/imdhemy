@@ -1,10 +1,10 @@
 #!/usr/bin/env node
 
+const fs = require('fs');
 const {mdToPdf} = require('md-to-pdf');
 
-const {success, danger, info, loading, stopLoading} = require(
-  './services/message');
-const fs = require('fs');
+const {success, danger, info, loading, stopLoading} = require('./message');
+const config = require('./config');
 
 /**
  * The main function.
@@ -13,20 +13,24 @@ const fs = require('fs');
 async function main() {
   info('📎️Converting markdown to pdf...');
   info('😴 It may take a while...');
-  
+
   const loadingId = loading();
-  const pdf = await mdToPdf({path: './cv.md'});
-  
+  const pdf = await mdToPdf({path: './cv.md'}, config.mdToPdf);
+
   if (pdf) {
-    fs.writeFileSync('cv.pdf', pdf.content, {flag: 'w'});
-    
+    if (!fs.existsSync('./build')) {
+      fs.mkdirSync('./build');
+    }
+
+    fs.writeFileSync('build/cv.pdf', pdf.content, {flag: 'w'});
+
     stopLoading(loadingId);
   }
 }
 
 main().then(() => {
   success('🚀 PDF generated successfully.');
-}).catch(err => {
+}).catch((err) => {
   danger(err);
   process.exit(1);
 });
