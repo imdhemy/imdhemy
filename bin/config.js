@@ -1,4 +1,4 @@
-const margin = '0.5in';
+const margin = '0.3in';
 
 module.exports = {
   mdToPdf: {

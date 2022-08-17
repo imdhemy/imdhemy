@@ -8,9 +8,9 @@ build software products that touch lives.
 
 ## Work Experience
 
-**Teknasyon**, Turkey — Backend Engineer
+### **Teknasyon**, _Turkey — Backend Engineer_
 
-_Nov 2021 - Present_
+#### Nov 2021 - Present
 
 Founded in 2013, Teknasyon is a tech company that manages all processes that digital products may require. It's
 among the most popular origins for global talents. To be precise, it's in the top 1335 globally.
@@ -21,9 +21,9 @@ among the most popular origins for global talents. To be precise, it's in the to
 - Developed a **Laravel package** that helps developers to implement the [JSON API standards](https://jsonapi.org/).
 - Developed a Laravel package that provides a custom **Queuable notification channel** to collect data and user events.
 
-**Conversation24**, Netherlands — Remote Fullstack Developer
+### **Conversation24**, _Netherlands — Remote Fullstack Developer_
 
-_Mar 2021 - Nov 2021_
+#### Mar 2021 - Nov 2021
 
 Conversation24/Cobrowser brings all conversational channels in on platform through a browser chat plugin backed by
 microservices.
@@ -31,47 +31,49 @@ microservices.
 - Implemented **WhatsApp business API** integration using **NodeJs**, **MongoDB**, **Angular** and **Elasticsearch**.
 - Upgraded **Symfony 2.x** to **Symfony 4.x**.
 
-**Culture and Science city**, Egypt — Teaching Assistant
+### **Culture and Science city**, _Egypt — Teaching Assistant_
 
-_Sep 2017 - Jul 2018_
+#### Sep 2017 - Jul 2018
 
 - Worked at the **Department of Computer Science**.
 - Prepared teaching materials for two **Courses**, **Compilers** & **Probability ans Statistics**.
 - Helped students to Learn **Java OOP** during the course.
 - Managed two student teams during their **Graduation project** implementation.
 
-**Odigita**, Egypt — Fullstack Developer
+### **Odigita**, _Egypt — Fullstack Developer_
 
-_Apr 2017 - Sep 2017_
+#### Apr 2017 - Sep 2017
 
 - Worked on a learning management system.
 - Developed a REST API for **LMS** using **Laravel** and **MySQL**.
 - Developed the **UI** using **VueJs** v.1.
 
-**Ministry of Defence**, Egypt - Software Engineer
+### **Ministry of Defence**, _Egypt - Software Engineer_
 
-_Mar 2015 - Sep 2017_
+#### Mar 2015 - Sep 2017
 
 - Built, tested and deployed a scalable software that manages the relationship and communication between different
   departments.
 - Used **PHP**, **MySQL**, **Bootstrap** and **JQuery**.
 
-**Freelancer**, Egypt — Fullstack Developer
+### **Freelancer**, _Egypt — Fullstack Developer_
 
-_Sep 2012 - Nov 2015_
+#### Sep 2012 - Nov 2015
 
 Started since I was a student, and continued to work as a freelancer for almost 3 years.
 
-- Developed a REST API for a mobile application connecting between companies, employees and vendors that provide
-  customized vouchers.
-- Migrated a legacy code base from **Codeigniter** to **Laravel**.
-- Created many **WordPress** plugins and themes.
+<ul>
+  <li>Developed a REST API for a mobile application connecting between companies, employees and vendors that provide
+  customized vouchers.</li>
+  <li>Migrated a legacy code base from Codeigniter to Laravel.</li>
+  <li>Created many WordPress plugins and themes.</li>
+</ul>
 
   </div>
 
-  <div class="side">
+<div class="separator"></div>
 
-## Contact
+  <div class="side">
 
 - +905359597357
 - [imdhemy.com](https://imdhemy.com)
@@ -117,9 +119,11 @@ Started since I was a student, and continued to work as a freelancer for almost 
 
 ## Languages
 
-- **Arabic** (native).
-- **English** (fluent).
+<ul>
+    <li>English (fluent)</li>
+    <li>Arabic (native)</li>
+</ul>
 
-  </div>
+</div>
 
 </div>
