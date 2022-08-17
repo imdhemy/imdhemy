@@ -28,5 +28,8 @@ jobs:
       - name: Build the CV PDF
         run: yarn pdf
 
+      - name: Make dit directory
+        run: mkdir -p dist
+
       - name: Move the pdf to the dist dir
         run: mv build/cv.pdf dist/cv-${{ github.sha }}.pdf
