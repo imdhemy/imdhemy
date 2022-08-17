@@ -32,7 +32,7 @@ jobs:
         run: mkdir -p dist
 
       - name: Move the pdf to the dist dir
-        run: mv build/cv.pdf dist/cv-${{ github.actor }}.pdf
+        run: mv build/cv.pdf dist/cv-mohamad-eldhemy.pdf
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
@@ -40,4 +40,4 @@ jobs:
           author_name: Mohamad Eldhemy
           author_email: imdhemy@gmail.com
           message: "Update CV"
-          add: "dist/cv-${{ github.actor }}.pdf"
+          add: "dist/cv-mohamad-eldhemy.pdf"
