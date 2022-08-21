@@ -99,7 +99,7 @@ Started since I was a student, and continued to work as a freelancer for almost 
 - Demonstrable experience with **MySQL**.
 - Good knowledge of **MongoDB** and **Redis**.
 - Mastering **OOP** and **SOLID** principles.
-- Doing **Unit Testing** and **Test Driven Development**.
+- **Agile** practices like test-driven development **TDD**.
 - Applying **Design Patterns**.
 
 ## Spikes
