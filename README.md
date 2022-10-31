@@ -1,18 +1,28 @@
-# 🦸🏻 Mohamad Eldhemy
+### Hey 👋
 
-I'm a software-artist with X years of experience, full-stack (BE heavy) developer,
-making **in-app purchases** easy with [LIAP](https://imdhemy.com/laravel-iap-docs/),
-and making **Elasticsearch** search sweet with [ES testing utils](https://github.com/imdhemy/es-testing-utils)
-and [ES PHP Sugar](https://github.com/imdhemy/elasticsearch-php-sugar)
+#### 👷 Check out what I'm currently working on
 
-**🥇 About**
+- [imdhemy/media-converter](https://github.com/imdhemy/media-converter) - FFMPEG media converter (today)
+- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton. (today)
+- [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (1 day ago)
 
-- 🧑‍🎓 Graduated with an excellent bachelor's degree of computer science.
-- 🚀 Ranked 1st in my graduation class 2015
+#### 🌱 My latest projects
 
-**☕️ Let's Connect**
+- [imdhemy/php-oauth](https://github.com/imdhemy/php-oauth) - PHP Auth 2.0 Authorization framework
+- [imdhemy/media-converter](https://github.com/imdhemy/media-converter) - FFMPEG media converter
+- [imdhemy/imac](https://github.com/imdhemy/imac) - Prepares the environment after fresh MacOS installation.
 
-- 📧 <a href='mailto:imdhemy@gmail.com'>imdhemy@gmail.com</a>
-- 🕴🏻 [Linkedin Profile](https://www.linkedin.com/in/imdhemy/)
-- 🐤 [@imdhemy](https://twitter.com/imdhemy)
-- ✍🏻 [Blog](https://imdhemy.com/)
+#### 🔭 Latest releases I've contributed to
+
+- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.4.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.4.0), today) - PHP App store In-App Purchase implementaiton.
+- [imdhemy/media-converter](https://github.com/imdhemy/media-converter) ([1.0.0](https://github.com/imdhemy/media-converter/releases/tag/1.0.0), today) - FFMPEG media converter
+- [laravel/framework](https://github.com/laravel/framework) ([v9.37.0](https://github.com/laravel/framework/releases/tag/v9.37.0), 6 days ago) - The Laravel Framework.
+
+#### 📜 My recent [blog posts](https://imdhemy.com/)
+
+- [What is a unit test](https://imdhemy.com/blog/testing/what-is-a-unit-test.html) (2 months ago)
+- [Math Notes about Sum Formulas](https://imdhemy.com/blog/dsa/math-notes-about-sum-formulas.html) (3 months ago)
+- [We need more tests](https://imdhemy.com/blog/testing/we-need-more-tests.html) (9 months ago)
+
+#### ❤️ These awesome people [sponsor me](https://github.com/sponsors/imdhemy) (thank you!)
+
