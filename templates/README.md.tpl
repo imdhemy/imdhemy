@@ -1,4 +1,6 @@
-### Hey 👋
+### Hi there 👋
+
+I'm Dhemy. I'm a software artist!
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 3}}
@@ -11,7 +13,7 @@
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
-{{range recentReleases 3}}
+{{range recentReleases 7}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
@@ -20,7 +22,18 @@
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-#### ❤️ These awesome people [sponsor me](https://github.com/sponsors/imdhemy) (thank you!)
-{{range sponsors 3}}
-- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
+#### ⭐ Recent Stars
+{{range recentStars 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
+
+  
+#### 👯 Check out some of my recent followers
+{{range followers 5}}
+- [{{.Login}}]({{.URL}})
+{{- end}}
+
+#### 📫 How to reach me
+
+- [Twitter](https://twitter.com/imdhemy)
+- [Linkedin](https://linkedin.com/in/imdhemy)
