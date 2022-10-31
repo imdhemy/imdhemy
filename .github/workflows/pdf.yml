@@ -1,9 +1,10 @@
 # This workflow will do a clean installation of node dependencies, cache/restore them, build the cv pdf file.
 name: md to pdf CI
 
+# Disable the workflow
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "_disabled" ]
 
 jobs:
   build:
