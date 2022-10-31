@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm Dhemy. I'm a software artist!
+### Hi there 👋 I'm Dhemy
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 3}}
