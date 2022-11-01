@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/media-converter](https://github.com/imdhemy/media-converter) - FFMPEG media converter (today)
-- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton. (today)
-- [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (1 day ago)
+- [imdhemy/media-converter](https://github.com/imdhemy/media-converter) - FFMPEG media converter (1 day ago)
+- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton. (1 day ago)
+- [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.4.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.4.0), today) - PHP App store In-App Purchase implementaiton.
-- [imdhemy/media-converter](https://github.com/imdhemy/media-converter) ([1.0.0](https://github.com/imdhemy/media-converter/releases/tag/1.0.0), today) - FFMPEG media converter
-- [laravel/framework](https://github.com/laravel/framework) ([v9.37.0](https://github.com/laravel/framework/releases/tag/v9.37.0), 6 days ago) - The Laravel Framework.
+- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.4.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.4.0), 1 day ago) - PHP App store In-App Purchase implementaiton.
+- [imdhemy/media-converter](https://github.com/imdhemy/media-converter) ([1.0.0](https://github.com/imdhemy/media-converter/releases/tag/1.0.0), 1 day ago) - FFMPEG media converter
+- [laravel/framework](https://github.com/laravel/framework) ([v9.37.0](https://github.com/laravel/framework/releases/tag/v9.37.0), 1 week ago) - The Laravel Framework.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
