@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (1 day ago)
-- [piscibus/siklid-docs](https://github.com/piscibus/siklid-docs) - Siklid is a flashcard app that uses an improved form of spaced repetition. (1 day ago)
-- [piscibus/.github](https://github.com/piscibus/.github) - Default and organization wide metadata (1 day ago)
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (1 day ago)
+- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.5.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.5.0), 3 days ago) - PHP App store In-App Purchase implementaiton.
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.2.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.2.0), 5 days ago) - Google Play billing
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.4.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.4.0), 6 days ago) - Validate products and subscription receipts. Handle subscription lifecycle.
+- [laravel/framework](https://github.com/laravel/framework) ([v9.39.0](https://github.com/laravel/framework/releases/tag/v9.39.0), 1 day ago) - The Laravel Framework.
+- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.5.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.5.0), 4 days ago) - PHP App store In-App Purchase implementaiton.
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.2.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.2.0), 6 days ago) - Google Play billing
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
