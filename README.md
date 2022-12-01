@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (1 day ago)
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (1 day ago)
-- [imdhemy/laravel-iap-docs](https://github.com/imdhemy/laravel-iap-docs) - Laravel in app purchase documentation (5 days ago)
+- [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (2 days ago)
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (2 days ago)
+- [imdhemy/laravel-iap-docs](https://github.com/imdhemy/laravel-iap-docs) - Laravel in app purchase documentation (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v9.42.0](https://github.com/laravel/framework/releases/tag/v9.42.0), 1 day ago) - The Laravel Framework.
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.4.1](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.4.1), 1 day ago) - Validate products and subscription receipts. Handle subscription lifecycle.
+- [laravel/framework](https://github.com/laravel/framework) ([v9.42.0](https://github.com/laravel/framework/releases/tag/v9.42.0), 2 days ago) - The Laravel Framework.
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.4.1](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.4.1), 2 days ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 - [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.5.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.5.0), 3 weeks ago) - PHP App store In-App Purchase implementaiton.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
