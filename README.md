@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (1 day ago)
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (1 day ago)
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (3 days ago)
+- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton. (1 day ago)
+- [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.3.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.3.0), 1 day ago) - Google Play billing
-- [laravel/framework](https://github.com/laravel/framework) ([v9.43.0](https://github.com/laravel/framework/releases/tag/v9.43.0), 3 days ago) - The Laravel Framework.
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.4.2](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.4.2), 3 days ago) - Validate products and subscription receipts. Handle subscription lifecycle.
+- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.5.3](https://github.com/imdhemy/appstore-iap/releases/tag/1.5.3), 1 day ago) - PHP App store In-App Purchase implementaiton.
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.3.1](https://github.com/imdhemy/google-play-billing/releases/tag/1.3.1), 1 day ago) - Google Play billing
+- [laravel/framework](https://github.com/laravel/framework) ([v9.43.0](https://github.com/laravel/framework/releases/tag/v9.43.0), 4 days ago) - The Laravel Framework.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
