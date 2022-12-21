@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (1 day ago)
-- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton. (1 day ago)
-- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (4 days ago)
+- [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (2 days ago)
+- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton. (2 days ago)
+- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v9.44.0](https://github.com/laravel/framework/releases/tag/v9.44.0), 2 days ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v9.45.0](https://github.com/laravel/framework/releases/tag/v9.45.0), 1 day ago) - The Laravel Framework.
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.5.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.5.0), 1 week ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 - [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.5.4](https://github.com/imdhemy/appstore-iap/releases/tag/1.5.4), 1 week ago) - PHP App store In-App Purchase implementaiton.
 
