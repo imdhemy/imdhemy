@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (2 days ago)
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (2 days ago)
-- [piscibus/php-hashtag](https://github.com/piscibus/php-hashtag) - A simple php service for parsing hashtags from a string in any language. (5 days ago)
+- [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (1 day ago)
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (3 days ago)
+- [piscibus/php-hashtag](https://github.com/piscibus/php-hashtag) - A simple php service for parsing hashtags from a string in any language. (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v9.48.0](https://github.com/laravel/framework/releases/tag/v9.48.0), 4 days ago) - The Laravel Framework.
-- [piscibus/php-hashtag](https://github.com/piscibus/php-hashtag) ([1.1.0](https://github.com/piscibus/php-hashtag/releases/tag/1.1.0), 5 days ago) - A simple php service for parsing hashtags from a string in any language.
+- [laravel/framework](https://github.com/laravel/framework) ([v9.48.0](https://github.com/laravel/framework/releases/tag/v9.48.0), 5 days ago) - The Laravel Framework.
+- [piscibus/php-hashtag](https://github.com/piscibus/php-hashtag) ([1.1.0](https://github.com/piscibus/php-hashtag/releases/tag/1.1.0), 6 days ago) - A simple php service for parsing hashtags from a string in any language.
 - [mgamal92/paymob-laravel](https://github.com/mgamal92/paymob-laravel) ([v1.1.2](https://github.com/mgamal92/paymob-laravel/releases/tag/v1.1.2), 1 week ago) - 🚀  Paymob API Integration with Laravel
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
