@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (2 days ago)
-- [imdhemy/laravel-iap-docs](https://github.com/imdhemy/laravel-iap-docs) - Laravel in app purchase documentation (4 days ago)
-- [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (6 days ago)
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (3 days ago)
+- [imdhemy/laravel-iap-docs](https://github.com/imdhemy/laravel-iap-docs) - Laravel in app purchase documentation (5 days ago)
+- [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.6.3](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.6.3), 2 days ago) - Validate products and subscription receipts. Handle subscription lifecycle.
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) ([v4.11.0](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v4.11.0), 5 days ago) - Generates documentation for your REST API from annotations
-- [spatie/laravel-validation-rules](https://github.com/spatie/laravel-validation-rules) ([3.2.2](https://github.com/spatie/laravel-validation-rules/releases/tag/3.2.2), 5 days ago) - A set of useful Laravel validation rules
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.6.3](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.6.3), 3 days ago) - Validate products and subscription receipts. Handle subscription lifecycle.
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) ([v4.11.0](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v4.11.0), 6 days ago) - Generates documentation for your REST API from annotations
+- [spatie/laravel-validation-rules](https://github.com/spatie/laravel-validation-rules) ([3.2.2](https://github.com/spatie/laravel-validation-rules/releases/tag/3.2.2), 6 days ago) - A set of useful Laravel validation rules
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
