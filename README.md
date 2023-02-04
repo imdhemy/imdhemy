@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (6 days ago)
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (1 week ago)
 - [imdhemy/laravel-iap-docs](https://github.com/imdhemy/laravel-iap-docs) - Laravel in app purchase documentation (1 week ago)
 - [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (1 week ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) ([v4.11.1](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v4.11.1), 2 days ago) - Generates documentation for your REST API from annotations
-- [laravel/framework](https://github.com/laravel/framework) ([v9.49.0](https://github.com/laravel/framework/releases/tag/v9.49.0), 3 days ago) - The Laravel Framework.
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.6.3](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.6.3), 6 days ago) - Validate products and subscription receipts. Handle subscription lifecycle.
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) ([v4.11.1](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v4.11.1), 3 days ago) - Generates documentation for your REST API from annotations
+- [laravel/framework](https://github.com/laravel/framework) ([v9.49.0](https://github.com/laravel/framework/releases/tag/v9.49.0), 4 days ago) - The Laravel Framework.
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.6.3](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.6.3), 1 week ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
