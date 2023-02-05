@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) ([v4.11.1](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v4.11.1), 3 days ago) - Generates documentation for your REST API from annotations
-- [laravel/framework](https://github.com/laravel/framework) ([v9.49.0](https://github.com/laravel/framework/releases/tag/v9.49.0), 4 days ago) - The Laravel Framework.
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) ([v4.11.1](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v4.11.1), 4 days ago) - Generates documentation for your REST API from annotations
+- [laravel/framework](https://github.com/laravel/framework) ([v9.49.0](https://github.com/laravel/framework/releases/tag/v9.49.0), 5 days ago) - The Laravel Framework.
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.6.3](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.6.3), 1 week ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
