@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (1 day ago)
-- [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (6 days ago)
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (2 days ago)
+- [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (1 week ago)
 - [imdhemy/laravel-iap-docs](https://github.com/imdhemy/laravel-iap-docs) - Laravel in app purchase documentation (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v9.51.0](https://github.com/laravel/framework/releases/tag/v9.51.0), 6 days ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v9.51.0](https://github.com/laravel/framework/releases/tag/v9.51.0), 1 week ago) - The Laravel Framework.
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.7.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.7.0), 1 week ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 - [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) ([v4.11.1](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v4.11.1), 1 week ago) - Generates documentation for your REST API from annotations
 
