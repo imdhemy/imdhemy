@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (1 day ago)
-- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton. (1 day ago)
-- [imdhemy/laravel-iap-docs](https://github.com/imdhemy/laravel-iap-docs) - Laravel in app purchase documentation (3 days ago)
+- [imdhemy/laravel-iap-docs](https://github.com/imdhemy/laravel-iap-docs) - Laravel in app purchase documentation (1 day ago)
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (2 days ago)
+- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton. (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v10.1.5](https://github.com/laravel/framework/releases/tag/v10.1.5), 2 days ago) - The Laravel Framework.
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.7.1](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.7.1), 1 week ago) - Validate products and subscription receipts. Handle subscription lifecycle.
-- [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) ([2.1.0](https://github.com/spatie/elasticsearch-query-builder/releases/tag/2.1.0), 1 week ago) - Build and execute an Elasticsearch search query using a fluent PHP API
+- [laravel/framework](https://github.com/laravel/framework) ([v10.1.5](https://github.com/laravel/framework/releases/tag/v10.1.5), 3 days ago) - The Laravel Framework.
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.7.1](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.7.1), 2 weeks ago) - Validate products and subscription receipts. Handle subscription lifecycle.
+- [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) ([2.1.0](https://github.com/spatie/elasticsearch-query-builder/releases/tag/2.1.0), 2 weeks ago) - Build and execute an Elasticsearch search query using a fluent PHP API
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
