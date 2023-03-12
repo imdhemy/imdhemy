@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/laravel-iap-docs](https://github.com/imdhemy/laravel-iap-docs) - Laravel in app purchase documentation (1 day ago)
-- [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (5 days ago)
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (5 days ago)
+- [imdhemy/laravel-iap-docs](https://github.com/imdhemy/laravel-iap-docs) - Laravel in app purchase documentation (2 days ago)
+- [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (6 days ago)
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v10.3.1](https://github.com/laravel/framework/releases/tag/v10.3.1), 3 days ago) - The Laravel Framework.
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.7.2](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.7.2), 5 days ago) - Validate products and subscription receipts. Handle subscription lifecycle.
+- [laravel/framework](https://github.com/laravel/framework) ([v10.3.1](https://github.com/laravel/framework/releases/tag/v10.3.1), 4 days ago) - The Laravel Framework.
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.7.2](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.7.2), 6 days ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 - [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) ([2.1.0](https://github.com/spatie/elasticsearch-query-builder/releases/tag/2.1.0), 3 weeks ago) - Build and execute an Elasticsearch search query using a fluent PHP API
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
-- [Approximating square roots with Newton’s method](https://imdhemy.com/blog/dsa/approximating-square-roots-with-newton&#39;s-method.html) (2 months ago)
+- [Approximating square roots with Newton’s method](https://imdhemy.com/blog/dsa/approximating-square-roots-with-newton&#39;s-method.html) (3 months ago)
 - [How to organize your unit tests](https://imdhemy.com/blog/testing/how-to-organize-your-unit-tests.html) (4 months ago)
 - [What is a unit test](https://imdhemy.com/blog/testing/what-is-a-unit-test.html) (7 months ago)
 
