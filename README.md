@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v10.3.1](https://github.com/laravel/framework/releases/tag/v10.3.1), 5 days ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v10.3.1](https://github.com/laravel/framework/releases/tag/v10.3.1), 6 days ago) - The Laravel Framework.
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.7.2](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.7.2), 1 week ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 - [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) ([2.1.0](https://github.com/spatie/elasticsearch-query-builder/releases/tag/2.1.0), 3 weeks ago) - Build and execute an Elasticsearch search query using a fluent PHP API
 
