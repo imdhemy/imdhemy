@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (1 day ago)
-- [Hamza-Azeem/test_repo](https://github.com/Hamza-Azeem/test_repo) - test repo for using git commands  (2 days ago)
-- [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (5 days ago)
+- [Hamza-Azeem/test_repo](https://github.com/Hamza-Azeem/test_repo) - test repo for using git commands  (3 days ago)
+- [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v10.5.1](https://github.com/laravel/framework/releases/tag/v10.5.1), 2 days ago) - The Laravel Framework.
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.3.2](https://github.com/imdhemy/google-play-billing/releases/tag/1.3.2), 3 days ago) - Google Play billing
+- [laravel/framework](https://github.com/laravel/framework) ([v10.5.1](https://github.com/laravel/framework/releases/tag/v10.5.1), 3 days ago) - The Laravel Framework.
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.3.2](https://github.com/imdhemy/google-play-billing/releases/tag/1.3.2), 4 days ago) - Google Play billing
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.7.2](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.7.2), 3 weeks ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
