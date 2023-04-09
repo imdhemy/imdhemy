@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (1 day ago)
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (1 day ago)
+- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton. (1 day ago)
 - [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (1 day ago)
-- [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.4.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.4.0), 1 day ago) - Google Play billing
-- [laravel/framework](https://github.com/laravel/framework) ([v10.6.1](https://github.com/laravel/framework/releases/tag/v10.6.1), 3 days ago) - The Laravel Framework.
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.7.2](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.7.2), 1 month ago) - Validate products and subscription receipts. Handle subscription lifecycle.
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.8.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.8.0), 1 day ago) - Validate products and subscription receipts. Handle subscription lifecycle.
+- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.6.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.6.0), 1 day ago) - PHP App store In-App Purchase implementaiton.
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.4.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.4.0), 2 days ago) - Google Play billing
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
