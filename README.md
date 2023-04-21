@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (4 days ago)
-- [piscibus/scrum-poker](https://github.com/piscibus/scrum-poker) -  (6 days ago)
+- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (5 days ago)
+- [piscibus/scrum-poker](https://github.com/piscibus/scrum-poker) -  (1 week ago)
 - [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) -  (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v10.8.0](https://github.com/laravel/framework/releases/tag/v10.8.0), 2 days ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v10.8.0](https://github.com/laravel/framework/releases/tag/v10.8.0), 3 days ago) - The Laravel Framework.
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.8.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.8.0), 1 week ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 - [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.6.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.6.0), 1 week ago) - PHP App store In-App Purchase implementaiton.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
-- [Hidden Gems in Composer Every PHP Developer Should Know](https://imdhemy.com/blog/php/hidden-gems-in-composer.html) (4 days ago)
+- [Hidden Gems in Composer Every PHP Developer Should Know](https://imdhemy.com/blog/php/hidden-gems-in-composer.html) (5 days ago)
 - [Back to dark theme](https://imdhemy.com/blog/generic/back-to-dark-theme.html) (1 week ago)
 - [Approximating square roots with Newton’s method](https://imdhemy.com/blog/dsa/approximating-square-roots-with-newton&#39;s-method.html) (4 months ago)
 
