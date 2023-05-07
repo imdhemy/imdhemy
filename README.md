@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/d-mentor](https://github.com/imdhemy/d-mentor) - A mentorship program introduced by me @imdhemy to help students and newbies find their way in the development world. (5 days ago)
+- [imdhemy/d-mentor](https://github.com/imdhemy/d-mentor) - A mentorship program introduced by me @imdhemy to help students and newbies find their way in the development world. (6 days ago)
 - [imdhemy/yt-solid](https://github.com/imdhemy/yt-solid) - SOLID Principles examples (1 week ago)
 - [imdhemy/laravel-iap-docs](https://github.com/imdhemy/laravel-iap-docs) - Laravel in app purchase documentation (1 week ago)
 
@@ -21,8 +21,8 @@
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
 - [From Code to German: My First Steps Towards Learning a New Language](https://imdhemy.com/blog/germany/from-code-to-german.html) (2 weeks ago)
-- [Hidden Gems in Composer Every PHP Developer Should Know](https://imdhemy.com/blog/php/hidden-gems-in-composer.html) (2 weeks ago)
-- [Back to dark theme](https://imdhemy.com/blog/generic/back-to-dark-theme.html) (3 weeks ago)
+- [Hidden Gems in Composer Every PHP Developer Should Know](https://imdhemy.com/blog/php/hidden-gems-in-composer.html) (3 weeks ago)
+- [Back to dark theme](https://imdhemy.com/blog/generic/back-to-dark-theme.html) (4 weeks ago)
 
 #### 📫 How to reach me
 
