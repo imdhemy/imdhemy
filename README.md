@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v10.10.0](https://github.com/laravel/framework/releases/tag/v10.10.0), 3 days ago) - The Laravel Framework.
-- [spatie/laravel-validation-rules](https://github.com/spatie/laravel-validation-rules) ([3.3.0](https://github.com/spatie/laravel-validation-rules/releases/tag/3.3.0), 3 days ago) - A set of useful Laravel validation rules
+- [laravel/framework](https://github.com/laravel/framework) ([v10.10.0](https://github.com/laravel/framework/releases/tag/v10.10.0), 4 days ago) - The Laravel Framework.
+- [spatie/laravel-validation-rules](https://github.com/spatie/laravel-validation-rules) ([3.3.0](https://github.com/spatie/laravel-validation-rules/releases/tag/3.3.0), 4 days ago) - A set of useful Laravel validation rules
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.8.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.8.0), 1 month ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
-- [From Code to German: My First Steps Towards Learning a New Language](https://imdhemy.com/blog/germany/from-code-to-german.html) (2 weeks ago)
+- [From Code to German: My First Steps Towards Learning a New Language](https://imdhemy.com/blog/germany/from-code-to-german.html) (3 weeks ago)
 - [Hidden Gems in Composer Every PHP Developer Should Know](https://imdhemy.com/blog/php/hidden-gems-in-composer.html) (3 weeks ago)
 - [Back to dark theme](https://imdhemy.com/blog/generic/back-to-dark-theme.html) (1 month ago)
 
