@@ -1,12 +1,10 @@
 ### Hi there 👋 I'm Dhemy
 
-A software artist and skilled backend engineer, blending creativity with technical expertise to craft elegant and efficient solutions. With a keen focus on backend engineering, I excel in system architecture, data modeling, and optimizing server-side performance, all while delivering exceptional user experiences. Committed to the open-source community, I actively contribute to its growth, combining artistry and innovation in every endeavor.
-
 #### 👷 Check out what I'm currently working on
 
-- [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (1 week ago)
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (1 week ago)
+- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) -  (today)
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (1 week ago)
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (1 week ago)
 
 #### 🌱 My latest projects
 
