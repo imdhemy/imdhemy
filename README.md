@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v10.11.0](https://github.com/laravel/framework/releases/tag/v10.11.0), 4 days ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v10.11.0](https://github.com/laravel/framework/releases/tag/v10.11.0), 5 days ago) - The Laravel Framework.
 - [spatie/laravel-validation-rules](https://github.com/spatie/laravel-validation-rules) ([3.3.0](https://github.com/spatie/laravel-validation-rules/releases/tag/3.3.0), 1 week ago) - A set of useful Laravel validation rules
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.8.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.8.0), 1 month ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 
