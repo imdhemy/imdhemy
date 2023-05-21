@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Dhemy
 
+A software artist and skilled backend engineer, blending creativity with technical expertise to craft elegant and efficient solutions. With a keen focus on backend engineering, I excel in system architecture, data modeling, and optimizing server-side performance, all while delivering exceptional user experiences. Committed to the open-source community, I actively contribute to its growth, combining artistry and innovation in every endeavor.
+
 #### 👷 Check out what I'm currently working on
 
 - [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) -  (today)
