@@ -4,9 +4,9 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/d-mentor](https://github.com/imdhemy/d-mentor) - A mentorship program introduced by me @imdhemy to help students and newbies find their way in the development world. (1 day ago)
-- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton. (1 day ago)
-- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (2 days ago)
+- [imdhemy/d-mentor](https://github.com/imdhemy/d-mentor) - A mentorship program introduced by me @imdhemy to help students and newbies find their way in the development world. (2 days ago)
+- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton. (2 days ago)
+- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (3 days ago)
 
 #### 🌱 My latest projects
 
