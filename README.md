@@ -4,9 +4,9 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 👷 Check out what I'm currently working on
 
-- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) - The SymBlaze HTTP bundle (4 days ago)
-- [piscibus/php-hashtag](https://github.com/piscibus/php-hashtag) - A simple php service for parsing hashtags from a string in any language. (5 days ago)
-- [symblaze/.github](https://github.com/symblaze/.github) - Symblaze (6 days ago)
+- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) - The SymBlaze HTTP bundle (1 day ago)
+- [piscibus/php-hashtag](https://github.com/piscibus/php-hashtag) - A simple php service for parsing hashtags from a string in any language. (6 days ago)
+- [symblaze/.github](https://github.com/symblaze/.github) - Symblaze (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -16,9 +16,9 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v10.13.0](https://github.com/laravel/framework/releases/tag/v10.13.0), 5 days ago) - The Laravel Framework.
-- [piscibus/php-hashtag](https://github.com/piscibus/php-hashtag) ([1.1.1](https://github.com/piscibus/php-hashtag/releases/tag/1.1.1), 5 days ago) - A simple php service for parsing hashtags from a string in any language.
-- [spatie/laravel-validation-rules](https://github.com/spatie/laravel-validation-rules) ([3.3.1](https://github.com/spatie/laravel-validation-rules/releases/tag/3.3.1), 6 days ago) - A set of useful Laravel validation rules
+- [laravel/framework](https://github.com/laravel/framework) ([v10.13.0](https://github.com/laravel/framework/releases/tag/v10.13.0), 6 days ago) - The Laravel Framework.
+- [piscibus/php-hashtag](https://github.com/piscibus/php-hashtag) ([1.1.1](https://github.com/piscibus/php-hashtag/releases/tag/1.1.1), 6 days ago) - A simple php service for parsing hashtags from a string in any language.
+- [spatie/laravel-validation-rules](https://github.com/spatie/laravel-validation-rules) ([3.3.1](https://github.com/spatie/laravel-validation-rules/releases/tag/3.3.1), 1 week ago) - A set of useful Laravel validation rules
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
