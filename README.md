@@ -4,9 +4,9 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 👷 Check out what I'm currently working on
 
-- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) - The SymBlaze HTTP bundle (1 day ago)
-- [piscibus/php-hashtag](https://github.com/piscibus/php-hashtag) - A simple php service for parsing hashtags from a string in any language. (6 days ago)
-- [symblaze/.github](https://github.com/symblaze/.github) - Symblaze (1 week ago)
+- [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (1 day ago)
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (1 day ago)
+- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) - The SymBlaze HTTP bundle (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -16,9 +16,9 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v10.13.0](https://github.com/laravel/framework/releases/tag/v10.13.0), 6 days ago) - The Laravel Framework.
-- [piscibus/php-hashtag](https://github.com/piscibus/php-hashtag) ([1.1.1](https://github.com/piscibus/php-hashtag/releases/tag/1.1.1), 6 days ago) - A simple php service for parsing hashtags from a string in any language.
-- [spatie/laravel-validation-rules](https://github.com/spatie/laravel-validation-rules) ([3.3.1](https://github.com/spatie/laravel-validation-rules/releases/tag/3.3.1), 1 week ago) - A set of useful Laravel validation rules
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.4.1](https://github.com/imdhemy/google-play-billing/releases/tag/1.4.1), 1 day ago) - Google Play billing
+- [laravel/framework](https://github.com/laravel/framework) ([v10.13.0](https://github.com/laravel/framework/releases/tag/v10.13.0), 1 week ago) - The Laravel Framework.
+- [piscibus/php-hashtag](https://github.com/piscibus/php-hashtag) ([1.1.1](https://github.com/piscibus/php-hashtag/releases/tag/1.1.1), 1 week ago) - A simple php service for parsing hashtags from a string in any language.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
