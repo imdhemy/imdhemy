@@ -4,9 +4,9 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 👷 Check out what I'm currently working on
 
-- [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (5 days ago)
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (5 days ago)
-- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) - The SymBlaze HTTP bundle (6 days ago)
+- [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (6 days ago)
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (6 days ago)
+- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) - The SymBlaze HTTP bundle (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -16,8 +16,8 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v10.13.2](https://github.com/laravel/framework/releases/tag/v10.13.2), 3 days ago) - The Laravel Framework.
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.4.1](https://github.com/imdhemy/google-play-billing/releases/tag/1.4.1), 5 days ago) - Google Play billing
+- [laravel/framework](https://github.com/laravel/framework) ([v10.13.2](https://github.com/laravel/framework/releases/tag/v10.13.2), 4 days ago) - The Laravel Framework.
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.4.1](https://github.com/imdhemy/google-play-billing/releases/tag/1.4.1), 6 days ago) - Google Play billing
 - [piscibus/php-hashtag](https://github.com/piscibus/php-hashtag) ([1.1.1](https://github.com/piscibus/php-hashtag/releases/tag/1.1.1), 1 week ago) - A simple php service for parsing hashtags from a string in any language.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
