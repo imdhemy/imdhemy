@@ -16,9 +16,9 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v10.13.2](https://github.com/laravel/framework/releases/tag/v10.13.2), 5 days ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v10.13.2](https://github.com/laravel/framework/releases/tag/v10.13.2), 6 days ago) - The Laravel Framework.
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.4.1](https://github.com/imdhemy/google-play-billing/releases/tag/1.4.1), 1 week ago) - Google Play billing
-- [piscibus/php-hashtag](https://github.com/piscibus/php-hashtag) ([1.1.1](https://github.com/piscibus/php-hashtag/releases/tag/1.1.1), 1 week ago) - A simple php service for parsing hashtags from a string in any language.
+- [piscibus/php-hashtag](https://github.com/piscibus/php-hashtag) ([1.1.1](https://github.com/piscibus/php-hashtag/releases/tag/1.1.1), 2 weeks ago) - A simple php service for parsing hashtags from a string in any language.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
