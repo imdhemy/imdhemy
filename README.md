@@ -23,7 +23,7 @@ A software artist and skilled backend engineer, blending creativity with technic
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
 - [From Code to German: My First Steps Towards Learning a New Language](https://imdhemy.com/blog/germany/from-code-to-german.html) (1 month ago)
-- [Hidden Gems in Composer Every PHP Developer Should Know](https://imdhemy.com/blog/php/hidden-gems-in-composer.html) (1 month ago)
+- [Hidden Gems in Composer Every PHP Developer Should Know](https://imdhemy.com/blog/php/hidden-gems-in-composer.html) (2 months ago)
 - [Back to dark theme](https://imdhemy.com/blog/generic/back-to-dark-theme.html) (2 months ago)
 
 #### 📫 How to reach me
