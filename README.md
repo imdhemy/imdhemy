@@ -4,8 +4,8 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (1 week ago)
-- [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (1 week ago)
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (2 weeks ago)
+- [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (2 weeks ago)
 - [symblaze/http-bundle](https://github.com/symblaze/http-bundle) - The SymBlaze HTTP bundle (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -16,9 +16,9 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 🔭 Latest releases I've contributed to
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) ([v4.12.0](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v4.12.0), 2 days ago) - Generates documentation for your REST API from annotations
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) ([v4.12.0](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v4.12.0), 3 days ago) - Generates documentation for your REST API from annotations
 - [laravel/framework](https://github.com/laravel/framework) ([v10.13.2](https://github.com/laravel/framework/releases/tag/v10.13.2), 1 week ago) - The Laravel Framework.
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.4.1](https://github.com/imdhemy/google-play-billing/releases/tag/1.4.1), 1 week ago) - Google Play billing
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.4.1](https://github.com/imdhemy/google-play-billing/releases/tag/1.4.1), 2 weeks ago) - Google Play billing
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
