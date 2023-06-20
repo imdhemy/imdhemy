@@ -16,7 +16,7 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 🔭 Latest releases I've contributed to
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) ([v4.12.0](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v4.12.0), 3 days ago) - Generates documentation for your REST API from annotations
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) ([v4.12.0](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v4.12.0), 4 days ago) - Generates documentation for your REST API from annotations
 - [laravel/framework](https://github.com/laravel/framework) ([v10.13.2](https://github.com/laravel/framework/releases/tag/v10.13.2), 1 week ago) - The Laravel Framework.
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.4.1](https://github.com/imdhemy/google-play-billing/releases/tag/1.4.1), 2 weeks ago) - Google Play billing
 
