@@ -4,9 +4,9 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (2 weeks ago)
+- [imdhemy/laravel-iap-docs](https://github.com/imdhemy/laravel-iap-docs) - Laravel in app purchase documentation (1 day ago)
 - [piscibus/siklid-api](https://github.com/piscibus/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (2 weeks ago)
-- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) - The SymBlaze HTTP bundle (2 weeks ago)
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -16,13 +16,13 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 🔭 Latest releases I've contributed to
 
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) ([v4.12.0](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v4.12.0), 4 days ago) - Generates documentation for your REST API from annotations
-- [laravel/framework](https://github.com/laravel/framework) ([v10.13.2](https://github.com/laravel/framework/releases/tag/v10.13.2), 1 week ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v10.13.5](https://github.com/laravel/framework/releases/tag/v10.13.5), 1 day ago) - The Laravel Framework.
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) ([v4.12.0](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v4.12.0), 5 days ago) - Generates documentation for your REST API from annotations
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.4.1](https://github.com/imdhemy/google-play-billing/releases/tag/1.4.1), 2 weeks ago) - Google Play billing
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
-- [From Code to German: My First Steps Towards Learning a New Language](https://imdhemy.com/blog/germany/from-code-to-german.html) (1 month ago)
+- [From Code to German: My First Steps Towards Learning a New Language](https://imdhemy.com/blog/germany/from-code-to-german.html) (2 months ago)
 - [Hidden Gems in Composer Every PHP Developer Should Know](https://imdhemy.com/blog/php/hidden-gems-in-composer.html) (2 months ago)
 - [Back to dark theme](https://imdhemy.com/blog/generic/back-to-dark-theme.html) (2 months ago)
 
