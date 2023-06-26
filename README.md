@@ -4,9 +4,9 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 👷 Check out what I'm currently working on
 
-- [siklid/siklid-mobile](https://github.com/siklid/siklid-mobile) -  (1 day ago)
-- [siklid/siklid-api](https://github.com/siklid/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (1 day ago)
-- [siklid/siklid](https://github.com/siklid/siklid) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (1 day ago)
+- [marlinkit/nextjs](https://github.com/marlinkit/nextjs) - NextJs component library of MarlinKit (1 day ago)
+- [siklid/siklid-web](https://github.com/siklid/siklid-web) -  (2 days ago)
+- [siklid/siklid-mobile](https://github.com/siklid/siklid-mobile) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -16,9 +16,9 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v10.13.5](https://github.com/laravel/framework/releases/tag/v10.13.5), 5 days ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v10.13.5](https://github.com/laravel/framework/releases/tag/v10.13.5), 6 days ago) - The Laravel Framework.
 - [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) ([v4.12.0](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v4.12.0), 1 week ago) - Generates documentation for your REST API from annotations
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.4.1](https://github.com/imdhemy/google-play-billing/releases/tag/1.4.1), 2 weeks ago) - Google Play billing
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.4.1](https://github.com/imdhemy/google-play-billing/releases/tag/1.4.1), 3 weeks ago) - Google Play billing
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
