@@ -4,9 +4,9 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 👷 Check out what I'm currently working on
 
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (1 day ago)
+- [imdhemy/laravel-iap-docs](https://github.com/imdhemy/laravel-iap-docs) - Laravel in app purchase documentation (1 day ago)
 - [marlinkit/nextjs](https://github.com/marlinkit/nextjs) - NextJs component library of MarlinKit (1 week ago)
-- [siklid/siklid-web](https://github.com/siklid/siklid-web) -  (1 week ago)
-- [siklid/siklid-mobile](https://github.com/siklid/siklid-mobile) -  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -16,9 +16,9 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v10.14.1](https://github.com/laravel/framework/releases/tag/v10.14.1), 6 days ago) - The Laravel Framework.
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) ([v4.12.0](https://github.com/nelmio/NelmioApiDocBundle/releases/tag/v4.12.0), 2 weeks ago) - Generates documentation for your REST API from annotations
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.4.1](https://github.com/imdhemy/google-play-billing/releases/tag/1.4.1), 4 weeks ago) - Google Play billing
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.8.2](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.8.2), 1 day ago) - Validate products and subscription receipts. Handle subscription lifecycle.
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.4.2](https://github.com/imdhemy/google-play-billing/releases/tag/1.4.2), 1 day ago) - Google Play billing
+- [laravel/framework](https://github.com/laravel/framework) ([v10.14.1](https://github.com/laravel/framework/releases/tag/v10.14.1), 1 week ago) - The Laravel Framework.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
