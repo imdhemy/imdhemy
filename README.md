@@ -4,9 +4,9 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 👷 Check out what I'm currently working on
 
-- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) - The SymBlaze HTTP bundle (1 day ago)
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (2 days ago)
-- [imdhemy/laravel-iap-docs](https://github.com/imdhemy/laravel-iap-docs) - Laravel in app purchase documentation (2 days ago)
+- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) - The SymBlaze HTTP bundle (2 days ago)
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (3 days ago)
+- [imdhemy/laravel-iap-docs](https://github.com/imdhemy/laravel-iap-docs) - Laravel in app purchase documentation (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -16,8 +16,8 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.8.2](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.8.2), 2 days ago) - Validate products and subscription receipts. Handle subscription lifecycle.
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.4.2](https://github.com/imdhemy/google-play-billing/releases/tag/1.4.2), 2 days ago) - Google Play billing
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.8.2](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.8.2), 3 days ago) - Validate products and subscription receipts. Handle subscription lifecycle.
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.4.2](https://github.com/imdhemy/google-play-billing/releases/tag/1.4.2), 3 days ago) - Google Play billing
 - [laravel/framework](https://github.com/laravel/framework) ([v10.14.1](https://github.com/laravel/framework/releases/tag/v10.14.1), 1 week ago) - The Laravel Framework.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
