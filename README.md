@@ -4,8 +4,8 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/laravel-iap-docs](https://github.com/imdhemy/laravel-iap-docs) - Laravel in app purchase documentation (2 days ago)
-- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) - The SymBlaze HTTP bundle (3 days ago)
+- [imdhemy/laravel-iap-docs](https://github.com/imdhemy/laravel-iap-docs) - Laravel in app purchase documentation (3 days ago)
+- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) - The SymBlaze HTTP bundle (4 days ago)
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (1 week ago)
 
 #### 🌱 My latest projects
@@ -16,7 +16,7 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v10.15.0](https://github.com/laravel/framework/releases/tag/v10.15.0), 1 day ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v10.15.0](https://github.com/laravel/framework/releases/tag/v10.15.0), 2 days ago) - The Laravel Framework.
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.8.2](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.8.2), 1 week ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.4.2](https://github.com/imdhemy/google-play-billing/releases/tag/1.4.2), 1 week ago) - Google Play billing
 
