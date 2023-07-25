@@ -6,7 +6,7 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 - [symblaze/http-bundle](https://github.com/symblaze/http-bundle) - The SymBlaze HTTP bundle (1 week ago)
 - [imdhemy/laravel-iap-docs](https://github.com/imdhemy/laravel-iap-docs) - Laravel in app purchase documentation (2 weeks ago)
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (2 weeks ago)
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -17,8 +17,8 @@ A software artist and skilled backend engineer, blending creativity with technic
 #### 🔭 Latest releases I've contributed to
 
 - [symblaze/http-bundle](https://github.com/symblaze/http-bundle) ([0.0.1](https://github.com/symblaze/http-bundle/releases/tag/0.0.1), 1 week ago) - The SymBlaze HTTP bundle
-- [laravel/framework](https://github.com/laravel/framework) ([v10.15.0](https://github.com/laravel/framework/releases/tag/v10.15.0), 1 week ago) - The Laravel Framework.
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.8.2](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.8.2), 2 weeks ago) - Validate products and subscription receipts. Handle subscription lifecycle.
+- [laravel/framework](https://github.com/laravel/framework) ([v10.15.0](https://github.com/laravel/framework/releases/tag/v10.15.0), 2 weeks ago) - The Laravel Framework.
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.8.2](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.8.2), 3 weeks ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
