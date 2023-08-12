@@ -4,9 +4,9 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 👷 Check out what I'm currently working on
 
-- [siklid/siklid-mobile](https://github.com/siklid/siklid-mobile) -  (1 week ago)
-- [siklid/siklid-api](https://github.com/siklid/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (1 week ago)
-- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) - The SymBlaze HTTP bundle (1 week ago)
+- [siklid/siklid-mobile](https://github.com/siklid/siklid-mobile) -  (2 weeks ago)
+- [siklid/siklid-api](https://github.com/siklid/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (2 weeks ago)
+- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) - The SymBlaze HTTP bundle (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -16,8 +16,8 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v10.18.0](https://github.com/laravel/framework/releases/tag/v10.18.0), 3 days ago) - The Laravel Framework.
-- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) ([0.0.4](https://github.com/symblaze/http-bundle/releases/tag/0.0.4), 1 week ago) - The SymBlaze HTTP bundle
+- [laravel/framework](https://github.com/laravel/framework) ([v10.18.0](https://github.com/laravel/framework/releases/tag/v10.18.0), 4 days ago) - The Laravel Framework.
+- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) ([0.0.4](https://github.com/symblaze/http-bundle/releases/tag/0.0.4), 2 weeks ago) - The SymBlaze HTTP bundle
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.8.2](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.8.2), 1 month ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
