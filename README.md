@@ -16,7 +16,7 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v10.18.0](https://github.com/laravel/framework/releases/tag/v10.18.0), 1 week ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v10.19.0](https://github.com/laravel/framework/releases/tag/v10.19.0), 1 day ago) - The Laravel Framework.
 - [symblaze/http-bundle](https://github.com/symblaze/http-bundle) ([0.0.4](https://github.com/symblaze/http-bundle/releases/tag/0.0.4), 2 weeks ago) - The SymBlaze HTTP bundle
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.8.2](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.8.2), 1 month ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 
