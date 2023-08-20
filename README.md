@@ -4,7 +4,7 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (2 days ago)
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (3 days ago)
 - [siklid/siklid-mobile](https://github.com/siklid/siklid-mobile) -  (3 weeks ago)
 - [siklid/siklid-api](https://github.com/siklid/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (3 weeks ago)
 
@@ -16,13 +16,13 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v10.19.0](https://github.com/laravel/framework/releases/tag/v10.19.0), 4 days ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v10.19.0](https://github.com/laravel/framework/releases/tag/v10.19.0), 5 days ago) - The Laravel Framework.
 - [symblaze/http-bundle](https://github.com/symblaze/http-bundle) ([0.0.4](https://github.com/symblaze/http-bundle/releases/tag/0.0.4), 3 weeks ago) - The SymBlaze HTTP bundle
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.8.2](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.8.2), 1 month ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
-- [From Code to German: My First Steps Towards Learning a New Language](https://imdhemy.com/blog/germany/from-code-to-german.html) (3 months ago)
+- [From Code to German: My First Steps Towards Learning a New Language](https://imdhemy.com/blog/germany/from-code-to-german.html) (4 months ago)
 - [Hidden Gems in Composer Every PHP Developer Should Know](https://imdhemy.com/blog/php/hidden-gems-in-composer.html) (4 months ago)
 - [Back to dark theme](https://imdhemy.com/blog/generic/back-to-dark-theme.html) (4 months ago)
 
