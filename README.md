@@ -4,8 +4,8 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (2 days ago)
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (1 month ago)
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (1 day ago)
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (3 days ago)
 - [symblaze/http-bundle](https://github.com/symblaze/http-bundle) - The SymBlaze HTTP bundle (1 month ago)
 
 #### 🌱 My latest projects
@@ -16,9 +16,9 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.5.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.5.0), 2 days ago) - Google Play billing
-- [laravel/framework](https://github.com/laravel/framework) ([v10.23.1](https://github.com/laravel/framework/releases/tag/v10.23.1), 4 days ago) - The Laravel Framework.
-- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) ([0.0.4](https://github.com/symblaze/http-bundle/releases/tag/0.0.4), 1 month ago) - The SymBlaze HTTP bundle
+- [laravel/framework](https://github.com/laravel/framework) ([v10.24.0](https://github.com/laravel/framework/releases/tag/v10.24.0), 1 day ago) - The Laravel Framework.
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.9.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.9.0), 1 day ago) - Validate products and subscription receipts. Handle subscription lifecycle.
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.5.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.5.0), 3 days ago) - Google Play billing
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
