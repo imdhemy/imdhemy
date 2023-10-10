@@ -4,7 +4,7 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (2 weeks ago)
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (3 weeks ago)
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (3 weeks ago)
 - [siklid/siklid-api](https://github.com/siklid/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (2 months ago)
 
@@ -16,8 +16,8 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v10.26.2](https://github.com/laravel/framework/releases/tag/v10.26.2), 6 days ago) - The Laravel Framework.
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.9.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.9.0), 2 weeks ago) - Validate products and subscription receipts. Handle subscription lifecycle.
+- [laravel/framework](https://github.com/laravel/framework) ([v10.26.2](https://github.com/laravel/framework/releases/tag/v10.26.2), 1 week ago) - The Laravel Framework.
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.9.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.9.0), 3 weeks ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.5.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.5.0), 3 weeks ago) - Google Play billing
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
