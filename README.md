@@ -4,7 +4,7 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (4 weeks ago)
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (1 month ago)
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (1 month ago)
 - [siklid/siklid-api](https://github.com/siklid/siklid-api) - Siklid is a flashcard app that uses an improved form of spaced repetition.  (2 months ago)
 
@@ -17,12 +17,12 @@ A software artist and skilled backend engineer, blending creativity with technic
 #### 🔭 Latest releases I've contributed to
 
 - [laravel/framework](https://github.com/laravel/framework) ([v10.28.0](https://github.com/laravel/framework/releases/tag/v10.28.0), 1 week ago) - The Laravel Framework.
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.9.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.9.0), 4 weeks ago) - Validate products and subscription receipts. Handle subscription lifecycle.
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.9.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.9.0), 1 month ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.5.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.5.0), 1 month ago) - Google Play billing
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
-- [From Code to German: My First Steps Towards Learning a New Language](https://imdhemy.com/blog/germany/from-code-to-german.html) (5 months ago)
+- [From Code to German: My First Steps Towards Learning a New Language](https://imdhemy.com/blog/germany/from-code-to-german.html) (6 months ago)
 - [Hidden Gems in Composer Every PHP Developer Should Know](https://imdhemy.com/blog/php/hidden-gems-in-composer.html) (6 months ago)
 - [Back to dark theme](https://imdhemy.com/blog/generic/back-to-dark-theme.html) (6 months ago)
 
