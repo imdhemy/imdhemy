@@ -4,9 +4,9 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 👷 Check out what I'm currently working on
 
-- [symblaze/test-pack](https://github.com/symblaze/test-pack) - Symblaze testing pack (today)
-- [symblaze/console](https://github.com/symblaze/console) - Fluent console configuration for Symfony (1 day ago)
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (2 weeks ago)
+- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) -  (2 weeks ago)
+- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (2 weeks ago)
+- [symblaze/console](https://github.com/symblaze/console) - Fluent console configuration for Symfony (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -16,15 +16,15 @@ A software artist and skilled backend engineer, blending creativity with technic
 
 #### 🔭 Latest releases I've contributed to
 
-- [symblaze/console](https://github.com/symblaze/console) ([1.0.0](https://github.com/symblaze/console/releases/tag/1.0.0), 1 day ago) - Fluent console configuration for Symfony
-- [laravel/framework](https://github.com/laravel/framework) ([v10.39.0](https://github.com/laravel/framework/releases/tag/v10.39.0), 5 days ago) - The Laravel Framework.
-- [symblaze/test-pack](https://github.com/symblaze/test-pack) ([1.1.0](https://github.com/symblaze/test-pack/releases/tag/1.1.0), 1 week ago) - Symblaze testing pack
+- [symblaze/console](https://github.com/symblaze/console) ([1.0.0](https://github.com/symblaze/console/releases/tag/1.0.0), 1 month ago) - Fluent console configuration for Symfony
+- [symblaze/test-pack](https://github.com/symblaze/test-pack) ([1.1.0](https://github.com/symblaze/test-pack/releases/tag/1.1.0), 1 month ago) - Symblaze testing pack
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.9.1](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.9.1), 1 month ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
-- [From Code to German: My First Steps Towards Learning a New Language](https://imdhemy.com/blog/germany/from-code-to-german.html) (8 months ago)
-- [Hidden Gems in Composer Every PHP Developer Should Know](https://imdhemy.com/blog/php/hidden-gems-in-composer.html) (8 months ago)
-- [Back to dark theme](https://imdhemy.com/blog/generic/back-to-dark-theme.html) (8 months ago)
+- [Effective Node.js Modules - Part 1: Basic Syntax](https://imdhemy.com/blog/nodejs/effective-nodejs-modules-part-1.html) (3 weeks ago)
+- [From Code to German: My First Steps Towards Learning a New Language](https://imdhemy.com/blog/germany/from-code-to-german.html) (9 months ago)
+- [Hidden Gems in Composer Every PHP Developer Should Know](https://imdhemy.com/blog/php/hidden-gems-in-composer.html) (9 months ago)
 
 #### 📫 How to reach me
 
