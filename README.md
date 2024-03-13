@@ -5,15 +5,15 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
+- [symblaze/console](https://github.com/symblaze/console) - Fluent console configuration for Symfony (1 day ago)
 - [symblaze/util](https://github.com/symblaze/util) - The SymBlaze Utils (1 day ago)
-- [symblaze/console](https://github.com/symblaze/console) - Fluent console configuration for Symfony (5 days ago)
 - [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) - Official PHP Client for OpenSearch (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symblaze/console](https://github.com/symblaze/console) ([1.0.1](https://github.com/symblaze/console/releases/tag/1.0.1), 5 days ago) - Fluent console configuration for Symfony
+- [symblaze/util](https://github.com/symblaze/util) ([1.0.0](https://github.com/symblaze/util/releases/tag/1.0.0), 1 day ago) - The SymBlaze Utils
+- [symblaze/console](https://github.com/symblaze/console) ([1.0.1](https://github.com/symblaze/console/releases/tag/1.0.1), 6 days ago) - Fluent console configuration for Symfony
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.10.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.10.0), 3 weeks ago) - Validate products and subscription receipts. Handle subscription lifecycle.
-- [symblaze/test-pack](https://github.com/symblaze/test-pack) ([1.1.0](https://github.com/symblaze/test-pack/releases/tag/1.1.0), 2 months ago) - Symblaze testing pack
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
