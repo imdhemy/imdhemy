@@ -5,15 +5,15 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [symblaze/console](https://github.com/symblaze/console) - Fluent console configuration for Symfony (1 day ago)
-- [symblaze/util](https://github.com/symblaze/util) - The SymBlaze Utils (5 days ago)
-- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) - Official PHP Client for OpenSearch (1 week ago)
+- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) - The SymBlaze HTTP bundle (1 day ago)
+- [symblaze/console](https://github.com/symblaze/console) - Fluent console configuration for Symfony (2 days ago)
+- [symblaze/util](https://github.com/symblaze/util) - The SymBlaze Utils (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symblaze/console](https://github.com/symblaze/console) ([1.0.2](https://github.com/symblaze/console/releases/tag/1.0.2), 4 days ago) - Fluent console configuration for Symfony
-- [symblaze/util](https://github.com/symblaze/util) ([1.0.0](https://github.com/symblaze/util/releases/tag/1.0.0), 5 days ago) - The SymBlaze Utils
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.10.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.10.0), 4 weeks ago) - Validate products and subscription receipts. Handle subscription lifecycle.
+- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) ([0.0.5](https://github.com/symblaze/http-bundle/releases/tag/0.0.5), 1 day ago) - The SymBlaze HTTP bundle
+- [symblaze/console](https://github.com/symblaze/console) ([1.0.2](https://github.com/symblaze/console/releases/tag/1.0.2), 5 days ago) - Fluent console configuration for Symfony
+- [symblaze/util](https://github.com/symblaze/util) ([1.0.0](https://github.com/symblaze/util/releases/tag/1.0.0), 6 days ago) - The SymBlaze Utils
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
