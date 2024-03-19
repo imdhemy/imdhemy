@@ -5,15 +5,15 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) - The SymBlaze HTTP bundle (1 day ago)
-- [symblaze/console](https://github.com/symblaze/console) - Fluent console configuration for Symfony (2 days ago)
-- [symblaze/util](https://github.com/symblaze/util) - The SymBlaze Utils (6 days ago)
+- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) - The SymBlaze HTTP bundle (2 days ago)
+- [symblaze/console](https://github.com/symblaze/console) - Fluent console configuration for Symfony (3 days ago)
+- [symblaze/util](https://github.com/symblaze/util) - The SymBlaze Utils (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) ([0.0.5](https://github.com/symblaze/http-bundle/releases/tag/0.0.5), 1 day ago) - The SymBlaze HTTP bundle
-- [symblaze/console](https://github.com/symblaze/console) ([1.0.2](https://github.com/symblaze/console/releases/tag/1.0.2), 5 days ago) - Fluent console configuration for Symfony
-- [symblaze/util](https://github.com/symblaze/util) ([1.0.0](https://github.com/symblaze/util/releases/tag/1.0.0), 6 days ago) - The SymBlaze Utils
+- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) ([0.0.5](https://github.com/symblaze/http-bundle/releases/tag/0.0.5), 2 days ago) - The SymBlaze HTTP bundle
+- [symblaze/console](https://github.com/symblaze/console) ([1.0.2](https://github.com/symblaze/console/releases/tag/1.0.2), 6 days ago) - Fluent console configuration for Symfony
+- [symblaze/util](https://github.com/symblaze/util) ([1.0.0](https://github.com/symblaze/util/releases/tag/1.0.0), 1 week ago) - The SymBlaze Utils
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
