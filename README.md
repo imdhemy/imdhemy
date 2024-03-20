@@ -5,15 +5,15 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) - The SymBlaze HTTP bundle (2 days ago)
-- [symblaze/console](https://github.com/symblaze/console) - Fluent console configuration for Symfony (3 days ago)
-- [symblaze/util](https://github.com/symblaze/util) - The SymBlaze Utils (1 week ago)
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (1 day ago)
+- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) - The SymBlaze HTTP bundle (3 days ago)
+- [symblaze/console](https://github.com/symblaze/console) - Fluent console configuration for Symfony (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) ([0.0.5](https://github.com/symblaze/http-bundle/releases/tag/0.0.5), 2 days ago) - The SymBlaze HTTP bundle
-- [symblaze/console](https://github.com/symblaze/console) ([1.0.2](https://github.com/symblaze/console/releases/tag/1.0.2), 6 days ago) - Fluent console configuration for Symfony
-- [symblaze/util](https://github.com/symblaze/util) ([1.0.0](https://github.com/symblaze/util/releases/tag/1.0.0), 1 week ago) - The SymBlaze Utils
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.5.2](https://github.com/imdhemy/google-play-billing/releases/tag/1.5.2), 1 day ago) - Google Play billing
+- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) ([0.0.5](https://github.com/symblaze/http-bundle/releases/tag/0.0.5), 3 days ago) - The SymBlaze HTTP bundle
+- [symblaze/console](https://github.com/symblaze/console) ([1.0.2](https://github.com/symblaze/console/releases/tag/1.0.2), 1 week ago) - Fluent console configuration for Symfony
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
