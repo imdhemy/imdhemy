@@ -6,14 +6,14 @@ passionate about open source, blogging, and reading.
 #### 👷 Check out what I'm currently working on
 
 - [symblaze/mare-scan](https://github.com/symblaze/mare-scan) - Yet another PHP static code analysis tool written in PHP (1 day ago)
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (4 days ago)
-- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) - The SymBlaze HTTP bundle (6 days ago)
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (5 days ago)
+- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) - The SymBlaze HTTP bundle (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.5.2](https://github.com/imdhemy/google-play-billing/releases/tag/1.5.2), 4 days ago) - Google Play billing
-- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) ([0.0.5](https://github.com/symblaze/http-bundle/releases/tag/0.0.5), 6 days ago) - The SymBlaze HTTP bundle
-- [symblaze/console](https://github.com/symblaze/console) ([1.0.2](https://github.com/symblaze/console/releases/tag/1.0.2), 1 week ago) - Fluent console configuration for Symfony
+- [symblaze/mare-scan](https://github.com/symblaze/mare-scan) ([0.0.1](https://github.com/symblaze/mare-scan/releases/tag/0.0.1), 1 day ago) - Yet another PHP static code analysis tool written in PHP
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.5.2](https://github.com/imdhemy/google-play-billing/releases/tag/1.5.2), 5 days ago) - Google Play billing
+- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) ([0.0.5](https://github.com/symblaze/http-bundle/releases/tag/0.0.5), 1 week ago) - The SymBlaze HTTP bundle
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
