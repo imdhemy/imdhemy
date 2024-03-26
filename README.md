@@ -5,21 +5,21 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [symblaze/mare-scan](https://github.com/symblaze/mare-scan) - Yet another PHP static code analysis tool written in PHP (2 days ago)
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (6 days ago)
-- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) - The SymBlaze HTTP bundle (1 week ago)
+- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (1 day ago)
+- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) -  (1 day ago)
+- [symblaze/mare-scan](https://github.com/symblaze/mare-scan) - Yet another PHP static code analysis tool written in PHP (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symblaze/mare-scan](https://github.com/symblaze/mare-scan) ([0.0.1](https://github.com/symblaze/mare-scan/releases/tag/0.0.1), 2 days ago) - Yet another PHP static code analysis tool written in PHP
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.5.2](https://github.com/imdhemy/google-play-billing/releases/tag/1.5.2), 6 days ago) - Google Play billing
-- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) ([0.0.5](https://github.com/symblaze/http-bundle/releases/tag/0.0.5), 1 week ago) - The SymBlaze HTTP bundle
+- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) ([0.0.6](https://github.com/symblaze/http-bundle/releases/tag/0.0.6), 1 day ago) - The SymBlaze HTTP bundle
+- [symblaze/mare-scan](https://github.com/symblaze/mare-scan) ([0.0.1](https://github.com/symblaze/mare-scan/releases/tag/0.0.1), 3 days ago) - Yet another PHP static code analysis tool written in PHP
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.5.2](https://github.com/imdhemy/google-play-billing/releases/tag/1.5.2), 1 week ago) - Google Play billing
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
+- [Effective Node.js Modules - Part 2: ESM dynamic imports](https://imdhemy.com/blog/nodejs/esm-dynamic-imports.html) (1 day ago)
 - [Effective Node.js Modules - Part 1: Basic Syntax](https://imdhemy.com/blog/nodejs/effective-nodejs-modules-part-1.html) (2 months ago)
 - [From Code to German: My First Steps Towards Learning a New Language](https://imdhemy.com/blog/germany/from-code-to-german.html) (11 months ago)
-- [Hidden Gems in Composer Every PHP Developer Should Know](https://imdhemy.com/blog/php/hidden-gems-in-composer.html) (11 months ago)
 
 #### 📫 How to reach me
 
