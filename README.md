@@ -6,13 +6,13 @@ passionate about open source, blogging, and reading.
 #### 👷 Check out what I'm currently working on
 
 - [nuschool-app/nuschool](https://github.com/nuschool-app/nuschool) - The top notch LMS (1 day ago)
-- [symblaze/console](https://github.com/symblaze/console) - Fluent console configuration for Symfony (2 days ago)
+- [symblaze/console](https://github.com/symblaze/console) - Fluent console configuration for Symfony (3 days ago)
 - [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symblaze/console](https://github.com/symblaze/console) ([1.2.0](https://github.com/symblaze/console/releases/tag/1.2.0), 3 days ago) - Fluent console configuration for Symfony
-- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) ([0.0.7](https://github.com/symblaze/http-bundle/releases/tag/0.0.7), 1 week ago) - The SymBlaze HTTP bundle
+- [symblaze/console](https://github.com/symblaze/console) ([1.2.0](https://github.com/symblaze/console/releases/tag/1.2.0), 4 days ago) - Fluent console configuration for Symfony
+- [symblaze/http-bundle](https://github.com/symblaze/http-bundle) ([0.0.7](https://github.com/symblaze/http-bundle/releases/tag/0.0.7), 2 weeks ago) - The SymBlaze HTTP bundle
 - [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.6.1](https://github.com/imdhemy/appstore-iap/releases/tag/1.6.1), 2 weeks ago) - PHP App store In-App Purchase implementaiton.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
