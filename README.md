@@ -5,13 +5,13 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (1 day ago)
-- [symblaze/console](https://github.com/symblaze/console) - Fluent console configuration for Symfony (5 days ago)
+- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (2 days ago)
+- [symblaze/console](https://github.com/symblaze/console) - Fluent console configuration for Symfony (6 days ago)
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symblaze/console](https://github.com/symblaze/console) ([1.2.0](https://github.com/symblaze/console/releases/tag/1.2.0), 6 days ago) - Fluent console configuration for Symfony
+- [symblaze/console](https://github.com/symblaze/console) ([1.2.0](https://github.com/symblaze/console/releases/tag/1.2.0), 1 week ago) - Fluent console configuration for Symfony
 - [symblaze/http-bundle](https://github.com/symblaze/http-bundle) ([0.0.7](https://github.com/symblaze/http-bundle/releases/tag/0.0.7), 2 weeks ago) - The SymBlaze HTTP bundle
 - [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.6.1](https://github.com/imdhemy/appstore-iap/releases/tag/1.6.1), 2 weeks ago) - PHP App store In-App Purchase implementaiton.
 
