@@ -5,9 +5,9 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (2 days ago)
-- [symblaze/console](https://github.com/symblaze/console) - Fluent console configuration for Symfony (6 days ago)
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (1 week ago)
+- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) -  (1 day ago)
+- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (1 day ago)
+- [symblaze/console](https://github.com/symblaze/console) - Fluent console configuration for Symfony (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -17,9 +17,9 @@ passionate about open source, blogging, and reading.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
+- [Singleton Design Pattern in Laravel](https://imdhemy.com/blog/php/singleton-design-pattern-in-laravel.html/) (1 day ago)
 - [How to avoid boilerplate code in Symfony Voters](https://imdhemy.com/blog/php/how-to-avoid-boilerplate-code-in-symfony-voters.html/) (1 week ago)
-- [What Symfony developers should know before using Voters](https://imdhemy.com/blog/php/what-symfony-developers-should-know-before-using-voters.html/) (1 week ago)
-- [The pipeline ate my code](https://imdhemy.com/blog/generic/the-pipeline-ate-my-code.html/) (2 weeks ago)
+- [What Symfony developers should know before using Voters](https://imdhemy.com/blog/php/what-symfony-developers-should-know-before-using-voters.html/) (2 weeks ago)
 
 #### 📫 How to reach me
 
