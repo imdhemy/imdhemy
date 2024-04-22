@@ -5,19 +5,19 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) -  (6 days ago)
-- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (6 days ago)
+- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) -  (1 week ago)
+- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (1 week ago)
 - [symblaze/console](https://github.com/symblaze/console) - Fluent console configuration for Symfony (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symblaze/console](https://github.com/symblaze/console) ([1.2.0](https://github.com/symblaze/console/releases/tag/1.2.0), 1 week ago) - Fluent console configuration for Symfony
+- [symblaze/console](https://github.com/symblaze/console) ([1.2.0](https://github.com/symblaze/console/releases/tag/1.2.0), 2 weeks ago) - Fluent console configuration for Symfony
 - [symblaze/http-bundle](https://github.com/symblaze/http-bundle) ([0.0.7](https://github.com/symblaze/http-bundle/releases/tag/0.0.7), 3 weeks ago) - The SymBlaze HTTP bundle
 - [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.6.1](https://github.com/imdhemy/appstore-iap/releases/tag/1.6.1), 3 weeks ago) - PHP App store In-App Purchase implementaiton.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
-- [Singleton Design Pattern in Laravel](https://imdhemy.com/blog/php/singleton-design-pattern-in-laravel.html/) (6 days ago)
+- [Singleton Design Pattern in Laravel](https://imdhemy.com/blog/php/singleton-design-pattern-in-laravel.html/) (1 week ago)
 - [How to avoid boilerplate code in Symfony Voters](https://imdhemy.com/blog/php/how-to-avoid-boilerplate-code-in-symfony-voters.html/) (2 weeks ago)
 - [What Symfony developers should know before using Voters](https://imdhemy.com/blog/php/what-symfony-developers-should-know-before-using-voters.html/) (2 weeks ago)
 
