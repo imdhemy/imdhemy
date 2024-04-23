@@ -5,9 +5,9 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) -  (1 week ago)
 - [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (1 week ago)
-- [symblaze/console](https://github.com/symblaze/console) - Fluent console configuration for Symfony (1 week ago)
+- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) -  (1 week ago)
+- [symblaze/console](https://github.com/symblaze/console) - Fluent console configuration for Symfony (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -19,7 +19,7 @@ passionate about open source, blogging, and reading.
 
 - [Singleton Design Pattern in Laravel](https://imdhemy.com/blog/php/singleton-design-pattern-in-laravel.html/) (1 week ago)
 - [How to avoid boilerplate code in Symfony Voters](https://imdhemy.com/blog/php/how-to-avoid-boilerplate-code-in-symfony-voters.html/) (2 weeks ago)
-- [What Symfony developers should know before using Voters](https://imdhemy.com/blog/php/what-symfony-developers-should-know-before-using-voters.html/) (2 weeks ago)
+- [What Symfony developers should know before using Voters](https://imdhemy.com/blog/php/what-symfony-developers-should-know-before-using-voters.html/) (3 weeks ago)
 
 #### 📫 How to reach me
 
