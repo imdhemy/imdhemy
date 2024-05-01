@@ -11,14 +11,14 @@ passionate about open source, blogging, and reading.
 
 #### 🔭 Latest releases I've contributed to
 
-- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.3.0](https://github.com/opensearch-project/opensearch-php/releases/tag/2.3.0), 6 days ago) - Official PHP Client for OpenSearch
+- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.3.0](https://github.com/opensearch-project/opensearch-php/releases/tag/2.3.0), 1 week ago) - Official PHP Client for OpenSearch
 - [symblaze/console](https://github.com/symblaze/console) ([1.2.0](https://github.com/symblaze/console/releases/tag/1.2.0), 3 weeks ago) - Fluent console configuration for Symfony
 - [symblaze/http-bundle](https://github.com/symblaze/http-bundle) ([0.0.7](https://github.com/symblaze/http-bundle/releases/tag/0.0.7), 1 month ago) - The SymBlaze HTTP bundle
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
 - [Singleton Design Pattern in Laravel](https://imdhemy.com/blog/php/singleton-design-pattern-in-laravel.html/) (2 weeks ago)
-- [How to avoid boilerplate code in Symfony Voters](https://imdhemy.com/blog/php/how-to-avoid-boilerplate-code-in-symfony-voters.html/) (3 weeks ago)
+- [How to avoid boilerplate code in Symfony Voters](https://imdhemy.com/blog/php/how-to-avoid-boilerplate-code-in-symfony-voters.html/) (4 weeks ago)
 - [What Symfony developers should know before using Voters](https://imdhemy.com/blog/php/what-symfony-developers-should-know-before-using-voters.html/) (4 weeks ago)
 
 #### 📫 How to reach me
