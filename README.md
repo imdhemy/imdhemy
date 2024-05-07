@@ -7,7 +7,7 @@ passionate about open source, blogging, and reading.
 
 - [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (3 weeks ago)
 - [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) -  (3 weeks ago)
-- [symblaze/console](https://github.com/symblaze/console) - Fluent console configuration for Symfony (3 weeks ago)
+- [symblaze/console](https://github.com/symblaze/console) - Fluent console configuration for Symfony (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
