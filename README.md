@@ -11,8 +11,8 @@ passionate about open source, blogging, and reading.
 
 #### 🔭 Latest releases I've contributed to
 
-- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.3.0](https://github.com/opensearch-project/opensearch-php/releases/tag/2.3.0), 1 week ago) - Official PHP Client for OpenSearch
-- [symblaze/console](https://github.com/symblaze/console) ([1.2.0](https://github.com/symblaze/console/releases/tag/1.2.0), 4 weeks ago) - Fluent console configuration for Symfony
+- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.3.0](https://github.com/opensearch-project/opensearch-php/releases/tag/2.3.0), 2 weeks ago) - Official PHP Client for OpenSearch
+- [symblaze/console](https://github.com/symblaze/console) ([1.2.0](https://github.com/symblaze/console/releases/tag/1.2.0), 1 month ago) - Fluent console configuration for Symfony
 - [symblaze/http-bundle](https://github.com/symblaze/http-bundle) ([0.0.7](https://github.com/symblaze/http-bundle/releases/tag/0.0.7), 1 month ago) - The SymBlaze HTTP bundle
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
