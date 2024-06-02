@@ -18,7 +18,7 @@ passionate about open source, blogging, and reading.
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
 - [Singleton Design Pattern in Laravel](https://imdhemy.com/blog/php/singleton-design-pattern-in-laravel.html/) (1 month ago)
-- [How to avoid boilerplate code in Symfony Voters](https://imdhemy.com/blog/php/how-to-avoid-boilerplate-code-in-symfony-voters.html/) (1 month ago)
+- [How to avoid boilerplate code in Symfony Voters](https://imdhemy.com/blog/php/how-to-avoid-boilerplate-code-in-symfony-voters.html/) (2 months ago)
 - [What Symfony developers should know before using Voters](https://imdhemy.com/blog/php/what-symfony-developers-should-know-before-using-voters.html/) (2 months ago)
 
 #### 📫 How to reach me
