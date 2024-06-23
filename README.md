@@ -12,7 +12,7 @@ passionate about open source, blogging, and reading.
 #### 🔭 Latest releases I've contributed to
 
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.12.1](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.12.1), 1 week ago) - Validate products and subscription receipts. Handle subscription lifecycle.
-- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.3.0](https://github.com/opensearch-project/opensearch-php/releases/tag/2.3.0), 1 month ago) - Official PHP Client for OpenSearch
+- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.3.0](https://github.com/opensearch-project/opensearch-php/releases/tag/2.3.0), 2 months ago) - Official PHP Client for OpenSearch
 - [symblaze/console](https://github.com/symblaze/console) ([1.2.0](https://github.com/symblaze/console/releases/tag/1.2.0), 2 months ago) - Fluent console configuration for Symfony
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
