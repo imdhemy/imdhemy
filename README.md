@@ -5,8 +5,8 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (today)
-- [symblaze/mare-scan](https://github.com/symblaze/mare-scan) - Yet another PHP static code analysis tool written in PHP (2 days ago)
+- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (1 day ago)
+- [symblaze/mare-scan](https://github.com/symblaze/mare-scan) - Yet another PHP static code analysis tool written in PHP (3 days ago)
 - [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -17,9 +17,9 @@ passionate about open source, blogging, and reading.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
+- [Better alternatives to empty() in PHP](https://imdhemy.com/blog/php/better-alternatives-to-empty-in-php.html/) (1 day ago)
 - [Singleton Design Pattern in Laravel](https://imdhemy.com/blog/php/singleton-design-pattern-in-laravel.html/) (3 months ago)
 - [How to avoid boilerplate code in Symfony Voters](https://imdhemy.com/blog/php/how-to-avoid-boilerplate-code-in-symfony-voters.html/) (3 months ago)
-- [What Symfony developers should know before using Voters](https://imdhemy.com/blog/php/what-symfony-developers-should-know-before-using-voters.html/) (3 months ago)
 
 #### 📫 How to reach me
 
