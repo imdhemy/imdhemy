@@ -17,7 +17,7 @@ passionate about open source, blogging, and reading.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
-- [Better alternatives to empty() in PHP](https://imdhemy.com/blog/php/better-alternatives-to-empty-in-php.html/) (1 week ago)
+- [Better alternatives to empty() in PHP](https://imdhemy.com/blog/php/better-alternatives-to-empty-in-php.html/) (2 weeks ago)
 - [Singleton Design Pattern in Laravel](https://imdhemy.com/blog/php/singleton-design-pattern-in-laravel.html/) (3 months ago)
 - [How to avoid boilerplate code in Symfony Voters](https://imdhemy.com/blog/php/how-to-avoid-boilerplate-code-in-symfony-voters.html/) (4 months ago)
 
