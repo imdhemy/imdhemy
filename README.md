@@ -5,13 +5,13 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (1 week ago)
-- [symblaze/mare-scan](https://github.com/symblaze/mare-scan) - Yet another PHP static code analysis tool written in PHP (1 week ago)
+- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (2 weeks ago)
+- [symblaze/mare-scan](https://github.com/symblaze/mare-scan) - Yet another PHP static code analysis tool written in PHP (2 weeks ago)
 - [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symblaze/mare-scan](https://github.com/symblaze/mare-scan) ([0.0.2](https://github.com/symblaze/mare-scan/releases/tag/0.0.2), 1 week ago) - Yet another PHP static code analysis tool written in PHP
+- [symblaze/mare-scan](https://github.com/symblaze/mare-scan) ([0.0.2](https://github.com/symblaze/mare-scan/releases/tag/0.0.2), 2 weeks ago) - Yet another PHP static code analysis tool written in PHP
 - [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.7.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.7.0), 1 month ago) - PHP App store In-App Purchase implementaiton.
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.13.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.13.0), 1 month ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 
