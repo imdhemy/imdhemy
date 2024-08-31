@@ -11,7 +11,7 @@ passionate about open source, blogging, and reading.
 
 #### 🔭 Latest releases I've contributed to
 
-- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.3.1](https://github.com/opensearch-project/opensearch-php/releases/tag/2.3.1), 1 day ago) - Official PHP Client for OpenSearch
+- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.3.1](https://github.com/opensearch-project/opensearch-php/releases/tag/2.3.1), 2 days ago) - Official PHP Client for OpenSearch
 - [symblaze/mare-scan](https://github.com/symblaze/mare-scan) ([0.0.2](https://github.com/symblaze/mare-scan/releases/tag/0.0.2), 1 month ago) - Yet another PHP static code analysis tool written in PHP
 - [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.7.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.7.0), 2 months ago) - PHP App store In-App Purchase implementaiton.
 
@@ -19,7 +19,7 @@ passionate about open source, blogging, and reading.
 
 - [Better alternatives to empty() in PHP](https://imdhemy.com/blog/php/better-alternatives-to-empty-in-php.html/) (1 month ago)
 - [Singleton Design Pattern in Laravel](https://imdhemy.com/blog/php/singleton-design-pattern-in-laravel.html/) (4 months ago)
-- [How to avoid boilerplate code in Symfony Voters](https://imdhemy.com/blog/php/how-to-avoid-boilerplate-code-in-symfony-voters.html/) (4 months ago)
+- [How to avoid boilerplate code in Symfony Voters](https://imdhemy.com/blog/php/how-to-avoid-boilerplate-code-in-symfony-voters.html/) (5 months ago)
 
 #### 📫 How to reach me
 
