@@ -11,7 +11,7 @@ passionate about open source, blogging, and reading.
 
 #### 🔭 Latest releases I've contributed to
 
-- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.3.1](https://github.com/opensearch-project/opensearch-php/releases/tag/2.3.1), 3 weeks ago) - Official PHP Client for OpenSearch
+- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.3.1](https://github.com/opensearch-project/opensearch-php/releases/tag/2.3.1), 4 weeks ago) - Official PHP Client for OpenSearch
 - [symblaze/mare-scan](https://github.com/symblaze/mare-scan) ([0.0.2](https://github.com/symblaze/mare-scan/releases/tag/0.0.2), 2 months ago) - Yet another PHP static code analysis tool written in PHP
 - [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.7.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.7.0), 2 months ago) - PHP App store In-App Purchase implementaiton.
 
