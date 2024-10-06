@@ -5,9 +5,9 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/tdd](https://github.com/imdhemy/tdd) - TDD tutorial for PHP developers (1 week ago)
+- [imdhemy/refactoring-ts](https://github.com/imdhemy/refactoring-ts) -  (1 day ago)
+- [imdhemy/tdd](https://github.com/imdhemy/tdd) - TDD tutorial for PHP developers (1 day ago)
 - [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (2 months ago)
-- [symblaze/mare-scan](https://github.com/symblaze/mare-scan) - Yet another PHP static code analysis tool written in PHP (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
