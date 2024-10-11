@@ -5,15 +5,15 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/refactoring-ts](https://github.com/imdhemy/refactoring-ts) -  (5 days ago)
-- [imdhemy/tdd](https://github.com/imdhemy/tdd) - TDD tutorial for PHP developers (5 days ago)
-- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (2 months ago)
+- [symblaze/console](https://github.com/symblaze/console) - Fluent console configuration for Symfony (1 day ago)
+- [imdhemy/tdd](https://github.com/imdhemy/tdd) - TDD tutorial for PHP developers (6 days ago)
+- [imdhemy/refactoring-ts](https://github.com/imdhemy/refactoring-ts) -  (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [symblaze/console](https://github.com/symblaze/console) ([1.2.1](https://github.com/symblaze/console/releases/tag/1.2.1), 1 day ago) - Fluent console configuration for Symfony
 - [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.3.1](https://github.com/opensearch-project/opensearch-php/releases/tag/2.3.1), 1 month ago) - Official PHP Client for OpenSearch
 - [symblaze/mare-scan](https://github.com/symblaze/mare-scan) ([0.0.2](https://github.com/symblaze/mare-scan/releases/tag/0.0.2), 2 months ago) - Yet another PHP static code analysis tool written in PHP
-- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.7.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.7.0), 3 months ago) - PHP App store In-App Purchase implementaiton.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
