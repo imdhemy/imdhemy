@@ -5,13 +5,13 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [symblaze/console](https://github.com/symblaze/console) - Fluent console configuration for Symfony (3 days ago)
+- [symblaze/console](https://github.com/symblaze/console) - Fluent console configuration for Symfony (4 days ago)
 - [imdhemy/tdd](https://github.com/imdhemy/tdd) - TDD tutorial for PHP developers (1 week ago)
 - [imdhemy/refactoring-ts](https://github.com/imdhemy/refactoring-ts) -  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symblaze/console](https://github.com/symblaze/console) ([1.2.1](https://github.com/symblaze/console/releases/tag/1.2.1), 3 days ago) - Fluent console configuration for Symfony
+- [symblaze/console](https://github.com/symblaze/console) ([1.2.1](https://github.com/symblaze/console/releases/tag/1.2.1), 4 days ago) - Fluent console configuration for Symfony
 - [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.3.1](https://github.com/opensearch-project/opensearch-php/releases/tag/2.3.1), 1 month ago) - Official PHP Client for OpenSearch
 - [symblaze/mare-scan](https://github.com/symblaze/mare-scan) ([0.0.2](https://github.com/symblaze/mare-scan/releases/tag/0.0.2), 2 months ago) - Yet another PHP static code analysis tool written in PHP
 
