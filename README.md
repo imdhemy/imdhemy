@@ -13,7 +13,7 @@ passionate about open source, blogging, and reading.
 
 - [symblaze/console](https://github.com/symblaze/console) ([1.2.1](https://github.com/symblaze/console/releases/tag/1.2.1), 1 week ago) - Fluent console configuration for Symfony
 - [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.3.1](https://github.com/opensearch-project/opensearch-php/releases/tag/2.3.1), 1 month ago) - Official PHP Client for OpenSearch
-- [symblaze/mare-scan](https://github.com/symblaze/mare-scan) ([0.0.2](https://github.com/symblaze/mare-scan/releases/tag/0.0.2), 2 months ago) - Yet another PHP static code analysis tool written in PHP
+- [symblaze/mare-scan](https://github.com/symblaze/mare-scan) ([0.0.2](https://github.com/symblaze/mare-scan/releases/tag/0.0.2), 3 months ago) - Yet another PHP static code analysis tool written in PHP
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
