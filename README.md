@@ -5,9 +5,9 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/tdd](https://github.com/imdhemy/tdd) - TDD tutorial for PHP developers (1 week ago)
-- [symblaze/console](https://github.com/symblaze/console) - Fluent console configuration for Symfony (2 weeks ago)
-- [imdhemy/refactoring-ts](https://github.com/imdhemy/refactoring-ts) -  (3 weeks ago)
+- [imdhemy/tdd](https://github.com/imdhemy/tdd) - TDD tutorial for PHP developers (1 day ago)
+- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (1 day ago)
+- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) -  (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
