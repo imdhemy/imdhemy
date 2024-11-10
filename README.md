@@ -5,20 +5,20 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/laravel-iap-docs](https://github.com/imdhemy/laravel-iap-docs) - Laravel in app purchase documentation (4 days ago)
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (6 days ago)
-- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (6 days ago)
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (1 day ago)
+- [imdhemy/laravel-iap-docs](https://github.com/imdhemy/laravel-iap-docs) - Laravel in app purchase documentation (5 days ago)
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.14.1](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.14.1), 2 days ago) - Validate products and subscription receipts. Handle subscription lifecycle.
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.5.3](https://github.com/imdhemy/google-play-billing/releases/tag/1.5.3), 1 day ago) - Google Play billing
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.14.1](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.14.1), 3 days ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 - [symblaze/console](https://github.com/symblaze/console) ([1.2.1](https://github.com/symblaze/console/releases/tag/1.2.1), 1 month ago) - Fluent console configuration for Symfony
-- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.3.1](https://github.com/opensearch-project/opensearch-php/releases/tag/2.3.1), 2 months ago) - Official PHP Client for OpenSearch
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
-- [A Week of Goodbyes](https://imdhemy.com/blog/generic/week-of-goodbyes.html/) (6 days ago)
-- [HTTP Client Factory Code Refactoring](https://imdhemy.com/blog/dev-log/http-client-factory-code-refactoring.html/) (1 week ago)
+- [A Week of Goodbyes](https://imdhemy.com/blog/generic/week-of-goodbyes.html/) (1 week ago)
+- [HTTP Client Factory Code Refactoring](https://imdhemy.com/blog/dev-log/http-client-factory-code-refactoring.html/) (2 weeks ago)
 - [Better alternatives to empty() in PHP](https://imdhemy.com/blog/php/better-alternatives-to-empty-in-php.html/) (3 months ago)
 
 #### 📫 How to reach me
