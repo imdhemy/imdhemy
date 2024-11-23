@@ -5,13 +5,13 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [symblaze/symblaze.github.io](https://github.com/symblaze/symblaze.github.io) - Symblaze website (4 days ago)
-- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (6 days ago)
+- [symblaze/symblaze.github.io](https://github.com/symblaze/symblaze.github.io) - Symblaze website (5 days ago)
+- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (1 week ago)
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.5.3](https://github.com/imdhemy/google-play-billing/releases/tag/1.5.3), 1 week ago) - Google Play billing
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.5.3](https://github.com/imdhemy/google-play-billing/releases/tag/1.5.3), 2 weeks ago) - Google Play billing
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.14.1](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.14.1), 2 weeks ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 - [symblaze/console](https://github.com/symblaze/console) ([1.2.1](https://github.com/symblaze/console/releases/tag/1.2.1), 1 month ago) - Fluent console configuration for Symfony
 
