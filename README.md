@@ -5,9 +5,9 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [symblaze/symblaze.github.io](https://github.com/symblaze/symblaze.github.io) - Symblaze website (5 days ago)
+- [symblaze/symblaze.github.io](https://github.com/symblaze/symblaze.github.io) - Symblaze website (6 days ago)
 - [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (1 week ago)
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (1 week ago)
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -17,9 +17,9 @@ passionate about open source, blogging, and reading.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
-- [Delivery on Time and Some Clean Up 🧹](https://imdhemy.com/blog/generic/delivery-on-time-and-cleanup.html/) (1 week ago)
-- [A Week of Goodbyes](https://imdhemy.com/blog/generic/week-of-goodbyes.html/) (2 weeks ago)
-- [HTTP Client Factory Code Refactoring](https://imdhemy.com/blog/dev-log/http-client-factory-code-refactoring.html/) (3 weeks ago)
+- [Delivery on Time and Some Clean Up 🧹](https://imdhemy.com/blog/generic/delivery-on-time-and-cleanup.html/) (2 weeks ago)
+- [A Week of Goodbyes](https://imdhemy.com/blog/generic/week-of-goodbyes.html/) (3 weeks ago)
+- [HTTP Client Factory Code Refactoring](https://imdhemy.com/blog/dev-log/http-client-factory-code-refactoring.html/) (4 weeks ago)
 
 #### 📫 How to reach me
 
