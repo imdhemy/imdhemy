@@ -19,7 +19,7 @@ passionate about open source, blogging, and reading.
 
 - [Delivery on Time and Some Clean Up 🧹](https://imdhemy.com/blog/generic/delivery-on-time-and-cleanup.html/) (2 weeks ago)
 - [A Week of Goodbyes](https://imdhemy.com/blog/generic/week-of-goodbyes.html/) (3 weeks ago)
-- [HTTP Client Factory Code Refactoring](https://imdhemy.com/blog/dev-log/http-client-factory-code-refactoring.html/) (4 weeks ago)
+- [HTTP Client Factory Code Refactoring](https://imdhemy.com/blog/dev-log/http-client-factory-code-refactoring.html/) (1 month ago)
 
 #### 📫 How to reach me
 
