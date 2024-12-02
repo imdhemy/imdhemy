@@ -5,7 +5,7 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [symblaze/symblaze.github.io](https://github.com/symblaze/symblaze.github.io) - Symblaze website (1 week ago)
+- [symblaze/symblaze.github.io](https://github.com/symblaze/symblaze.github.io) - Symblaze website (2 weeks ago)
 - [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (2 weeks ago)
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (3 weeks ago)
 
