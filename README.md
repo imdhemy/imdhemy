@@ -11,7 +11,7 @@ passionate about open source, blogging, and reading.
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.14.2](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.14.2), 6 days ago) - Validate products and subscription receipts. Handle subscription lifecycle.
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.14.2](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.14.2), 1 week ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.5.3](https://github.com/imdhemy/google-play-billing/releases/tag/1.5.3), 1 month ago) - Google Play billing
 - [symblaze/console](https://github.com/symblaze/console) ([1.2.1](https://github.com/symblaze/console/releases/tag/1.2.1), 2 months ago) - Fluent console configuration for Symfony
 
