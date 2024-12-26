@@ -5,9 +5,9 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [koala-ts/docs](https://github.com/koala-ts/docs) -  (1 day ago)
 - [koala-ts/framework](https://github.com/koala-ts/framework) -  (1 day ago)
-- [koala-ts/cli](https://github.com/koala-ts/cli) -  (3 days ago)
+- [koala-ts/docs](https://github.com/koala-ts/docs) -  (2 days ago)
+- [koala-ts/cli](https://github.com/koala-ts/cli) -  (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -19,7 +19,7 @@ passionate about open source, blogging, and reading.
 
 - [Delivery on Time and Some Clean Up 🧹](https://imdhemy.com/blog/generic/delivery-on-time-and-cleanup.html/) (1 month ago)
 - [A Week of Goodbyes](https://imdhemy.com/blog/generic/week-of-goodbyes.html/) (1 month ago)
-- [HTTP Client Factory Code Refactoring](https://imdhemy.com/blog/dev-log/http-client-factory-code-refactoring.html/) (1 month ago)
+- [HTTP Client Factory Code Refactoring](https://imdhemy.com/blog/dev-log/http-client-factory-code-refactoring.html/) (2 months ago)
 
 #### 📫 How to reach me
 
