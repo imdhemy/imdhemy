@@ -6,8 +6,8 @@ passionate about open source, blogging, and reading.
 #### 👷 Check out what I'm currently working on
 
 - [koala-ts/framework](https://github.com/koala-ts/framework) -  (1 day ago)
-- [koala-ts/docs](https://github.com/koala-ts/docs) -  (3 days ago)
-- [koala-ts/cli](https://github.com/koala-ts/cli) -  (5 days ago)
+- [koala-ts/docs](https://github.com/koala-ts/docs) -  (4 days ago)
+- [koala-ts/cli](https://github.com/koala-ts/cli) -  (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
