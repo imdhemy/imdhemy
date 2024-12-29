@@ -5,15 +5,15 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [koala-ts/framework](https://github.com/koala-ts/framework) -  (1 day ago)
-- [koala-ts/docs](https://github.com/koala-ts/docs) -  (4 days ago)
-- [koala-ts/cli](https://github.com/koala-ts/cli) -  (6 days ago)
+- [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTS is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (1 day ago)
+- [koala-ts/cli](https://github.com/koala-ts/cli) -  (1 day ago)
+- [koala-ts/docs](https://github.com/koala-ts/docs) -  (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [koala-ts/cli](https://github.com/koala-ts/cli) ([0.0.2](https://github.com/koala-ts/cli/releases/tag/0.0.2), 1 day ago) - 
+- [koala-ts/framework](https://github.com/koala-ts/framework) ([0.1.0](https://github.com/koala-ts/framework/releases/tag/0.1.0), 1 day ago) - KoalaTS is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.14.2](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.14.2), 2 weeks ago) - Validate products and subscription receipts. Handle subscription lifecycle.
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.5.3](https://github.com/imdhemy/google-play-billing/releases/tag/1.5.3), 1 month ago) - Google Play billing
-- [symblaze/console](https://github.com/symblaze/console) ([1.2.1](https://github.com/symblaze/console/releases/tag/1.2.1), 2 months ago) - Fluent console configuration for Symfony
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
