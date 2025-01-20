@@ -5,19 +5,19 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/koala-recommender](https://github.com/imdhemy/koala-recommender) -  (1 day ago)
-- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (1 day ago)
-- [koala-ts/docs](https://github.com/koala-ts/docs) -  (1 week ago)
+- [koala-ts/cli](https://github.com/koala-ts/cli) -  (1 day ago)
+- [imdhemy/german](https://github.com/imdhemy/german) -  (1 day ago)
+- [imdhemy/koala-recommender](https://github.com/imdhemy/koala-recommender) -  (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [koala-ts/cli](https://github.com/koala-ts/cli) ([1.3.1](https://github.com/koala-ts/cli/releases/tag/1.3.1), 1 day ago) - 
 - [koala-ts/framework](https://github.com/koala-ts/framework) ([1.1.1](https://github.com/koala-ts/framework/releases/tag/1.1.1), 1 week ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
-- [koala-ts/cli](https://github.com/koala-ts/cli) ([1.2.0](https://github.com/koala-ts/cli/releases/tag/1.2.0), 1 week ago) - 
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.14.2](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.14.2), 1 month ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
-- [Building a Robust Movie Recommender Using KoalaTs and MongoDB - Part 1 🐨 🎬](https://imdhemy.com/blog/nodejs/robust-movie-recommender-koalats-mongodb-part-1.html/) (1 day ago)
+- [Building a Robust Movie Recommender Using KoalaTs and MongoDB - Part 1 🐨 🎬](https://imdhemy.com/blog/nodejs/robust-movie-recommender-koalats-mongodb-part-1.html/) (2 days ago)
 - [Delivery on Time and Some Clean Up 🧹](https://imdhemy.com/blog/generic/delivery-on-time-and-cleanup.html/) (2 months ago)
 - [A Week of Goodbyes](https://imdhemy.com/blog/generic/week-of-goodbyes.html/) (2 months ago)
 
