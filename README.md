@@ -5,7 +5,7 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/german](https://github.com/imdhemy/german) -  (6 days ago)
+- [imdhemy/german](https://github.com/imdhemy/german) -  (1 week ago)
 - [koala-ts/cli](https://github.com/koala-ts/cli) -  (1 week ago)
 - [imdhemy/koala-recommender](https://github.com/imdhemy/koala-recommender) -  (1 week ago)
 
