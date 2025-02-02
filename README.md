@@ -5,15 +5,15 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [koala-ts/cli](https://github.com/koala-ts/cli) -  (2 days ago)
-- [koala-ts/koala-ts](https://github.com/koala-ts/koala-ts) - KoalaTs starter project (2 days ago)
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (4 days ago)
+- [koala-ts/cli](https://github.com/koala-ts/cli) -  (3 days ago)
+- [koala-ts/koala-ts](https://github.com/koala-ts/koala-ts) - KoalaTs starter project (3 days ago)
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [koala-ts/cli](https://github.com/koala-ts/cli) ([1.4.0](https://github.com/koala-ts/cli/releases/tag/1.4.0), 2 days ago) - 
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.15.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.15.0), 4 days ago) - Validate products and subscription receipts. Handle subscription lifecycle.
-- [koala-ts/framework](https://github.com/koala-ts/framework) ([1.1.1](https://github.com/koala-ts/framework/releases/tag/1.1.1), 2 weeks ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
+- [koala-ts/cli](https://github.com/koala-ts/cli) ([1.4.0](https://github.com/koala-ts/cli/releases/tag/1.4.0), 3 days ago) - 
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.15.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.15.0), 5 days ago) - Validate products and subscription receipts. Handle subscription lifecycle.
+- [koala-ts/framework](https://github.com/koala-ts/framework) ([1.1.1](https://github.com/koala-ts/framework/releases/tag/1.1.1), 3 weeks ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
