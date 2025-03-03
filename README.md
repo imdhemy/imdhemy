@@ -19,7 +19,7 @@ passionate about open source, blogging, and reading.
 
 - [Building a Robust Movie Recommender Using KoalaTs and MongoDB - Part 1 🐨 🎬](https://imdhemy.com/blog/nodejs/robust-movie-recommender-koalats-mongodb-part-1.html/) (1 month ago)
 - [Delivery on Time and Some Clean Up 🧹](https://imdhemy.com/blog/generic/delivery-on-time-and-cleanup.html/) (3 months ago)
-- [A Week of Goodbyes](https://imdhemy.com/blog/generic/week-of-goodbyes.html/) (3 months ago)
+- [A Week of Goodbyes](https://imdhemy.com/blog/generic/week-of-goodbyes.html/) (4 months ago)
 
 #### 📫 How to reach me
 
