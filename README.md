@@ -12,7 +12,7 @@ passionate about open source, blogging, and reading.
 #### 🔭 Latest releases I've contributed to
 
 - [koala-ts/cli](https://github.com/koala-ts/cli) ([1.5.1](https://github.com/koala-ts/cli/releases/tag/1.5.1), 2 weeks ago) - 
-- [koala-ts/framework](https://github.com/koala-ts/framework) ([1.1.2](https://github.com/koala-ts/framework/releases/tag/1.1.2), 2 months ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
+- [koala-ts/framework](https://github.com/koala-ts/framework) ([1.1.2](https://github.com/koala-ts/framework/releases/tag/1.1.2), 3 months ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.16.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.16.0), 3 months ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
