@@ -11,7 +11,7 @@ passionate about open source, blogging, and reading.
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.7.1](https://github.com/imdhemy/appstore-iap/releases/tag/1.7.1), 4 days ago) - PHP App store In-App Purchase implementaiton.
+- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.7.1](https://github.com/imdhemy/appstore-iap/releases/tag/1.7.1), 5 days ago) - PHP App store In-App Purchase implementaiton.
 - [koala-ts/cli](https://github.com/koala-ts/cli) ([1.5.1](https://github.com/koala-ts/cli/releases/tag/1.5.1), 1 month ago) - 
 - [koala-ts/framework](https://github.com/koala-ts/framework) ([1.1.2](https://github.com/koala-ts/framework/releases/tag/1.1.2), 3 months ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
 
