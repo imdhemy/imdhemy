@@ -5,15 +5,15 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton. (1 week ago)
-- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (2 weeks ago)
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (3 weeks ago)
+- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton. (1 day ago)
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (1 day ago)
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.8.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.8.0), 1 week ago) - PHP App store In-App Purchase implementaiton.
+- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.9.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.9.0), 1 day ago) - PHP App store In-App Purchase implementaiton.
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.17.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.17.0), 1 day ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 - [koala-ts/cli](https://github.com/koala-ts/cli) ([1.5.1](https://github.com/koala-ts/cli/releases/tag/1.5.1), 1 month ago) - 
-- [koala-ts/framework](https://github.com/koala-ts/framework) ([1.1.2](https://github.com/koala-ts/framework/releases/tag/1.1.2), 3 months ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
