@@ -5,19 +5,19 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton. (1 day ago)
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (1 day ago)
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (1 day ago)
+- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton. (2 days ago)
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (2 days ago)
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.9.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.9.0), 1 day ago) - PHP App store In-App Purchase implementaiton.
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.17.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.17.0), 1 day ago) - Validate products and subscription receipts. Handle subscription lifecycle.
+- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.9.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.9.0), 2 days ago) - PHP App store In-App Purchase implementaiton.
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.17.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.17.0), 2 days ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 - [koala-ts/cli](https://github.com/koala-ts/cli) ([1.5.1](https://github.com/koala-ts/cli/releases/tag/1.5.1), 1 month ago) - 
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
-- [How Small Changes Can Drive Big Results Without Blocking the Business](https://imdhemy.com/blog/generic/lean-incremental-changes-vs-big-bang-rerwites.html/) (2 weeks ago)
+- [How Small Changes Can Drive Big Results Without Blocking the Business](https://imdhemy.com/blog/generic/lean-incremental-changes-vs-big-bang-rerwites.html/) (3 weeks ago)
 - [Building a Robust Movie Recommender Using KoalaTs and MongoDB - Part 1 🐨 🎬](https://imdhemy.com/blog/nodejs/robust-movie-recommender-koalats-mongodb-part-1.html/) (4 months ago)
 - [Delivery on Time and Some Clean Up 🧹](https://imdhemy.com/blog/generic/delivery-on-time-and-cleanup.html/) (6 months ago)
 
