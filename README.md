@@ -5,14 +5,14 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (2 days ago)
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (5 days ago)
-- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton. (5 days ago)
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (3 days ago)
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (6 days ago)
+- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton. (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.9.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.9.0), 5 days ago) - PHP App store In-App Purchase implementaiton.
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.17.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.17.0), 5 days ago) - Validate products and subscription receipts. Handle subscription lifecycle.
+- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.9.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.9.0), 6 days ago) - PHP App store In-App Purchase implementaiton.
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.17.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.17.0), 6 days ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 - [koala-ts/cli](https://github.com/koala-ts/cli) ([1.5.1](https://github.com/koala-ts/cli/releases/tag/1.5.1), 1 month ago) - 
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
