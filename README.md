@@ -5,14 +5,14 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
+- [imdhemy/laravel-iap-docs](https://github.com/imdhemy/laravel-iap-docs) - Laravel in app purchase documentation (1 day ago)
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (1 day ago)
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (5 days ago)
-- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton. (3 weeks ago)
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.18.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.18.0), 5 days ago) - Validate products and subscription receipts. Handle subscription lifecycle.
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.7.1](https://github.com/imdhemy/google-play-billing/releases/tag/1.7.1), 1 week ago) - Google Play billing
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.8.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.8.0), 1 day ago) - Google Play billing
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.18.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.18.0), 6 days ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 - [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.9.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.9.0), 3 weeks ago) - PHP App store In-App Purchase implementaiton.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
