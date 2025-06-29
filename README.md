@@ -6,12 +6,12 @@ passionate about open source, blogging, and reading.
 #### 👷 Check out what I'm currently working on
 
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (1 day ago)
-- [imdhemy/laravel-iap-docs](https://github.com/imdhemy/laravel-iap-docs) - Laravel in app purchase documentation (3 days ago)
+- [imdhemy/laravel-iap-docs](https://github.com/imdhemy/laravel-iap-docs) - Laravel in app purchase documentation (4 days ago)
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.8.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.8.0), 3 days ago) - Google Play billing
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.8.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.8.0), 4 days ago) - Google Play billing
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.18.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.18.0), 1 week ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 - [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.9.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.9.0), 3 weeks ago) - PHP App store In-App Purchase implementaiton.
 
