@@ -5,8 +5,8 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [kommita/kommita](https://github.com/kommita/kommita) - The top-notch Git client for Windows, macOS, and Linux (2 days ago)
-- [imdhemy/tut-phpunit-12](https://github.com/imdhemy/tut-phpunit-12) - PHPUnit 12 tutorial (1 week ago)
+- [kommita/kommita](https://github.com/kommita/kommita) - The top-notch Git client for Windows, macOS, and Linux (3 days ago)
+- [imdhemy/tut-phpunit-12](https://github.com/imdhemy/tut-phpunit-12) - PHPUnit 12 tutorial (2 weeks ago)
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -18,7 +18,7 @@ passionate about open source, blogging, and reading.
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
 - [How Small Changes Can Drive Big Results Without Blocking the Business](https://imdhemy.com/blog/generic/lean-incremental-changes-vs-big-bang-rerwites.html/) (3 months ago)
-- [Building a Robust Movie Recommender Using KoalaTs and MongoDB - Part 1 🐨 🎬](https://imdhemy.com/blog/nodejs/robust-movie-recommender-koalats-mongodb-part-1.html/) (6 months ago)
+- [Building a Robust Movie Recommender Using KoalaTs and MongoDB - Part 1 🐨 🎬](https://imdhemy.com/blog/nodejs/robust-movie-recommender-koalats-mongodb-part-1.html/) (7 months ago)
 - [Delivery on Time and Some Clean Up 🧹](https://imdhemy.com/blog/generic/delivery-on-time-and-cleanup.html/) (9 months ago)
 
 #### 📫 How to reach me
