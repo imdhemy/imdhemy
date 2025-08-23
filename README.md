@@ -5,8 +5,8 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [kommita/kommita](https://github.com/kommita/kommita) - The top-notch Git client for Windows, macOS, and Linux (2 days ago)
-- [imdhemy/tut-phpunit-12](https://github.com/imdhemy/tut-phpunit-12) - PHPUnit 12 tutorial (2 weeks ago)
+- [kommita/kommita](https://github.com/kommita/kommita) - The top-notch Git client for Windows, macOS, and Linux (3 days ago)
+- [imdhemy/tut-phpunit-12](https://github.com/imdhemy/tut-phpunit-12) - PHPUnit 12 tutorial (3 weeks ago)
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
