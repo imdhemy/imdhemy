@@ -5,8 +5,8 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [kommita/kommita](https://github.com/kommita/kommita) - The top-notch Git client for Windows, macOS, and Linux (1 day ago)
-- [imdhemy/laravel-iap-docs](https://github.com/imdhemy/laravel-iap-docs) - Laravel in app purchase documentation (2 days ago)
+- [kommita/kommita](https://github.com/kommita/kommita) - The top-notch Git client for Windows, macOS, and Linux (2 days ago)
+- [imdhemy/laravel-iap-docs](https://github.com/imdhemy/laravel-iap-docs) - Laravel in app purchase documentation (3 days ago)
 - [imdhemy/tut-phpunit-12](https://github.com/imdhemy/tut-phpunit-12) - PHPUnit 12 tutorial (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
