@@ -5,14 +5,14 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [kommita/kommita](https://github.com/kommita/kommita) - The top-notch Git client for Windows, macOS, and Linux (4 days ago)
-- [imdhemy/laravel-iap-docs](https://github.com/imdhemy/laravel-iap-docs) - Laravel in app purchase documentation (5 days ago)
+- [kommita/kommita](https://github.com/kommita/kommita) - The top-notch Git client for Windows, macOS, and Linux (5 days ago)
+- [imdhemy/laravel-iap-docs](https://github.com/imdhemy/laravel-iap-docs) - Laravel in app purchase documentation (6 days ago)
 - [imdhemy/tut-phpunit-12](https://github.com/imdhemy/tut-phpunit-12) - PHPUnit 12 tutorial (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.9.1](https://github.com/imdhemy/google-play-billing/releases/tag/1.9.1), 1 month ago) - Google Play billing
-- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.9.1](https://github.com/imdhemy/appstore-iap/releases/tag/1.9.1), 1 month ago) - PHP App store In-App Purchase implementaiton.
+- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.9.1](https://github.com/imdhemy/appstore-iap/releases/tag/1.9.1), 2 months ago) - PHP App store In-App Purchase implementaiton.
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.18.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.18.0), 2 months ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
