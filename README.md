@@ -17,7 +17,7 @@ passionate about open source, blogging, and reading.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
-- [How Small Changes Can Drive Big Results Without Blocking the Business](https://imdhemy.com/blog/generic/lean-incremental-changes-vs-big-bang-rerwites.html/) (3 months ago)
+- [How Small Changes Can Drive Big Results Without Blocking the Business](https://imdhemy.com/blog/generic/lean-incremental-changes-vs-big-bang-rerwites.html/) (4 months ago)
 - [Building a Robust Movie Recommender Using KoalaTs and MongoDB - Part 1 🐨 🎬](https://imdhemy.com/blog/nodejs/robust-movie-recommender-koalats-mongodb-part-1.html/) (7 months ago)
 - [Delivery on Time and Some Clean Up 🧹](https://imdhemy.com/blog/generic/delivery-on-time-and-cleanup.html/) (10 months ago)
 
