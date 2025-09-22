@@ -5,9 +5,9 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [kommita/kommita](https://github.com/kommita/kommita) - The top-notch Git client for Windows, macOS, and Linux (2 weeks ago)
-- [imdhemy/laravel-iap-docs](https://github.com/imdhemy/laravel-iap-docs) - Laravel in app purchase documentation (3 weeks ago)
-- [imdhemy/tut-phpunit-12](https://github.com/imdhemy/tut-phpunit-12) - PHPUnit 12 tutorial (1 month ago)
+- [koala-ts/cli](https://github.com/koala-ts/cli) -  (1 day ago)
+- [koala-ts/docs](https://github.com/koala-ts/docs) -  (1 day ago)
+- [imdhemy/tdd-kata](https://github.com/imdhemy/tdd-kata) -  (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
