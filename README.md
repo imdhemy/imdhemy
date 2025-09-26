@@ -5,13 +5,13 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [koala-ts/cli](https://github.com/koala-ts/cli) -  (3 days ago)
-- [koala-ts/docs](https://github.com/koala-ts/docs) -  (3 days ago)
-- [imdhemy/tdd-kata](https://github.com/imdhemy/tdd-kata) -  (3 days ago)
+- [koala-ts/cli](https://github.com/koala-ts/cli) -  (5 days ago)
+- [koala-ts/docs](https://github.com/koala-ts/docs) -  (5 days ago)
+- [imdhemy/tdd-kata](https://github.com/imdhemy/tdd-kata) -  (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.9.1](https://github.com/imdhemy/google-play-billing/releases/tag/1.9.1), 1 month ago) - Google Play billing
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.9.1](https://github.com/imdhemy/google-play-billing/releases/tag/1.9.1), 2 months ago) - Google Play billing
 - [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.9.1](https://github.com/imdhemy/appstore-iap/releases/tag/1.9.1), 2 months ago) - PHP App store In-App Purchase implementaiton.
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.18.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.18.0), 3 months ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 
