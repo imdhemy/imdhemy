@@ -12,7 +12,7 @@ passionate about open source, blogging, and reading.
 #### 🔭 Latest releases I've contributed to
 
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.9.1](https://github.com/imdhemy/google-play-billing/releases/tag/1.9.1), 2 months ago) - Google Play billing
-- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.9.1](https://github.com/imdhemy/appstore-iap/releases/tag/1.9.1), 2 months ago) - PHP App store In-App Purchase implementaiton.
+- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.9.1](https://github.com/imdhemy/appstore-iap/releases/tag/1.9.1), 3 months ago) - PHP App store In-App Purchase implementaiton.
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.18.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.18.0), 3 months ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
