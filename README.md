@@ -5,9 +5,9 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [koala-ts/docs](https://github.com/koala-ts/docs) -  (1 week ago)
-- [koala-ts/cli](https://github.com/koala-ts/cli) -  (1 week ago)
-- [imdhemy/tdd-kata](https://github.com/imdhemy/tdd-kata) -  (1 week ago)
+- [koala-ts/docs](https://github.com/koala-ts/docs) -  (2 weeks ago)
+- [koala-ts/cli](https://github.com/koala-ts/cli) -  (2 weeks ago)
+- [imdhemy/tdd-kata](https://github.com/imdhemy/tdd-kata) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
