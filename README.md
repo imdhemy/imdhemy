@@ -5,13 +5,13 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (1 day ago)
 - [koala-ts/docs](https://github.com/koala-ts/docs) -  (2 weeks ago)
-- [koala-ts/cli](https://github.com/koala-ts/cli) -  (2 weeks ago)
 - [imdhemy/tdd-kata](https://github.com/imdhemy/tdd-kata) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.9.1](https://github.com/imdhemy/google-play-billing/releases/tag/1.9.1), 2 months ago) - Google Play billing
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.10.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.10.0), 1 day ago) - Google Play billing
 - [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.9.1](https://github.com/imdhemy/appstore-iap/releases/tag/1.9.1), 3 months ago) - PHP App store In-App Purchase implementaiton.
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.18.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.18.0), 3 months ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 
@@ -19,7 +19,7 @@ passionate about open source, blogging, and reading.
 
 - [How Small Changes Can Drive Big Results Without Blocking the Business](https://imdhemy.com/blog/generic/lean-incremental-changes-vs-big-bang-rerwites.html/) (4 months ago)
 - [Building a Robust Movie Recommender Using KoalaTs and MongoDB - Part 1 🐨 🎬](https://imdhemy.com/blog/nodejs/robust-movie-recommender-koalats-mongodb-part-1.html/) (8 months ago)
-- [Delivery on Time and Some Clean Up 🧹](https://imdhemy.com/blog/generic/delivery-on-time-and-cleanup.html/) (10 months ago)
+- [Delivery on Time and Some Clean Up 🧹](https://imdhemy.com/blog/generic/delivery-on-time-and-cleanup.html/) (11 months ago)
 
 #### 📫 How to reach me
 
