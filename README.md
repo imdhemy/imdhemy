@@ -5,7 +5,7 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (1 day ago)
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (2 days ago)
 - [koala-ts/cli](https://github.com/koala-ts/cli) -  (3 weeks ago)
 - [koala-ts/docs](https://github.com/koala-ts/docs) -  (3 weeks ago)
 
