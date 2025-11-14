@@ -5,13 +5,13 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (4 days ago)
-- [koala-ts/docs](https://github.com/koala-ts/docs) -  (6 days ago)
+- [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (5 days ago)
+- [koala-ts/docs](https://github.com/koala-ts/docs) -  (1 week ago)
 - [koala-ts/koala-ts](https://github.com/koala-ts/koala-ts) - KoalaTs starter project (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [koala-ts/framework](https://github.com/koala-ts/framework) ([2.2.4](https://github.com/koala-ts/framework/releases/tag/2.2.4), 4 days ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
+- [koala-ts/framework](https://github.com/koala-ts/framework) ([2.2.4](https://github.com/koala-ts/framework/releases/tag/2.2.4), 5 days ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.11.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.11.0), 2 weeks ago) - Google Play billing
 - [koala-ts/cli](https://github.com/koala-ts/cli) ([1.6.0](https://github.com/koala-ts/cli/releases/tag/1.6.0), 3 weeks ago) - 
 
@@ -19,7 +19,7 @@ passionate about open source, blogging, and reading.
 
 - [Customer Data Management, 1959 Edition: The Forgotten Beginning of Personalization](https://imdhemy.com/blog/customer%20data/customer-data-management-1959-personalization.html/) (3 weeks ago)
 - [How Small Changes Can Drive Big Results Without Blocking the Business](https://imdhemy.com/blog/generic/lean-incremental-changes-vs-big-bang-rerwites.html/) (6 months ago)
-- [Building a Robust Movie Recommender Using KoalaTs and MongoDB - Part 1 🐨 🎬](https://imdhemy.com/blog/nodejs/robust-movie-recommender-koalats-mongodb-part-1.html/) (9 months ago)
+- [Building a Robust Movie Recommender Using KoalaTs and MongoDB - Part 1 🐨 🎬](https://imdhemy.com/blog/nodejs/robust-movie-recommender-koalats-mongodb-part-1.html/) (10 months ago)
 
 #### 📫 How to reach me
 
