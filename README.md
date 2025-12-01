@@ -7,7 +7,7 @@ passionate about open source, blogging, and reading.
 
 - [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (1 week ago)
 - [koala-ts/docs](https://github.com/koala-ts/docs) -  (1 week ago)
-- [koala-ts/koala-ts](https://github.com/koala-ts/koala-ts) - KoalaTs starter project (4 weeks ago)
+- [koala-ts/koala-ts](https://github.com/koala-ts/koala-ts) - KoalaTs starter project (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
