@@ -5,8 +5,8 @@ passionate about open source, blogging, and reading.
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (1 day ago)
-- [openkairos/documentation](https://github.com/openkairos/documentation) -  (3 days ago)
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (2 days ago)
+- [openkairos/documentation](https://github.com/openkairos/documentation) -  (4 days ago)
 - [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
