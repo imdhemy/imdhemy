@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Dhemy
 
-I'm a software artist, full-stack (BE heavy) with 10+ years of experience in software development,
-passionate about open source, blogging, and reading.
+I'm a software engineer and customer data expert focused on turning raw data into meaningful, actionable insights. My work spans the full customer data lifecycle, from capturing clean, structured inputs to designing models that reflect real-world relationships and behavior. 
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 3}}
