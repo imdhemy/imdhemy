@@ -1,13 +1,12 @@
 ### Hi there 👋 I'm Dhemy
 
-I'm a software artist, full-stack (BE heavy) with 10+ years of experience in software development,
-passionate about open source, blogging, and reading.
+I'm a software engineer and customer data expert focused on turning raw data into meaningful, actionable insights. My work spans the full customer data lifecycle, from capturing clean, structured inputs to designing models that reflect real-world relationships and behavior. 
 
 #### 👷 Check out what I'm currently working on
 
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (today)
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (2 days ago)
 - [openkairos/documentation](https://github.com/openkairos/documentation) -  (4 days ago)
-- [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
