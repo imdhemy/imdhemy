@@ -4,13 +4,13 @@ I'm a software engineer and customer data expert focused on turning raw data int
 
 #### 👷 Check out what I'm currently working on
 
-- [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (2 days ago)
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (2 days ago)
-- [koala-ts/koala-ts](https://github.com/koala-ts/koala-ts) - KoalaTs starter project (2 days ago)
+- [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (today)
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (1 day ago)
+- [koala-ts/koala-ts](https://github.com/koala-ts/koala-ts) - KoalaTs starter project (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [koala-ts/framework](https://github.com/koala-ts/framework) ([2.3.0](https://github.com/koala-ts/framework/releases/tag/2.3.0), 3 weeks ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
+- [koala-ts/framework](https://github.com/koala-ts/framework) ([2.4.3](https://github.com/koala-ts/framework/releases/tag/2.4.3), 1 day ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.11.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.11.0), 1 month ago) - Google Play billing
 - [koala-ts/cli](https://github.com/koala-ts/cli) ([1.6.0](https://github.com/koala-ts/cli/releases/tag/1.6.0), 1 month ago) - 
 
