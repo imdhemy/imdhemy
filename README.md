@@ -4,14 +4,14 @@ I'm a software engineer and customer data expert focused on turning raw data int
 
 #### 👷 Check out what I'm currently working on
 
-- [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (1 day ago)
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (2 days ago)
-- [koala-ts/koala-ts](https://github.com/koala-ts/koala-ts) - KoalaTs starter project (4 days ago)
+- [openkairos/aletheia](https://github.com/openkairos/aletheia) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards. (1 day ago)
+- [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (2 days ago)
+- [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.19.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.19.0), 1 day ago) - Validate products and subscription receipts. Handle subscription lifecycle.
-- [koala-ts/framework](https://github.com/koala-ts/framework) ([2.4.3](https://github.com/koala-ts/framework/releases/tag/2.4.3), 2 days ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.19.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.19.0), 2 days ago) - Validate products and subscription receipts. Handle subscription lifecycle.
+- [koala-ts/framework](https://github.com/koala-ts/framework) ([2.4.3](https://github.com/koala-ts/framework/releases/tag/2.4.3), 3 days ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.11.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.11.0), 1 month ago) - Google Play billing
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
