@@ -4,19 +4,19 @@ I'm a software engineer and customer data expert focused on turning raw data int
 
 #### 👷 Check out what I'm currently working on
 
-- [openkairos/aletheia](https://github.com/openkairos/aletheia) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards. (1 day ago)
-- [openkairos/documentation](https://github.com/openkairos/documentation) -  (3 days ago)
-- [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (6 days ago)
+- [openkairos/aletheia](https://github.com/openkairos/aletheia) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards. (2 days ago)
+- [openkairos/documentation](https://github.com/openkairos/documentation) -  (4 days ago)
+- [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.19.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.19.0), 6 days ago) - Validate products and subscription receipts. Handle subscription lifecycle.
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.19.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.19.0), 1 week ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 - [koala-ts/framework](https://github.com/koala-ts/framework) ([2.4.3](https://github.com/koala-ts/framework/releases/tag/2.4.3), 1 week ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.11.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.11.0), 1 month ago) - Google Play billing
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
-- [Customer Data Management, 1959 Edition: The Forgotten Beginning of Personalization](https://imdhemy.com/blog/customer%20data/customer-data-management-1959-personalization.html/) (1 month ago)
+- [Customer Data Management, 1959 Edition: The Forgotten Beginning of Personalization](https://imdhemy.com/blog/customer%20data/customer-data-management-1959-personalization.html/) (2 months ago)
 - [How Small Changes Can Drive Big Results Without Blocking the Business](https://imdhemy.com/blog/generic/lean-incremental-changes-vs-big-bang-rerwites.html/) (7 months ago)
 - [Building a Robust Movie Recommender Using KoalaTs and MongoDB - Part 1 🐨 🎬](https://imdhemy.com/blog/nodejs/robust-movie-recommender-koalats-mongodb-part-1.html/) (11 months ago)
 
