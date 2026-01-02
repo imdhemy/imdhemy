@@ -5,12 +5,12 @@ I'm a software engineer and customer data expert focused on turning raw data int
 #### 👷 Check out what I'm currently working on
 
 - [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (1 day ago)
-- [openkairos/aletheia](https://github.com/openkairos/aletheia) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards. (3 days ago)
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (1 week ago)
+- [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (1 day ago)
+- [openkairos/aletheia](https://github.com/openkairos/aletheia) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards. (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [koala-ts/framework](https://github.com/koala-ts/framework) ([2.7.0](https://github.com/koala-ts/framework/releases/tag/2.7.0), 1 day ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
+- [koala-ts/framework](https://github.com/koala-ts/framework) ([2.7.1](https://github.com/koala-ts/framework/releases/tag/2.7.1), 1 day ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
 - [openkairos/aletheia](https://github.com/openkairos/aletheia) ([0.0.1](https://github.com/openkairos/aletheia/releases/tag/0.0.1), 1 week ago) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards.
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.19.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.19.0), 2 weeks ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 
