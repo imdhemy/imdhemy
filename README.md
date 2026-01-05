@@ -4,14 +4,14 @@ I'm a software engineer and customer data expert focused on turning raw data int
 
 #### 👷 Check out what I'm currently working on
 
-- [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (2 days ago)
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (2 days ago)
-- [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (3 days ago)
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (3 days ago)
+- [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (3 days ago)
+- [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.12.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.12.0), 2 days ago) - Google Play billing
-- [koala-ts/framework](https://github.com/koala-ts/framework) ([2.7.1](https://github.com/koala-ts/framework/releases/tag/2.7.1), 3 days ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.12.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.12.0), 3 days ago) - Google Play billing
+- [koala-ts/framework](https://github.com/koala-ts/framework) ([2.7.1](https://github.com/koala-ts/framework/releases/tag/2.7.1), 4 days ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
 - [openkairos/aletheia](https://github.com/openkairos/aletheia) ([0.0.1](https://github.com/openkairos/aletheia/releases/tag/0.0.1), 1 week ago) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
