@@ -4,14 +4,14 @@ I'm a software engineer and customer data expert focused on turning raw data int
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (1 day ago)
-- [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (4 days ago)
-- [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (5 days ago)
+- [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (1 day ago)
+- [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (1 day ago)
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.12.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.12.0), 4 days ago) - Google Play billing
-- [koala-ts/framework](https://github.com/koala-ts/framework) ([2.7.1](https://github.com/koala-ts/framework/releases/tag/2.7.1), 5 days ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
+- [koala-ts/framework](https://github.com/koala-ts/framework) ([2.8.0](https://github.com/koala-ts/framework/releases/tag/2.8.0), 1 day ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.12.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.12.0), 5 days ago) - Google Play billing
 - [openkairos/aletheia](https://github.com/openkairos/aletheia) ([0.0.1](https://github.com/openkairos/aletheia/releases/tag/0.0.1), 1 week ago) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
