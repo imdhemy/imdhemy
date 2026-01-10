@@ -4,20 +4,20 @@ I'm a software engineer and customer data expert focused on turning raw data int
 
 #### 👷 Check out what I'm currently working on
 
-- [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (2 days ago)
-- [koala-ts/koala-ts](https://github.com/koala-ts/koala-ts) - KoalaTs starter project (2 days ago)
-- [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (3 days ago)
+- [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (3 days ago)
+- [koala-ts/koala-ts](https://github.com/koala-ts/koala-ts) - KoalaTs starter project (3 days ago)
+- [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [koala-ts/framework](https://github.com/koala-ts/framework) ([2.8.0](https://github.com/koala-ts/framework/releases/tag/2.8.0), 3 days ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
+- [koala-ts/framework](https://github.com/koala-ts/framework) ([2.8.0](https://github.com/koala-ts/framework/releases/tag/2.8.0), 4 days ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.12.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.12.0), 1 week ago) - Google Play billing
 - [openkairos/aletheia](https://github.com/openkairos/aletheia) ([0.0.1](https://github.com/openkairos/aletheia/releases/tag/0.0.1), 2 weeks ago) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
 - [Customer Data Management, 1959 Edition: The Forgotten Beginning of Personalization](https://imdhemy.com/blog/customer%20data/customer-data-management-1959-personalization.html/) (2 months ago)
-- [How Small Changes Can Drive Big Results Without Blocking the Business](https://imdhemy.com/blog/generic/lean-incremental-changes-vs-big-bang-rerwites.html/) (7 months ago)
+- [How Small Changes Can Drive Big Results Without Blocking the Business](https://imdhemy.com/blog/generic/lean-incremental-changes-vs-big-bang-rerwites.html/) (8 months ago)
 - [Building a Robust Movie Recommender Using KoalaTs and MongoDB - Part 1 🐨 🎬](https://imdhemy.com/blog/nodejs/robust-movie-recommender-koalats-mongodb-part-1.html/) (11 months ago)
 
 #### 📫 How to reach me
