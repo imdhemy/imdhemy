@@ -4,7 +4,7 @@ I'm a software engineer and customer data expert focused on turning raw data int
 
 #### 👷 Check out what I'm currently working on
 
-- [openkairos/aletheia](https://github.com/openkairos/aletheia) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards. (6 days ago)
+- [openkairos/aletheia](https://github.com/openkairos/aletheia) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards. (1 week ago)
 - [koala-ts/koala-ts](https://github.com/koala-ts/koala-ts) - KoalaTs starter project (1 week ago)
 - [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (1 week ago)
 
@@ -16,7 +16,7 @@ I'm a software engineer and customer data expert focused on turning raw data int
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
-- [Customer Data Management, 1959 Edition: The Forgotten Beginning of Personalization](https://imdhemy.com/blog/customer%20data/customer-data-management-1959-personalization.html/) (2 months ago)
+- [Customer Data Management, 1959 Edition: The Forgotten Beginning of Personalization](https://imdhemy.com/blog/customer%20data/customer-data-management-1959-personalization.html/) (3 months ago)
 - [How Small Changes Can Drive Big Results Without Blocking the Business](https://imdhemy.com/blog/generic/lean-incremental-changes-vs-big-bang-rerwites.html/) (8 months ago)
 - [Building a Robust Movie Recommender Using KoalaTs and MongoDB - Part 1 🐨 🎬](https://imdhemy.com/blog/nodejs/robust-movie-recommender-koalats-mongodb-part-1.html/) (1 year ago)
 
