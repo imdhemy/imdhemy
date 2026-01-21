@@ -5,8 +5,8 @@ I'm a software engineer and customer data expert focused on turning raw data int
 #### 👷 Check out what I'm currently working on
 
 - [openkairos/aletheia](https://github.com/openkairos/aletheia) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards. (1 week ago)
-- [koala-ts/koala-ts](https://github.com/koala-ts/koala-ts) - KoalaTs starter project (1 week ago)
-- [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (1 week ago)
+- [koala-ts/koala-ts](https://github.com/koala-ts/koala-ts) - KoalaTs starter project (2 weeks ago)
+- [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
