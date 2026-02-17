@@ -4,13 +4,13 @@ I'm a software engineer and customer data expert focused on turning raw data int
 
 #### 👷 Check out what I'm currently working on
 
-- [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (1 day ago)
-- [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (1 day ago)
+- [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (2 days ago)
+- [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (2 days ago)
 - [openkairos/aletheia](https://github.com/openkairos/aletheia) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [koala-ts/framework](https://github.com/koala-ts/framework) ([2.13.0](https://github.com/koala-ts/framework/releases/tag/2.13.0), 1 day ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
+- [koala-ts/framework](https://github.com/koala-ts/framework) ([2.13.0](https://github.com/koala-ts/framework/releases/tag/2.13.0), 2 days ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.12.1](https://github.com/imdhemy/google-play-billing/releases/tag/1.12.1), 3 weeks ago) - Google Play billing
 - [openkairos/aletheia](https://github.com/openkairos/aletheia) ([0.0.1](https://github.com/openkairos/aletheia/releases/tag/0.0.1), 1 month ago) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards.
 
