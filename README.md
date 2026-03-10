@@ -4,13 +4,13 @@ I'm a software engineer and customer data expert focused on turning raw data int
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (1 day ago)
-- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) -  (1 day ago)
-- [openkairos/openkairos.github.io](https://github.com/openkairos/openkairos.github.io) - Open Kairos Docs (4 days ago)
+- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (2 days ago)
+- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) -  (2 days ago)
+- [openkairos/openkairos.github.io](https://github.com/openkairos/openkairos.github.io) - Open Kairos Docs (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) ([1.1.0](https://github.com/imdhemy/imdhemy-jekyll-theme/releases/tag/1.1.0), 1 day ago) - 
+- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) ([1.1.0](https://github.com/imdhemy/imdhemy-jekyll-theme/releases/tag/1.1.0), 2 days ago) - 
 - [koala-ts/framework](https://github.com/koala-ts/framework) ([2.14.0](https://github.com/koala-ts/framework/releases/tag/2.14.0), 1 week ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
 - [openkairos/kairos](https://github.com/openkairos/kairos) ([0.0.1](https://github.com/openkairos/kairos/releases/tag/0.0.1), 1 week ago) - A customer data engine that unifies events, identities, and insights into one smart platform.
 
