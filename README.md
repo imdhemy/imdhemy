@@ -16,7 +16,7 @@ I'm a software engineer and customer data expert focused on turning raw data int
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
-- [A Simple Currying Refactor: Remove Pass-Through Arguments](https://imdhemy.com/blog/fp/core-heuristic-pass-through-argument-elimination.html) (4 weeks ago)
+- [A Simple Currying Refactor: Remove Pass-Through Arguments](https://imdhemy.com/blog/fp/core-heuristic-pass-through-argument-elimination.html) (1 month ago)
 - [Currying in JavaScript](https://imdhemy.com/blog/fp/currying-in-javascript.html) (1 month ago)
 - [Predicate Functions in JavaScript](https://imdhemy.com/blog/fp/how-to-use-predicate-functions-in-javascript.html) (1 month ago)
 
