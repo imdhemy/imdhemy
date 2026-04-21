@@ -5,7 +5,7 @@ I'm a software engineer and customer data expert focused on turning raw data int
 #### 👷 Check out what I'm currently working on
 
 - [openkairos/openkairos.github.io](https://github.com/openkairos/openkairos.github.io) - Open Kairos Docs (2 weeks ago)
-- [koala-ts/koala-ts.github.io](https://github.com/koala-ts/koala-ts.github.io) -  (2 weeks ago)
+- [koala-ts/koala-ts.github.io](https://github.com/koala-ts/koala-ts.github.io) -  (3 weeks ago)
 - [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
