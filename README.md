@@ -4,15 +4,15 @@ I'm a software engineer and customer data expert focused on turning raw data int
 
 #### 👷 Check out what I'm currently working on
 
-- [koala-ts/koala-ts.github.io](https://github.com/koala-ts/koala-ts.github.io) -  (3 days ago)
-- [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (3 days ago)
-- [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (3 days ago)
+- [koala-ts/koala-ts.github.io](https://github.com/koala-ts/koala-ts.github.io) -  (4 days ago)
+- [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (4 days ago)
+- [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [koala-ts/framework](https://github.com/koala-ts/framework) ([2.17.0](https://github.com/koala-ts/framework/releases/tag/2.17.0), 4 days ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
+- [koala-ts/framework](https://github.com/koala-ts/framework) ([2.17.0](https://github.com/koala-ts/framework/releases/tag/2.17.0), 5 days ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.13.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.13.0), 1 week ago) - Google Play billing
-- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) ([1.7.1](https://github.com/imdhemy/imdhemy-jekyll-theme/releases/tag/1.7.1), 1 week ago) - 
+- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) ([1.7.1](https://github.com/imdhemy/imdhemy-jekyll-theme/releases/tag/1.7.1), 2 weeks ago) - 
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
