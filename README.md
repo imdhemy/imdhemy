@@ -4,7 +4,7 @@ I'm a software engineer and customer data expert focused on turning raw data int
 
 #### 👷 Check out what I'm currently working on
 
-- [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (3 days ago)
+- [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (4 days ago)
 - [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (1 week ago)
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (1 week ago)
 
@@ -16,7 +16,7 @@ I'm a software engineer and customer data expert focused on turning raw data int
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
-- [Plan, Code, Review: How I Use AI Agents Without Losing Control](https://imdhemy.com/blog/coding-agents/plan-code-review-how-i-use-ai-agents-without-losing-control.html) (3 weeks ago)
+- [Plan, Code, Review: How I Use AI Agents Without Losing Control](https://imdhemy.com/blog/coding-agents/plan-code-review-how-i-use-ai-agents-without-losing-control.html) (4 weeks ago)
 - [A Simple Currying Refactor: Remove Pass-Through Arguments](https://imdhemy.com/blog/fp/core-heuristic-pass-through-argument-elimination.html) (2 months ago)
 - [Currying in JavaScript](https://imdhemy.com/blog/fp/currying-in-javascript.html) (2 months ago)
 
