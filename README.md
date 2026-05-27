@@ -4,15 +4,15 @@ I'm a software engineer and customer data expert focused on turning raw data int
 
 #### 👷 Check out what I'm currently working on
 
-- [openkairos/aletheia](https://github.com/openkairos/aletheia) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards. (1 day ago)
-- [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (2 days ago)
-- [koala-ts/koala-ts.github.io](https://github.com/koala-ts/koala-ts.github.io) -  (2 days ago)
+- [openkairos/openkairos.github.io](https://github.com/openkairos/openkairos.github.io) - Open Kairos Docs (1 day ago)
+- [openkairos/aletheia](https://github.com/openkairos/aletheia) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards. (2 days ago)
+- [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [openkairos/kairos](https://github.com/openkairos/kairos) ([0.0.2](https://github.com/openkairos/kairos/releases/tag/0.0.2), 2 days ago) - A customer data engine that unifies events, identities, and insights into one smart platform.
-- [koala-ts/framework](https://github.com/koala-ts/framework) ([2.18.0](https://github.com/koala-ts/framework/releases/tag/2.18.0), 3 days ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.13.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.13.0), 3 weeks ago) - Google Play billing
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.14.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.14.0), 1 day ago) - Google Play billing
+- [openkairos/aletheia](https://github.com/openkairos/aletheia) ([0.0.2](https://github.com/openkairos/aletheia/releases/tag/0.0.2), 1 day ago) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards.
+- [openkairos/kairos](https://github.com/openkairos/kairos) ([0.0.2](https://github.com/openkairos/kairos/releases/tag/0.0.2), 3 days ago) - A customer data engine that unifies events, identities, and insights into one smart platform.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
