@@ -4,15 +4,15 @@ I'm a software engineer and customer data expert focused on turning raw data int
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) -  (1 day ago)
-- [openkairos/openkairos.github.io](https://github.com/openkairos/openkairos.github.io) - Open Kairos Docs (3 days ago)
-- [openkairos/aletheia](https://github.com/openkairos/aletheia) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards. (4 days ago)
+- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) -  (2 days ago)
+- [openkairos/openkairos.github.io](https://github.com/openkairos/openkairos.github.io) - Open Kairos Docs (4 days ago)
+- [openkairos/aletheia](https://github.com/openkairos/aletheia) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards. (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) ([1.8.0](https://github.com/imdhemy/imdhemy-jekyll-theme/releases/tag/1.8.0), 1 day ago) - 
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.14.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.14.0), 3 days ago) - Google Play billing
-- [openkairos/aletheia](https://github.com/openkairos/aletheia) ([0.0.2](https://github.com/openkairos/aletheia/releases/tag/0.0.2), 3 days ago) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards.
+- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) ([1.8.0](https://github.com/imdhemy/imdhemy-jekyll-theme/releases/tag/1.8.0), 2 days ago) - 
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.14.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.14.0), 4 days ago) - Google Play billing
+- [openkairos/aletheia](https://github.com/openkairos/aletheia) ([0.0.2](https://github.com/openkairos/aletheia/releases/tag/0.0.2), 4 days ago) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
