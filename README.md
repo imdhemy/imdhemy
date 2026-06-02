@@ -5,14 +5,14 @@ I'm a software engineer and customer data expert focused on turning raw data int
 #### 👷 Check out what I'm currently working on
 
 - [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (1 day ago)
-- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (2 days ago)
-- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) -  (4 days ago)
+- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (3 days ago)
+- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) -  (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) ([1.8.0](https://github.com/imdhemy/imdhemy-jekyll-theme/releases/tag/1.8.0), 4 days ago) - 
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.14.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.14.0), 6 days ago) - Google Play billing
-- [openkairos/aletheia](https://github.com/openkairos/aletheia) ([0.0.2](https://github.com/openkairos/aletheia/releases/tag/0.0.2), 6 days ago) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards.
+- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) ([1.8.0](https://github.com/imdhemy/imdhemy-jekyll-theme/releases/tag/1.8.0), 5 days ago) - 
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.14.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.14.0), 1 week ago) - Google Play billing
+- [openkairos/aletheia](https://github.com/openkairos/aletheia) ([0.0.2](https://github.com/openkairos/aletheia/releases/tag/0.0.2), 1 week ago) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards.
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
