@@ -4,13 +4,13 @@ I'm a software engineer and customer data expert focused on turning raw data int
 
 #### 👷 Check out what I'm currently working on
 
-- [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (1 day ago)
-- [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (2 days ago)
-- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (4 days ago)
+- [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (2 days ago)
+- [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (3 days ago)
+- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) ([1.8.0](https://github.com/imdhemy/imdhemy-jekyll-theme/releases/tag/1.8.0), 6 days ago) - 
+- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) ([1.8.0](https://github.com/imdhemy/imdhemy-jekyll-theme/releases/tag/1.8.0), 1 week ago) - 
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.14.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.14.0), 1 week ago) - Google Play billing
 - [openkairos/aletheia](https://github.com/openkairos/aletheia) ([0.0.2](https://github.com/openkairos/aletheia/releases/tag/0.0.2), 1 week ago) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards.
 
