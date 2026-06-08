@@ -4,14 +4,14 @@ I'm a software engineer and customer data expert focused on turning raw data int
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) -  (2 days ago)
-- [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (3 days ago)
-- [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (6 days ago)
+- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) -  (3 days ago)
+- [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (4 days ago)
+- [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) ([1.9.0](https://github.com/imdhemy/imdhemy-jekyll-theme/releases/tag/1.9.0), 2 days ago) - 
-- [koala-ts/framework](https://github.com/koala-ts/framework) ([2.18.1](https://github.com/koala-ts/framework/releases/tag/2.18.1), 3 days ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
+- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) ([1.9.0](https://github.com/imdhemy/imdhemy-jekyll-theme/releases/tag/1.9.0), 3 days ago) - 
+- [koala-ts/framework](https://github.com/koala-ts/framework) ([2.18.1](https://github.com/koala-ts/framework/releases/tag/2.18.1), 4 days ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.14.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.14.0), 1 week ago) - Google Play billing
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
