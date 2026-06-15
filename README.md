@@ -16,9 +16,9 @@ I'm a software engineer and customer data expert focused on turning raw data int
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
+- [Write pure functions and eat your vegetables](https://imdhemy.com/blog/fp/write-pure-functions-and-eat-your-vegetables.html) (1 day ago)
 - [Plan, Code, Review: How I Use AI Agents Without Losing Control](https://imdhemy.com/blog/coding-agents/plan-code-review-how-i-use-ai-agents-without-losing-control.html) (1 month ago)
 - [A Simple Currying Refactor: Remove Pass-Through Arguments](https://imdhemy.com/blog/fp/core-heuristic-pass-through-argument-elimination.html) (3 months ago)
-- [Currying in JavaScript](https://imdhemy.com/blog/fp/currying-in-javascript.html) (3 months ago)
 
 #### 📫 How to reach me
 
