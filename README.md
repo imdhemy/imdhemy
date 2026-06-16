@@ -4,7 +4,7 @@ I'm a software engineer and customer data expert focused on turning raw data int
 
 #### 👷 Check out what I'm currently working on
 
-- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (1 day ago)
+- [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (2 days ago)
 - [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) -  (1 week ago)
 - [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (1 week ago)
 
@@ -12,11 +12,11 @@ I'm a software engineer and customer data expert focused on turning raw data int
 
 - [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) ([1.9.0](https://github.com/imdhemy/imdhemy-jekyll-theme/releases/tag/1.9.0), 1 week ago) - 
 - [koala-ts/framework](https://github.com/koala-ts/framework) ([2.18.1](https://github.com/koala-ts/framework/releases/tag/2.18.1), 1 week ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.14.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.14.0), 2 weeks ago) - Google Play billing
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.14.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.14.0), 3 weeks ago) - Google Play billing
 
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
-- [Write pure functions and eat your vegetables](https://imdhemy.com/blog/fp/write-pure-functions-and-eat-your-vegetables.html) (1 day ago)
+- [Write pure functions and eat your vegetables](https://imdhemy.com/blog/fp/write-pure-functions-and-eat-your-vegetables.html) (2 days ago)
 - [Plan, Code, Review: How I Use AI Agents Without Losing Control](https://imdhemy.com/blog/coding-agents/plan-code-review-how-i-use-ai-agents-without-losing-control.html) (1 month ago)
 - [A Simple Currying Refactor: Remove Pass-Through Arguments](https://imdhemy.com/blog/fp/core-heuristic-pass-through-argument-elimination.html) (3 months ago)
 
