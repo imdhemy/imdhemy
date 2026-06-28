@@ -17,7 +17,7 @@ I'm a software engineer and customer data expert focused on turning raw data int
 #### 📜 My recent [blog posts](https://imdhemy.com/)
 
 - [AI Makes You Faster, Not Better](https://imdhemy.com/blog/generic/ai-makes-you-faster-not-better.html) (1 week ago)
-- [Write pure functions and eat your vegetables](https://imdhemy.com/blog/fp/write-pure-functions-and-eat-your-vegetables.html) (1 week ago)
+- [Write pure functions and eat your vegetables](https://imdhemy.com/blog/fp/write-pure-functions-and-eat-your-vegetables.html) (2 weeks ago)
 - [Plan, Code, Review: How I Use AI Agents Without Losing Control](https://imdhemy.com/blog/coding-agents/plan-code-review-how-i-use-ai-agents-without-losing-control.html) (2 months ago)
 
 #### 📫 How to reach me
