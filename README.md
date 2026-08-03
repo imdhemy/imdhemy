@@ -4,8 +4,8 @@ I'm a software engineer and customer data expert focused on turning raw data int
 
 #### 👷 Check out what I'm currently working on
 
-- [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (3 weeks ago)
 - [koala-ts/contracts](https://github.com/koala-ts/contracts) - Shared contracts for KoalaTs packages (3 weeks ago)
+- [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (3 weeks ago)
 - [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
