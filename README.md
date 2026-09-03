@@ -15,7 +15,7 @@ I also maintain open-source packages for App Store and Google Play purchases wit
 #### 🔭 Latest releases I've contributed to
 
 - [koala-ts/framework](https://github.com/koala-ts/framework) ([2.28.11](https://github.com/koala-ts/framework/releases/tag/2.28.11), 1 month ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
-- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) ([1.9.0](https://github.com/imdhemy/imdhemy-jekyll-theme/releases/tag/1.9.0), 2 months ago) - 
+- [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) ([1.9.0](https://github.com/imdhemy/imdhemy-jekyll-theme/releases/tag/1.9.0), 3 months ago) - 
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.14.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.14.0), 3 months ago) - Google Play billing
 
 #### 📜 Recent blog posts
