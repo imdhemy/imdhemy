@@ -8,15 +8,15 @@ I also maintain open-source packages for App Store and Google Play purchases wit
 
 #### 👷 What I'm currently working on
 
+- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine. (1 day ago)
 - [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (1 week ago)
 - [koala-ts/contracts](https://github.com/koala-ts/contracts) - Shared contracts for KoalaTs packages (1 month ago)
-- [koala-ts/framework](https://github.com/koala-ts/framework) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) ([3.8.0](https://github.com/opensearch-project/OpenSearch/releases/tag/3.8.0), 1 month ago) - 🔎 Open source distributed and RESTful search engine.
 - [koala-ts/framework](https://github.com/koala-ts/framework) ([2.28.11](https://github.com/koala-ts/framework/releases/tag/2.28.11), 1 month ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
 - [imdhemy/imdhemy-jekyll-theme](https://github.com/imdhemy/imdhemy-jekyll-theme) ([1.9.0](https://github.com/imdhemy/imdhemy-jekyll-theme/releases/tag/1.9.0), 3 months ago) - 
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.14.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.14.0), 3 months ago) - Google Play billing
 
 #### 📜 Recent blog posts
 
