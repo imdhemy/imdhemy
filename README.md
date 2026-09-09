@@ -8,7 +8,7 @@ I also maintain open-source packages for App Store and Google Play purchases wit
 
 #### 👷 What I'm currently working on
 
-- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine. (5 days ago)
+- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine. (6 days ago)
 - [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (2 weeks ago)
 - [koala-ts/contracts](https://github.com/koala-ts/contracts) - Shared contracts for KoalaTs packages (1 month ago)
 
