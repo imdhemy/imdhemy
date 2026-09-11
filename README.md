@@ -8,9 +8,9 @@ I also maintain open-source packages for App Store and Google Play purchases wit
 
 #### 👷 What I'm currently working on
 
+- [imdhemy/horus](https://github.com/imdhemy/horus) - A JavaScript NES emulator (1 day ago)
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine. (1 week ago)
 - [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (2 weeks ago)
-- [koala-ts/contracts](https://github.com/koala-ts/contracts) - Shared contracts for KoalaTs packages (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
