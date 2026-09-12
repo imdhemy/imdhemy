@@ -21,7 +21,7 @@ I also maintain open-source packages for App Store and Google Play purchases wit
 #### 📜 Recent blog posts
 
 - [AI Makes You Faster, Not Better](https://imdhemy.com/blog/generic/ai-makes-you-faster-not-better.html) (2 months ago)
-- [Write pure functions and eat your vegetables](https://imdhemy.com/blog/fp/write-pure-functions-and-eat-your-vegetables.html) (2 months ago)
+- [Write pure functions and eat your vegetables](https://imdhemy.com/blog/fp/write-pure-functions-and-eat-your-vegetables.html) (3 months ago)
 - [Plan, Code, Review: How I Use AI Agents Without Losing Control](https://imdhemy.com/blog/coding-agents/plan-code-review-how-i-use-ai-agents-without-losing-control.html) (4 months ago)
 
 #### 📫 Connect with me
