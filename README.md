@@ -8,8 +8,8 @@ I also maintain open-source packages for App Store and Google Play purchases wit
 
 #### 👷 What I'm currently working on
 
-- [imdhemy/horus](https://github.com/imdhemy/horus) - A JavaScript NES emulator (4 days ago)
-- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine. (2 weeks ago)
+- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine. (1 day ago)
+- [imdhemy/horus](https://github.com/imdhemy/horus) - A JavaScript NES emulator (5 days ago)
 - [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -20,7 +20,7 @@ I also maintain open-source packages for App Store and Google Play purchases wit
 
 #### 📜 Recent blog posts
 
-- [AI Makes You Faster, Not Better](https://imdhemy.com/blog/generic/ai-makes-you-faster-not-better.html) (2 months ago)
+- [AI Makes You Faster, Not Better](https://imdhemy.com/blog/generic/ai-makes-you-faster-not-better.html) (3 months ago)
 - [Write pure functions and eat your vegetables](https://imdhemy.com/blog/fp/write-pure-functions-and-eat-your-vegetables.html) (3 months ago)
 - [Plan, Code, Review: How I Use AI Agents Without Losing Control](https://imdhemy.com/blog/coding-agents/plan-code-review-how-i-use-ai-agents-without-losing-control.html) (4 months ago)
 
