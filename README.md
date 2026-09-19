@@ -8,8 +8,8 @@ I also maintain open-source packages for App Store and Google Play purchases wit
 
 #### 👷 What I'm currently working on
 
-- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine. (1 day ago)
-- [imdhemy/horus](https://github.com/imdhemy/horus) - A JavaScript NES emulator (5 days ago)
+- [imdhemy/horus](https://github.com/imdhemy/horus) - A JavaScript NES emulator (1 day ago)
+- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine. (2 days ago)
 - [imdhemy/imdhemy.github.io](https://github.com/imdhemy/imdhemy.github.io) - Personal Blog (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
