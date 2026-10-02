@@ -8,13 +8,13 @@ I also maintain open-source packages for App Store and Google Play purchases wit
 
 #### 👷 What I'm currently working on
 
-- [imdhemy/horus](https://github.com/imdhemy/horus) - A JavaScript NES emulator (4 days ago)
+- [imdhemy/horus](https://github.com/imdhemy/horus) - A JavaScript NES emulator (5 days ago)
 - [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton. (1 week ago)
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) ([3.9.0](https://github.com/opensearch-project/OpenSearch/releases/tag/3.9.0), 2 days ago) - 🔎 Open source distributed and RESTful search engine.
+- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) ([3.9.0](https://github.com/opensearch-project/OpenSearch/releases/tag/3.9.0), 3 days ago) - 🔎 Open source distributed and RESTful search engine.
 - [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.10.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.10.0), 1 week ago) - PHP App store In-App Purchase implementaiton.
 - [koala-ts/framework](https://github.com/koala-ts/framework) ([2.28.11](https://github.com/koala-ts/framework/releases/tag/2.28.11), 2 months ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
 
