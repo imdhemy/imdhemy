@@ -9,19 +9,19 @@ I also maintain open-source packages for App Store and Google Play purchases wit
 #### 👷 What I'm currently working on
 
 - [imdhemy/horus](https://github.com/imdhemy/horus) - A JavaScript NES emulator (1 week ago)
-- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton. (2 weeks ago)
+- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton. (3 weeks ago)
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine. (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) ([3.9.0](https://github.com/opensearch-project/OpenSearch/releases/tag/3.9.0), 1 week ago) - 🔎 Open source distributed and RESTful search engine.
-- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.10.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.10.0), 2 weeks ago) - PHP App store In-App Purchase implementaiton.
+- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.10.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.10.0), 3 weeks ago) - PHP App store In-App Purchase implementaiton.
 - [koala-ts/framework](https://github.com/koala-ts/framework) ([2.28.11](https://github.com/koala-ts/framework/releases/tag/2.28.11), 3 months ago) - KoalaTs is crafted for the laziest backend developers because nothing pairs better with clean APIs than a good nap.
 
 #### 📜 Recent blog posts
 
 - [AI Makes You Faster, Not Better](https://imdhemy.com/blog/generic/ai-makes-you-faster-not-better.html) (3 months ago)
-- [Write pure functions and eat your vegetables](https://imdhemy.com/blog/fp/write-pure-functions-and-eat-your-vegetables.html) (3 months ago)
+- [Write pure functions and eat your vegetables](https://imdhemy.com/blog/fp/write-pure-functions-and-eat-your-vegetables.html) (4 months ago)
 - [Plan, Code, Review: How I Use AI Agents Without Losing Control](https://imdhemy.com/blog/coding-agents/plan-code-review-how-i-use-ai-agents-without-losing-control.html) (5 months ago)
 
 #### 📫 Connect with me
