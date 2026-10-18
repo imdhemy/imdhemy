@@ -8,8 +8,8 @@ I also maintain open-source packages for App Store and Google Play purchases wit
 
 #### 👷 What I'm currently working on
 
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (3 days ago)
-- [imdhemy/horus](https://github.com/imdhemy/horus) - A JavaScript NES emulator (1 week ago)
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (4 days ago)
+- [imdhemy/horus](https://github.com/imdhemy/horus) - A JavaScript NES emulator (2 weeks ago)
 - [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton. (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -20,7 +20,7 @@ I also maintain open-source packages for App Store and Google Play purchases wit
 
 #### 📜 Recent blog posts
 
-- [AI Makes You Faster, Not Better](https://imdhemy.com/blog/generic/ai-makes-you-faster-not-better.html) (3 months ago)
+- [AI Makes You Faster, Not Better](https://imdhemy.com/blog/generic/ai-makes-you-faster-not-better.html) (4 months ago)
 - [Write pure functions and eat your vegetables](https://imdhemy.com/blog/fp/write-pure-functions-and-eat-your-vegetables.html) (4 months ago)
 - [Plan, Code, Review: How I Use AI Agents Without Losing Control](https://imdhemy.com/blog/coding-agents/plan-code-review-how-i-use-ai-agents-without-losing-control.html) (5 months ago)
 
