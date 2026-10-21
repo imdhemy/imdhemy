@@ -8,21 +8,21 @@ I also maintain open-source packages for App Store and Google Play purchases wit
 
 #### 👷 What I'm currently working on
 
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (2 days ago)
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (1 day ago)
 - [imdhemy/horus](https://github.com/imdhemy/horus) - A JavaScript NES emulator (2 weeks ago)
-- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton. (4 weeks ago)
+- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.19.1](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.19.1), 2 days ago) - Validate products and subscription receipts. Handle subscription lifecycle.
-- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) ([3.9.0](https://github.com/opensearch-project/OpenSearch/releases/tag/3.9.0), 3 weeks ago) - 🔎 Open source distributed and RESTful search engine.
-- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.10.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.10.0), 4 weeks ago) - PHP App store In-App Purchase implementaiton.
+- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) ([2.19.7](https://github.com/opensearch-project/OpenSearch/releases/tag/2.19.7), 1 day ago) - 🔎 Open source distributed and RESTful search engine.
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.19.2](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.19.2), 1 day ago) - Validate products and subscription receipts. Handle subscription lifecycle.
+- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.10.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.10.0), 1 month ago) - PHP App store In-App Purchase implementaiton.
 
 #### 📜 Recent blog posts
 
 - [AI Makes You Faster, Not Better](https://imdhemy.com/blog/generic/ai-makes-you-faster-not-better.html) (4 months ago)
 - [Write pure functions and eat your vegetables](https://imdhemy.com/blog/fp/write-pure-functions-and-eat-your-vegetables.html) (4 months ago)
-- [Plan, Code, Review: How I Use AI Agents Without Losing Control](https://imdhemy.com/blog/coding-agents/plan-code-review-how-i-use-ai-agents-without-losing-control.html) (5 months ago)
+- [Plan, Code, Review: How I Use AI Agents Without Losing Control](https://imdhemy.com/blog/coding-agents/plan-code-review-how-i-use-ai-agents-without-losing-control.html) (6 months ago)
 
 #### 📫 Connect with me
 
