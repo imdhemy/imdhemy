@@ -14,8 +14,8 @@ I also maintain open-source packages for App Store and Google Play purchases wit
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.20.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.20.0), 1 day ago) - Validate products and subscription receipts. Handle subscription lifecycle.
-- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) ([2.19.7](https://github.com/opensearch-project/OpenSearch/releases/tag/2.19.7), 3 days ago) - 🔎 Open source distributed and RESTful search engine.
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.20.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.20.0), 2 days ago) - Validate products and subscription receipts. Handle subscription lifecycle.
+- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) ([2.19.7](https://github.com/opensearch-project/OpenSearch/releases/tag/2.19.7), 4 days ago) - 🔎 Open source distributed and RESTful search engine.
 - [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.10.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.10.0), 1 month ago) - PHP App store In-App Purchase implementaiton.
 
 #### 📜 Recent blog posts
