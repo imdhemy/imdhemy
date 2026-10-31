@@ -8,14 +8,14 @@ I also maintain open-source packages for App Store and Google Play purchases wit
 
 #### 👷 What I'm currently working on
 
-- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton. (3 days ago)
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (3 days ago)
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (6 days ago)
+- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton. (4 days ago)
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (4 days ago)
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.15.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.15.0), 3 days ago) - Google Play billing
-- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.11.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.11.0), 6 days ago) - PHP App store In-App Purchase implementaiton.
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.15.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.15.0), 4 days ago) - Google Play billing
+- [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.11.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.11.0), 1 week ago) - PHP App store In-App Purchase implementaiton.
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.20.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.20.0), 1 week ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 
 #### 📜 Recent blog posts
