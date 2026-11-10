@@ -8,13 +8,13 @@ I also maintain open-source packages for App Store and Google Play purchases wit
 
 #### 👷 What I'm currently working on
 
-- [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (5 days ago)
-- [openkairos/aletheia](https://github.com/openkairos/aletheia) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards. (5 days ago)
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (6 days ago)
+- [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (6 days ago)
+- [openkairos/aletheia](https://github.com/openkairos/aletheia) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards. (6 days ago)
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.15.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.15.0), 1 week ago) - Google Play billing
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.15.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.15.0), 2 weeks ago) - Google Play billing
 - [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.11.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.11.0), 2 weeks ago) - PHP App store In-App Purchase implementaiton.
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.20.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.20.0), 2 weeks ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 
