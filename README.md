@@ -8,8 +8,8 @@ I also maintain open-source packages for App Store and Google Play purchases wit
 
 #### 👷 What I'm currently working on
 
-- [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (6 days ago)
-- [openkairos/aletheia](https://github.com/openkairos/aletheia) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards. (6 days ago)
+- [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (1 week ago)
+- [openkairos/aletheia](https://github.com/openkairos/aletheia) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards. (1 week ago)
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -21,7 +21,7 @@ I also maintain open-source packages for App Store and Google Play purchases wit
 #### 📜 Recent blog posts
 
 - [AI Makes You Faster, Not Better](https://imdhemy.com/blog/generic/ai-makes-you-faster-not-better.html) (4 months ago)
-- [Write pure functions and eat your vegetables](https://imdhemy.com/blog/fp/write-pure-functions-and-eat-your-vegetables.html) (4 months ago)
+- [Write pure functions and eat your vegetables](https://imdhemy.com/blog/fp/write-pure-functions-and-eat-your-vegetables.html) (5 months ago)
 - [Plan, Code, Review: How I Use AI Agents Without Losing Control](https://imdhemy.com/blog/coding-agents/plan-code-review-how-i-use-ai-agents-without-losing-control.html) (6 months ago)
 
 #### 📫 Connect with me
