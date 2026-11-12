@@ -16,7 +16,7 @@ I also maintain open-source packages for App Store and Google Play purchases wit
 
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.15.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.15.0), 2 weeks ago) - Google Play billing
 - [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) ([1.11.0](https://github.com/imdhemy/appstore-iap/releases/tag/1.11.0), 2 weeks ago) - PHP App store In-App Purchase implementaiton.
-- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.20.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.20.0), 2 weeks ago) - Validate products and subscription receipts. Handle subscription lifecycle.
+- [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) ([1.20.0](https://github.com/imdhemy/laravel-in-app-purchases/releases/tag/1.20.0), 3 weeks ago) - Validate products and subscription receipts. Handle subscription lifecycle.
 
 #### 📜 Recent blog posts
 
