@@ -14,7 +14,7 @@ I also maintain open-source packages for App Store and Google Play purchases wit
 
 #### 🔭 Latest releases I've contributed to
 
-- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) ([3.10.0](https://github.com/opensearch-project/OpenSearch/releases/tag/3.10.0), 3 days ago) - 🔎 Open source distributed and RESTful search engine.
+- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) ([3.10.0](https://github.com/opensearch-project/OpenSearch/releases/tag/3.10.0), 4 days ago) - 🔎 Open source distributed and RESTful search engine.
 - [openkairos/kairos](https://github.com/openkairos/kairos) ([0.0.5](https://github.com/openkairos/kairos/releases/tag/0.0.5), 1 week ago) - A customer data engine that unifies events, identities, and insights into one smart platform.
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.15.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.15.0), 3 weeks ago) - Google Play billing
 
