@@ -1,10 +1,8 @@
 ### Hi there 👋 I'm Dhemy
 
-I'm a pragmatic backend engineer focused on modernizing complex systems, reducing technical debt, and improving reliability. I combine hands-on engineering with practical decisions that help teams deliver quickly while maintaining quality.
-
-At Reservix, I led technical direction for customer data systems serving roughly one million contacts. My work included distributed, event-driven services, data modeling, search architecture, testing infrastructure, CI/CD, and infrastructure as code.
-
-I also maintain open-source packages for App Store and Google Play purchases with more than 3 million combined downloads. I write about backend engineering, software design, testing, and distributed systems at [imdhemy.com](https://imdhemy.com/).
+A Pragmatic backend engineer with over a decade of experience modernizing complex systems, reducing technical debt, and
+improving reliability. I combine hands-on engineering with practical decisions that help teams deliver and maintain
+quality.
 
 #### 👷 What I'm currently working on
 {{range recentContributions 3}}
