@@ -8,13 +8,13 @@ I also maintain open-source packages for App Store and Google Play purchases wit
 
 #### 👷 What I'm currently working on
 
+- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (1 day ago)
 - [openkairos/kairos](https://github.com/openkairos/kairos) - A customer data engine that unifies events, identities, and insights into one smart platform. (2 weeks ago)
 - [openkairos/aletheia](https://github.com/openkairos/aletheia) - A visual interface for Kairos that reveals customer insights through clean analytics and intuitive dashboards. (3 weeks ago)
-- [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - Google Play billing (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) ([3.10.1](https://github.com/opensearch-project/OpenSearch/releases/tag/3.10.1), 3 days ago) - 🔎 Open source distributed and RESTful search engine.
+- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) ([3.10.1](https://github.com/opensearch-project/OpenSearch/releases/tag/3.10.1), 4 days ago) - 🔎 Open source distributed and RESTful search engine.
 - [openkairos/kairos](https://github.com/openkairos/kairos) ([0.0.5](https://github.com/openkairos/kairos/releases/tag/0.0.5), 2 weeks ago) - A customer data engine that unifies events, identities, and insights into one smart platform.
 - [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) ([1.15.0](https://github.com/imdhemy/google-play-billing/releases/tag/1.15.0), 1 month ago) - Google Play billing
 
