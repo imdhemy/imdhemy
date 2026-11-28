@@ -21,7 +21,5 @@ quality.
 
 #### 📫 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/imdhemy/)
-- [GitHub](https://github.com/imdhemy)
-- [Blog](https://imdhemy.com/)
-- [X](https://twitter.com/imdhemy)
+- LinkedIn: https://www.linkedin.com/in/imdhemy
+- Blog: https://imdhemy.com
