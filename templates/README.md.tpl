@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Dhemy
 
+<img align="right" src="templates/krokonil-ffm.png" alt="Krokonil Frankfurt" width="240">
+
 A Pragmatic backend engineer with over a decade of experience modernizing complex systems, reducing technical debt, and
 improving reliability. I combine hands-on engineering with practical decisions that help teams deliver and maintain
 quality.
